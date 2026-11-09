@@ -1,0 +1,24 @@
+{
+  "ticker": "GRMN",
+  "company": "GARMIN LTD",
+  "filing_date": "2026-02-18",
+  "accession": "0001193125-26-056028",
+  "doc": "grmn-20251227.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/GRMN_000119312526056028.html",
+  "raw_chars": 4964820,
+  "stripped_chars": 4846663,
+  "strip_saved": 118157,
+  "text_chars": 401673,
+  "headings_candidates": 24,
+  "headings_selected": 18,
+  "toc_dropped": 6,
+  "item_chars": {
+    "1": 6032,
+    "1A": 5032,
+    "7": 10033,
+    "8": 9000
+  },
+  "total_chars": 29883,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/GRMN.md"
+}

@@ -1,0 +1,555 @@
+{
+  "generated": "2026-11-09T16:30:00+00:00",
+  "cycle": "2026-11-09",
+  "scored_count": 11,
+  "excluded_mcap_policy": {
+    "BKNG": "mcap $120.7B \u2014 excluded per wiki policy (>=100B)",
+    "CME": "mcap $109.5B \u2014 excluded per wiki policy (>=100B)",
+    "LRCX": "mcap $250.8B \u2014 excluded per wiki policy (>=100B, near ceiling)",
+    "SHEL": "mcap $290.0B \u2014 excluded per wiki policy (>=100B, at ceiling)",
+    "SPGI": "mcap $135.6B \u2014 excluded per wiki policy (>=100B)",
+    "TD": "mcap $206.8B \u2014 excluded per wiki policy (>=100B)",
+    "TMUS": "mcap $171.6B \u2014 excluded per wiki policy (>=100B)"
+  },
+  "tickers": {
+    "ADT": {
+      "ticker": "ADT",
+      "name": "Adtalem Global Education",
+      "sector": "Consumer Discretionary",
+      "industry": "Education Services",
+      "market_cap": 6663535900,
+      "price": 9.86,
+      "data_coverage": 1.0,
+      "financial_100": {
+        "total": 62,
+        "adjusted": 62,
+        "data_coverage": 1.0,
+        "gap_bands": []
+      },
+      "catalyst_100": 0,
+      "valuation_100": 30,
+      "technical_100": 20,
+      "pillar_scores": {
+        "financial_100": 62,
+        "catalyst_100": 0,
+        "valuation_100": 30,
+        "technical_100": 20
+      },
+      "bifurcation": {
+        "track_a_pillars": {
+          "p1": 0,
+          "p2": 7,
+          "p3": 3,
+          "p4": 0
+        },
+        "track_a_score": 10,
+        "track_a_pillars_note": "P1=engine 0 no GM delta; P2=education competitive; P3=overbought no squeeze; P4=0 no evidence",
+        "track_b_pillars": {
+          "p1": 20,
+          "p2": 5,
+          "p3": 5,
+          "p4": 0
+        },
+        "track_b_score": 30,
+        "track_b_pillars_note": "P1=runway 20; P2=no chokepoint; P3=no edge; P4=0",
+        "track_c_reasons": "Severity 50, hype 10 (overbought run without substance)",
+        "track_c_score": 40,
+        "dilution_kill": false
+      },
+      "best_track_score": 30,
+      "pre_print": null,
+      "earnings_laned": null,
+      "red_team": null
+    },
+    "AMTM": {
+      "ticker": "AMTM",
+      "name": "Applied Marine Technologies",
+      "sector": "Industrials",
+      "industry": "Marine Services",
+      "market_cap": 5195761276,
+      "price": 21.25,
+      "data_coverage": 1.0,
+      "financial_100": {
+        "total": 70,
+        "adjusted": 70,
+        "data_coverage": 1.0,
+        "gap_bands": []
+      },
+      "catalyst_100": 0,
+      "valuation_100": 55,
+      "technical_100": 50,
+      "pillar_scores": {
+        "financial_100": 70,
+        "catalyst_100": 0,
+        "valuation_100": 55,
+        "technical_100": 50
+      },
+      "bifurcation": {
+        "track_a_pillars": {
+          "p1": 0,
+          "p2": 8,
+          "p3": 5,
+          "p4": 0
+        },
+        "track_a_score": 13,
+        "track_a_pillars_note": "P1=engine 0; P2=marine services moderate; P3=no squeeze/edge; P4=0",
+        "track_b_pillars": {
+          "p1": 20,
+          "p2": 5,
+          "p3": 5,
+          "p4": 0
+        },
+        "track_b_score": 30,
+        "track_b_pillars_note": "P1=runway 20; P2=no chokepoint; P3=no tech edge; P4=0",
+        "track_c_reasons": "Severity 30, hype 5 (neutral), solid financials",
+        "track_c_score": 65,
+        "dilution_kill": false
+      },
+      "best_track_score": 30,
+      "pre_print": null,
+      "earnings_laned": null,
+      "red_team": null
+    },
+    "ARLO": {
+      "ticker": "ARLO",
+      "name": "Arlo Corporation",
+      "sector": "Technology",
+      "industry": "Security Systems",
+      "market_cap": 1327948196,
+      "price": 12.34,
+      "data_coverage": 1.0,
+      "financial_100": {
+        "total": 56,
+        "adjusted": 56,
+        "data_coverage": 1.0,
+        "gap_bands": []
+      },
+      "catalyst_100": 0,
+      "valuation_100": 55,
+      "technical_100": 40,
+      "pillar_scores": {
+        "financial_100": 56,
+        "catalyst_100": 0,
+        "valuation_100": 55,
+        "technical_100": 40
+      },
+      "bifurcation": {
+        "track_a_pillars": {
+          "p1": 30,
+          "p2": 8,
+          "p3": 8,
+          "p4": 0
+        },
+        "track_a_score": 46,
+        "track_a_pillars_note": "P1=engine 30; P2=security mod moat; P3=rvol 2.03 slight interest; P4=0",
+        "track_b_pillars": {
+          "p1": 20,
+          "p2": 5,
+          "p3": 5,
+          "p4": 0
+        },
+        "track_b_score": 30,
+        "track_b_pillars_note": "P1=runway 20; P2=competitive security; P3=moderate edge; P4=0",
+        "track_c_reasons": "Severity 45, hype 10 (neutral with modest volume)",
+        "track_c_score": 45,
+        "dilution_kill": false
+      },
+      "best_track_score": 46,
+      "pre_print": null,
+      "earnings_laned": null,
+      "red_team": null
+    },
+    "BCO": {
+      "ticker": "BCO",
+      "name": "Brighthouse Financial",
+      "sector": "Financial Services",
+      "industry": "Insurance",
+      "market_cap": 4541153400,
+      "price": 110.25,
+      "data_coverage": 1.0,
+      "financial_100": {
+        "total": 48,
+        "adjusted": 48,
+        "data_coverage": 1.0,
+        "gap_bands": []
+      },
+      "catalyst_100": 0,
+      "valuation_100": 55,
+      "technical_100": 50,
+      "pillar_scores": {
+        "financial_100": 48,
+        "catalyst_100": 0,
+        "valuation_100": 55,
+        "technical_100": 50
+      },
+      "bifurcation": {
+        "track_a_pillars": {
+          "p1": 22,
+          "p2": 8,
+          "p3": 5,
+          "p4": 0
+        },
+        "track_a_score": 35,
+        "track_a_pillars_note": "P1=engine 22; P2=insurance moderate; P3=neutral; P4=0",
+        "track_b_pillars": {
+          "p1": 20,
+          "p2": 5,
+          "p3": 5,
+          "p4": 0
+        },
+        "track_b_score": 30,
+        "track_b_pillars_note": "P1=runway 20; P2=insurance competitive; P3=standard; P4=0",
+        "track_c_reasons": "Severity 50, hype 10 (insurance, no catalyst)",
+        "track_c_score": 40,
+        "dilution_kill": false
+      },
+      "best_track_score": 35,
+      "pre_print": null,
+      "earnings_laned": null,
+      "red_team": null
+    },
+    "BHE": {
+      "ticker": "BHE",
+      "name": "Barrick Gold Corporation",
+      "sector": "Materials",
+      "industry": "Gold Mining",
+      "market_cap": 2160226596,
+      "price": 60.4,
+      "data_coverage": 1.0,
+      "financial_100": {
+        "total": 60,
+        "adjusted": 60,
+        "data_coverage": 1.0,
+        "gap_bands": []
+      },
+      "catalyst_100": 0,
+      "valuation_100": 70,
+      "technical_100": 70,
+      "pillar_scores": {
+        "financial_100": 60,
+        "catalyst_100": 0,
+        "valuation_100": 70,
+        "technical_100": 70
+      },
+      "bifurcation": {
+        "track_a_pillars": {
+          "p1": 21,
+          "p2": 10,
+          "p3": 5,
+          "p4": 0
+        },
+        "track_a_score": 36,
+        "track_a_pillars_note": "P1=engine 21; P2=mining moat; P3=oversold RSI 32; P4=0",
+        "track_b_pillars": {
+          "p1": 20,
+          "p2": 8,
+          "p3": 8,
+          "p4": 0
+        },
+        "track_b_score": 36,
+        "track_b_pillars_note": "P1=runway 20; P2=gold supply chain; P3=commodity edge; P4=0",
+        "track_c_reasons": "Severity 30, hype 5 (oversold mining, fundamental support)",
+        "track_c_score": 65,
+        "dilution_kill": false
+      },
+      "best_track_score": 36,
+      "pre_print": null,
+      "earnings_laned": null,
+      "red_team": null
+    },
+    "BRC": {
+      "ticker": "BRC",
+      "name": "Brady Corporation",
+      "sector": "Industrials",
+      "industry": "Industrial Supplies",
+      "market_cap": 3691906284,
+      "price": 78.72,
+      "data_coverage": 1.0,
+      "financial_100": {
+        "total": 68,
+        "adjusted": 68,
+        "data_coverage": 1.0,
+        "gap_bands": []
+      },
+      "catalyst_100": 0,
+      "valuation_100": 65,
+      "technical_100": 65,
+      "pillar_scores": {
+        "financial_100": 68,
+        "catalyst_100": 0,
+        "valuation_100": 65,
+        "technical_100": 65
+      },
+      "bifurcation": {
+        "track_a_pillars": {
+          "p1": 30,
+          "p2": 10,
+          "p3": 5,
+          "p4": 0
+        },
+        "track_a_score": 45,
+        "track_a_pillars_note": "P1=engine 30; P2=industrial supplies moat; P3=oversold; P4=0",
+        "track_b_pillars": {
+          "p1": 20,
+          "p2": 5,
+          "p3": 8,
+          "p4": 0
+        },
+        "track_b_score": 33,
+        "track_b_pillars_note": "P1=runway 20; P2=moderate supply; P3=industrial edge; P4=0",
+        "track_c_reasons": "Severity 30, hype 5 (oversold with solid financials)",
+        "track_c_score": 65,
+        "dilution_kill": false
+      },
+      "best_track_score": 45,
+      "pre_print": null,
+      "earnings_laned": null,
+      "red_team": null
+    },
+    "CRCT": {
+      "ticker": "CRCT",
+      "name": "Secureworks",
+      "sector": "Technology",
+      "industry": "Cybersecurity Software",
+      "market_cap": 1838922008,
+      "price": 8.78,
+      "data_coverage": 1.0,
+      "financial_100": {
+        "total": 59,
+        "adjusted": 59,
+        "data_coverage": 1.0,
+        "gap_bands": []
+      },
+      "catalyst_100": 0,
+      "valuation_100": 25,
+      "technical_100": 20,
+      "pillar_scores": {
+        "financial_100": 59,
+        "catalyst_100": 0,
+        "valuation_100": 25,
+        "technical_100": 20
+      },
+      "bifurcation": {
+        "track_a_pillars": {
+          "p1": 30,
+          "p2": 8,
+          "p3": 12,
+          "p4": 0
+        },
+        "track_a_score": 50,
+        "track_a_pillars_note": "P1=engine 30; P2=cybersecurity moat; P3=rvol 2.46 squeeze potential; P4=0",
+        "track_b_pillars": {
+          "p1": 20,
+          "p2": 5,
+          "p3": 8,
+          "p4": 0
+        },
+        "track_b_score": 33,
+        "track_b_pillars_note": "P1=runway 20; P2=cyber supply chain; P3=security edge; P4=0",
+        "track_c_reasons": "Severity 40, hype 25 (44% in 5 days, no catalyst \u2014 story without substance)",
+        "track_c_score": 35,
+        "dilution_kill": false
+      },
+      "best_track_score": 50,
+      "pre_print": null,
+      "earnings_laned": null,
+      "red_team": null
+    },
+    "DAKT": {
+      "ticker": "DAKT",
+      "name": "Daikin Applied Technologies",
+      "sector": "Industrials",
+      "industry": "HVAC/Industrial Equipment",
+      "market_cap": 933478337,
+      "price": 19.41,
+      "data_coverage": 1.0,
+      "financial_100": {
+        "total": 64,
+        "adjusted": 64,
+        "data_coverage": 1.0,
+        "gap_bands": []
+      },
+      "catalyst_100": 0,
+      "valuation_100": 50,
+      "technical_100": 45,
+      "pillar_scores": {
+        "financial_100": 64,
+        "catalyst_100": 0,
+        "valuation_100": 50,
+        "technical_100": 45
+      },
+      "bifurcation": {
+        "track_a_pillars": {
+          "p1": 30,
+          "p2": 8,
+          "p3": 3,
+          "p4": 0
+        },
+        "track_a_score": 41,
+        "track_a_pillars_note": "P1=engine 30; P2=HVAC moderate moat; P3=low RVOL no action; P4=0",
+        "track_b_pillars": {
+          "p1": 20,
+          "p2": 5,
+          "p3": 5,
+          "p4": 0
+        },
+        "track_b_score": 30,
+        "track_b_pillars_note": "P1=runway 20; P2=moderate supply chain; P3=standard; P4=0",
+        "track_c_reasons": "Severity 35, hype 5 (neutral, no catalyst)",
+        "track_c_score": 60,
+        "dilution_kill": false
+      },
+      "best_track_score": 41,
+      "pre_print": null,
+      "earnings_laned": null,
+      "red_team": null
+    },
+    "FET": {
+      "ticker": "FET",
+      "name": "Fortem Technologies",
+      "sector": "Industrials",
+      "industry": "Defense/Aerospace",
+      "market_cap": 787795691,
+      "price": 69.69,
+      "data_coverage": 1.0,
+      "financial_100": {
+        "total": 55,
+        "adjusted": 55,
+        "data_coverage": 1.0,
+        "gap_bands": []
+      },
+      "catalyst_100": 80,
+      "valuation_100": 65,
+      "technical_100": 60,
+      "pillar_scores": {
+        "financial_100": 55,
+        "catalyst_100": 80,
+        "valuation_100": 65,
+        "technical_100": 60
+      },
+      "bifurcation": {
+        "track_a_pillars": {
+          "p1": 0,
+          "p2": 10,
+          "p3": 8,
+          "p4": 15
+        },
+        "track_a_score": 33,
+        "track_a_pillars_note": "P1=engine 0 (margins thin); P2=defense gov contracts=moat; P3=$1B prime contract=edge; P4=$1B contract=inflection",
+        "track_b_pillars": {
+          "p1": 20,
+          "p2": 10,
+          "p3": 10,
+          "p4": 10
+        },
+        "track_b_score": 40,
+        "track_b_pillars_note": "P1=runway 20; P2=defense supply chain; P3=defense tech edge; P4=$1B contract pipeline",
+        "track_c_reasons": "Severity 40, hype 5 ($1B contract is real substance not hype)",
+        "track_c_score": 55,
+        "dilution_kill": false
+      },
+      "pre_print": null,
+      "earnings_laned": null,
+      "red_team": null,
+      "best_track_score": 40
+    },
+    "FIVN": {
+      "ticker": "FIVN",
+      "name": "Fivery International",
+      "sector": "Financial Services",
+      "industry": "Fintech/Consumer Finance",
+      "market_cap": 2101225692,
+      "price": 28.12,
+      "data_coverage": 1.0,
+      "financial_100": {
+        "total": 60,
+        "adjusted": 60,
+        "data_coverage": 1.0,
+        "gap_bands": []
+      },
+      "catalyst_100": 15,
+      "valuation_100": 35,
+      "technical_100": 30,
+      "pillar_scores": {
+        "financial_100": 60,
+        "catalyst_100": 15,
+        "valuation_100": 35,
+        "technical_100": 30
+      },
+      "bifurcation": {
+        "track_a_pillars": {
+          "p1": 15,
+          "p2": 5,
+          "p3": 3,
+          "p4": 0
+        },
+        "track_a_score": 23,
+        "track_a_pillars_note": "P1=engine 15 (analyst dump negative); P2=competitive fintech; P3=weak; P4=0",
+        "track_b_pillars": {
+          "p1": 20,
+          "p2": 3,
+          "p3": 3,
+          "p4": 0
+        },
+        "track_b_score": 26,
+        "track_b_pillars_note": "P1=runway 20; P2=competitive fintech; P3=weak edge; P4=0",
+        "track_c_reasons": "Severity 60 (analyst dump), hype 15 (negative pressure)",
+        "track_c_score": 25,
+        "dilution_kill": false
+      },
+      "best_track_score": 26,
+      "pre_print": null,
+      "earnings_laned": null,
+      "red_team": null
+    },
+    "QUCY": {
+      "ticker": "QUCY",
+      "name": "Quantum Cyber",
+      "sector": "Technology",
+      "industry": "Quantum Computing",
+      "market_cap": 16258096,
+      "price": 0.7141,
+      "data_coverage": 1.0,
+      "financial_100": {
+        "total": 12,
+        "adjusted": 12,
+        "data_coverage": 1.0,
+        "gap_bands": []
+      },
+      "catalyst_100": 50,
+      "valuation_100": 40,
+      "technical_100": 55,
+      "pillar_scores": {
+        "financial_100": 12,
+        "catalyst_100": 50,
+        "valuation_100": 40,
+        "technical_100": 55
+      },
+      "bifurcation": {
+        "track_a_pillars": {
+          "p1": 0,
+          "p2": 3,
+          "p3": 5,
+          "p4": 0
+        },
+        "track_a_score": 8,
+        "track_a_pillars_note": "P1=engine 0 (adj 12); P2=quantum early stage; P3=oversold RSI 29.7; P4=0",
+        "track_b_pillars": {
+          "p1": 0,
+          "p2": 3,
+          "p3": 5,
+          "p4": 0
+        },
+        "track_b_score": 8,
+        "track_b_pillars_note": "P1=runway 0 (critical); P2=early quantum; P3=oversold bounce; P4=0",
+        "track_c_reasons": "Severity 85 (adj 12, runway 0), hype 15 (micro-cap quantum story)",
+        "track_c_score": 0,
+        "dilution_kill": true
+      },
+      "best_track_score": 8,
+      "pre_print": null,
+      "earnings_laned": null,
+      "red_team": null
+    }
+  }
+}

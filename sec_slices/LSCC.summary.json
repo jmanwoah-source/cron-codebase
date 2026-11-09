@@ -1,0 +1,24 @@
+{
+  "ticker": "LSCC",
+  "company": "LATTICE SEMICONDUCTOR CORP",
+  "filing_date": "2026-02-13",
+  "accession": "0001437749-26-004100",
+  "doc": "lscc20260103_10k.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/LSCC_000143774926004100.html",
+  "raw_chars": 2133651,
+  "stripped_chars": 1968185,
+  "strip_saved": 165466,
+  "text_chars": 366373,
+  "headings_candidates": 22,
+  "headings_selected": 17,
+  "toc_dropped": 5,
+  "item_chars": {
+    "1": 6032,
+    "1A": 0,
+    "7": 10033,
+    "8": 9000
+  },
+  "total_chars": 25563,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/LSCC.md"
+}

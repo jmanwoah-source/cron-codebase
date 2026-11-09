@@ -1,0 +1,19 @@
+{
+ "generated": "2026-11-09T13:18:17Z",
+ "sources": {
+  "screen_out.json": {
+   "status": "ok",
+   "detail": "screen.py 2s rc=0"
+  },
+  "transcripts_out.json": {
+   "status": "ok",
+   "detail": "transcripts.py 6s rc=0"
+  },
+  "ip_out.json": {
+   "status": "ok",
+   "detail": "ip_signal.py 45s rc=0"
+  }
+ },
+ "aggregate_rc": 0,
+ "delivery": "{\"sent\": false, \"reason\": \"no alerts\"}"
+}

@@ -1,0 +1,628 @@
+{"ts": "2026-10-25T00:40:44", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 30, "results_fresh": 30}
+{"ts": "2026-10-25T00:40:44", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 30, "results_fresh": 30}
+{"ts": "2026-10-25T00:40:44", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 30, "results_fresh": 30}
+{"ts": "2026-10-25T00:40:44", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 29, "results_fresh": 29}
+{"ts": "2026-10-25T00:40:44", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 30, "results_fresh": 30}
+{"ts": "2026-10-25T00:40:44", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 30, "results_fresh": 30}
+{"ts": "2026-10-25T00:40:44", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 28, "results_fresh": 28}
+{"ts": "2026-10-25T00:40:44", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 28, "results_fresh": 28}
+{"ts": "2026-10-25T00:40:44", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 30, "results_fresh": 30}
+{"ts": "2026-10-25T00:40:44", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 29, "results_fresh": 29}
+{"ts": "2026-10-25T00:40:44", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 30, "results_fresh": 30}
+{"ts": "2026-10-25T00:40:44", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 30, "results_fresh": 29}
+{"ts": "2026-10-25T00:40:44", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 29, "results_fresh": 29}
+{"ts": "2026-10-25T02:04:34", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 20, "results_fresh": 19}
+{"ts": "2026-10-25T02:04:34", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T02:04:34", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T02:04:34", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T02:04:34", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T02:04:34", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T02:04:34", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T02:04:34", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T02:04:34", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T02:04:34", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T02:04:34", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T02:04:34", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T02:04:34", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T02:04:34", "query": "cascade:DRIFT-002:GaN-on-Si \"power\" \"design win\" OR \"qualification\"", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T02:04:34", "query": "cascade:DRIFT-002:site:patents.google.com GaN power epitaxy on silicon", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T02:04:34", "query": "cascade:DRIFT-002:\"GaN\" power \"8-inch\" wafer volume", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T02:04:34", "query": "cascade:DRIFT-002:LED GaN epi capacity \"power electronics\" repurpose", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T06:48:54", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T06:48:54", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T06:48:54", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T06:48:54", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 9, "results_fresh": 9}
+{"ts": "2026-10-25T06:48:54", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T06:48:54", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T06:48:54", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T06:48:54", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 9, "results_fresh": 8}
+{"ts": "2026-10-25T06:48:54", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 9}
+{"ts": "2026-10-25T06:48:54", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T06:48:54", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T06:48:54", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T06:48:54", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T06:48:54", "query": "cascade:DRIFT-002:GaN-on-Si \"power\" \"design win\" OR \"qualification\"", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T06:48:54", "query": "cascade:DRIFT-002:site:patents.google.com GaN power epitaxy on silicon", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T06:48:54", "query": "cascade:DRIFT-002:\"GaN\" power \"8-inch\" wafer volume", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T06:48:54", "query": "cascade:DRIFT-002:LED GaN epi capacity \"power electronics\" repurpose", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T13:11:06", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T13:11:06", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T13:11:06", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T13:11:06", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 9, "results_fresh": 9}
+{"ts": "2026-10-25T13:11:06", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T13:11:06", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T13:11:06", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 8}
+{"ts": "2026-10-25T13:11:06", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 9}
+{"ts": "2026-10-25T13:11:06", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 9}
+{"ts": "2026-10-25T13:11:06", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T13:11:06", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T13:11:06", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 10, "results_fresh": 9}
+{"ts": "2026-10-25T13:11:06", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T13:11:06", "query": "cascade:DRIFT-002:GaN-on-Si \"power\" \"design win\" OR \"qualification\"", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T13:11:06", "query": "cascade:DRIFT-002:site:patents.google.com GaN power epitaxy on silicon", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T13:11:06", "query": "cascade:DRIFT-002:\"GaN\" power \"8-inch\" wafer volume", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T13:11:06", "query": "cascade:DRIFT-002:LED GaN epi capacity \"power electronics\" repurpose", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T19:28:21", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T19:28:21", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T19:28:21", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T19:28:21", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 9, "results_fresh": 7}
+{"ts": "2026-10-25T19:28:21", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T19:28:21", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T19:28:21", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 7}
+{"ts": "2026-10-25T19:28:21", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 9}
+{"ts": "2026-10-25T19:28:21", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 9}
+{"ts": "2026-10-25T19:28:21", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T19:28:21", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 10, "results_fresh": 9}
+{"ts": "2026-10-25T19:28:21", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T19:28:21", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-25T19:28:21", "query": "cascade:DRIFT-002:GaN-on-Si \"power\" \"design win\" OR \"qualification\"", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T19:28:21", "query": "cascade:DRIFT-002:site:patents.google.com GaN power epitaxy on silicon", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T19:28:21", "query": "cascade:DRIFT-002:\"GaN\" power \"8-inch\" wafer volume", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-25T19:28:21", "query": "cascade:DRIFT-002:LED GaN epi capacity \"power electronics\" repurpose", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T01:39:30", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 20, "results_fresh": 19}
+{"ts": "2026-10-26T01:39:30", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 20, "results_fresh": 20}
+{"ts": "2026-10-26T01:39:30", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 20, "results_fresh": 20}
+{"ts": "2026-10-26T01:39:30", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 20, "results_fresh": 20}
+{"ts": "2026-10-26T01:39:30", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 20, "results_fresh": 20}
+{"ts": "2026-10-26T01:39:30", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 20, "results_fresh": 20}
+{"ts": "2026-10-26T01:39:30", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 20, "results_fresh": 20}
+{"ts": "2026-10-26T01:39:30", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 20, "results_fresh": 18}
+{"ts": "2026-10-26T01:39:30", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 20, "results_fresh": 20}
+{"ts": "2026-10-26T01:39:30", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 20, "results_fresh": 20}
+{"ts": "2026-10-26T01:39:30", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 20, "results_fresh": 20}
+{"ts": "2026-10-26T01:39:30", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 20, "results_fresh": 20}
+{"ts": "2026-10-26T01:39:30", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 20, "results_fresh": 20}
+{"ts": "2026-10-26T01:39:30", "query": "cascade:DRIFT-002:GaN-on-Si \"power\" \"design win\" OR \"qualification\"", "sector": "cascade", "results_total": 20, "results_fresh": 20}
+{"ts": "2026-10-26T01:39:30", "query": "cascade:DRIFT-002:site:patents.google.com GaN power epitaxy on silicon", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T01:39:30", "query": "cascade:DRIFT-002:\"GaN\" power \"8-inch\" wafer volume", "sector": "cascade", "results_total": 20, "results_fresh": 19}
+{"ts": "2026-10-26T01:39:30", "query": "cascade:DRIFT-002:LED GaN epi capacity \"power electronics\" repurpose", "sector": "cascade", "results_total": 20, "results_fresh": 20}
+{"ts": "2026-10-26T01:39:30", "query": "cascade:DRIFT-001:\"gate-all-around\" etch OR deposition \"content per wafer\"", "sector": "cascade", "results_total": 6, "results_fresh": 6}
+{"ts": "2026-10-26T01:39:30", "query": "cascade:DRIFT-001:site:patents.google.com nanosheet GAA etch", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T01:39:30", "query": "cascade:DRIFT-001:GAA \"design win\" OR \"pilot\" 2nm", "sector": "cascade", "results_total": 20, "results_fresh": 20}
+{"ts": "2026-10-26T01:39:30", "query": "cascade:DRIFT-001:site:arxiv.org nanosheet transistor yield", "sector": "cascade", "results_total": 6, "results_fresh": 6}
+{"ts": "2026-10-26T01:39:30", "query": "cascade:DRIFT-005:\"liquid cooling\" default data center PPA", "sector": "cascade", "results_total": 20, "results_fresh": 17}
+{"ts": "2026-10-26T01:39:30", "query": "cascade:DRIFT-005:CDU OR \"direct-to-chip\" \"reference design\" hyperscaler", "sector": "cascade", "results_total": 20, "results_fresh": 18}
+{"ts": "2026-10-26T01:39:30", "query": "cascade:DRIFT-005:immersion cooling AI rack volume", "sector": "cascade", "results_total": 20, "results_fresh": 18}
+{"ts": "2026-10-26T01:39:30", "query": "cascade:DRIFT-005:air-cooled HVAC data center displacement liquid", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T01:39:30", "query": "cascade:DRIFT-008:co-packaged optics \"production\" OR \"default\" scale-out", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T01:39:30", "query": "cascade:DRIFT-008:site:broadcom.com OR site:marvell.com integrated optics AI", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T01:39:30", "query": "cascade:DRIFT-008:copper interconnect replace optics GPU cluster", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T01:39:30", "query": "cascade:DRIFT-008:CPO \"tied photonics\" OR \"optical engine\" volume", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T02:10:47", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T02:10:47", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-26T02:10:47", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-26T02:10:47", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 9, "results_fresh": 7}
+{"ts": "2026-10-26T02:10:47", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-26T02:10:47", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-26T02:10:47", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 7}
+{"ts": "2026-10-26T02:10:47", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 9}
+{"ts": "2026-10-26T02:10:47", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-26T02:10:47", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-26T02:10:47", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 10, "results_fresh": 9}
+{"ts": "2026-10-26T02:10:47", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-26T02:10:47", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-26T02:10:47", "query": "cascade:DRIFT-002:GaN-on-Si \"power\" \"design win\" OR \"qualification\"", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T02:10:47", "query": "cascade:DRIFT-002:site:patents.google.com GaN power epitaxy on silicon", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T02:10:47", "query": "cascade:DRIFT-002:\"GaN\" power \"8-inch\" wafer volume", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T02:10:47", "query": "cascade:DRIFT-002:LED GaN epi capacity \"power electronics\" repurpose", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T09:06:38", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-26T09:06:38", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-26T09:06:38", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T09:06:38", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T09:06:38", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T09:06:38", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T09:06:38", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T09:06:38", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T09:06:38", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T09:06:38", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T09:06:38", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T09:06:38", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T09:06:38", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T15:22:07", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T15:22:07", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T15:22:07", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T15:22:07", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T15:22:07", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T15:22:07", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T15:22:07", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T15:22:07", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T15:22:07", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T15:22:07", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T15:22:07", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T15:22:07", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T15:22:07", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T15:22:07", "query": "cascade:DRIFT-004:High-NA EUV \"HVM\" OR \"high-volume\" commitment", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T15:22:07", "query": "cascade:DRIFT-004:site:asml.com 0.55-NA tool delivery", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T15:22:07", "query": "cascade:DRIFT-004:\"High-NA\" metrology OR inspection content per wafer", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T15:22:07", "query": "cascade:DRIFT-004:low-NA alternative 14A yield", "sector": "cascade", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-26T21:29:12", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-26T21:29:12", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-26T21:29:12", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-26T21:29:12", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 9, "results_fresh": 7}
+{"ts": "2026-10-26T21:29:12", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-26T21:29:12", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-26T21:29:12", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 7}
+{"ts": "2026-10-26T21:29:12", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-26T21:29:12", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-26T21:29:12", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-26T21:29:12", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 10, "results_fresh": 9}
+{"ts": "2026-10-26T21:29:12", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-26T21:29:12", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-27T03:54:18", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T03:54:18", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T03:54:18", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T03:54:18", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T03:54:18", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T03:54:18", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T03:54:18", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T03:54:18", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T03:54:18", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T03:54:18", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T03:54:18", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T03:54:18", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T03:54:18", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T10:01:35", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-27T10:01:35", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 10, "results_fresh": 8}
+{"ts": "2026-10-27T10:01:35", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-27T10:01:35", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 9, "results_fresh": 6}
+{"ts": "2026-10-27T10:01:35", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-27T10:01:35", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-27T10:01:35", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 7}
+{"ts": "2026-10-27T10:01:35", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 9}
+{"ts": "2026-10-27T10:01:35", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-27T10:01:35", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-27T10:01:35", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 10, "results_fresh": 7}
+{"ts": "2026-10-27T10:01:35", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-27T10:01:35", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-27T16:29:31", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T16:29:31", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T16:29:31", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T16:29:31", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T16:29:31", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T16:29:31", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T16:29:31", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T16:29:31", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T16:29:31", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T16:29:31", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T16:29:31", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T16:29:31", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T16:29:31", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T22:46:48", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T22:46:48", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T22:46:48", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T22:46:48", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T22:46:48", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T22:46:48", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T22:46:48", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T22:46:48", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T22:46:48", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T22:46:48", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T22:46:48", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T22:46:48", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-27T22:46:48", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0}
+{"ts": "2026-10-28T05:00:16", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 29, "results_fresh": 28}
+{"ts": "2026-10-28T05:00:16", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 29, "results_fresh": 25}
+{"ts": "2026-10-28T05:00:16", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 29, "results_fresh": 29}
+{"ts": "2026-10-28T05:00:16", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 29, "results_fresh": 26}
+{"ts": "2026-10-28T05:00:16", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 30, "results_fresh": 30}
+{"ts": "2026-10-28T05:00:16", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 30, "results_fresh": 30}
+{"ts": "2026-10-28T05:00:16", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 26, "results_fresh": 23}
+{"ts": "2026-10-28T05:00:16", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 28, "results_fresh": 24}
+{"ts": "2026-10-28T05:00:16", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T05:00:16", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T05:00:16", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 10, "results_fresh": 6}
+{"ts": "2026-10-28T05:00:16", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T05:00:16", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T11:17:55", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T11:17:55", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 10, "results_fresh": 9}
+{"ts": "2026-10-28T11:17:55", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T11:17:55", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 9, "results_fresh": 6}
+{"ts": "2026-10-28T11:17:55", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T11:17:55", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T11:17:55", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 7}
+{"ts": "2026-10-28T11:17:55", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 9, "results_fresh": 7}
+{"ts": "2026-10-28T11:17:55", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T11:17:55", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T11:17:55", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 10, "results_fresh": 6}
+{"ts": "2026-10-28T11:17:55", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T11:17:55", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T16:45:33", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 9, "results_fresh": 9}
+{"ts": "2026-10-28T16:45:33", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 10, "results_fresh": 9}
+{"ts": "2026-10-28T16:45:33", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T16:45:33", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 9, "results_fresh": 6}
+{"ts": "2026-10-28T16:45:33", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 10, "results_fresh": 9}
+{"ts": "2026-10-28T16:45:33", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T16:45:33", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 7}
+{"ts": "2026-10-28T16:45:33", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 9, "results_fresh": 7}
+{"ts": "2026-10-28T16:45:33", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T16:45:33", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T16:45:33", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 10, "results_fresh": 7}
+{"ts": "2026-10-28T16:45:33", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 10, "results_fresh": 9}
+{"ts": "2026-10-28T16:45:33", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T16:45:33", "query": "a2:semiconductor design win sole source supplier", "sector": "semiconductors", "tag": "a2", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T16:45:33", "query": "a2:fabless tape-out customer qualification", "sector": "semiconductors", "tag": "a2", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T16:45:33", "query": "a2:power semiconductor exclusive design win", "sector": "semiconductors", "tag": "a2", "results_total": 10, "results_fresh": 9}
+{"ts": "2026-10-28T16:45:33", "query": "a2:silicon carbide filed patent power device", "sector": "semiconductors", "tag": "a2", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T16:45:33", "query": "a2:data center component design win startup", "sector": "ai-infrastructure", "tag": "a2", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T16:45:33", "query": "a2:co-packaged optics supplier design qualification", "sector": "ai-infrastructure", "tag": "a2", "results_total": 10, "results_fresh": 9}
+{"ts": "2026-10-28T17:41:30", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 8, "results_fresh": 8}
+{"ts": "2026-10-28T17:41:30", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 10, "results_fresh": 8}
+{"ts": "2026-10-28T17:41:30", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T17:41:30", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 9, "results_fresh": 6}
+{"ts": "2026-10-28T17:41:30", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 10, "results_fresh": 9}
+{"ts": "2026-10-28T17:41:30", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T17:41:30", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 7}
+{"ts": "2026-10-28T17:41:30", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 9, "results_fresh": 8}
+{"ts": "2026-10-28T17:41:30", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T17:41:30", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T17:41:30", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 10, "results_fresh": 7}
+{"ts": "2026-10-28T17:41:30", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T17:41:30", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T17:41:30", "query": "a2:semiconductor design win sole source supplier", "sector": "semiconductors", "tag": "a2", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T17:41:30", "query": "a2:fabless tape-out customer qualification", "sector": "semiconductors", "tag": "a2", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T17:41:30", "query": "a2:power semiconductor exclusive design win", "sector": "semiconductors", "tag": "a2", "results_total": 10, "results_fresh": 9}
+{"ts": "2026-10-28T17:41:30", "query": "a2:silicon carbide filed patent power device", "sector": "semiconductors", "tag": "a2", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T17:41:30", "query": "a2:data center component design win startup", "sector": "ai-infrastructure", "tag": "a2", "results_total": 10, "results_fresh": 10}
+{"ts": "2026-10-28T17:41:30", "query": "a2:co-packaged optics supplier design qualification", "sector": "ai-infrastructure", "tag": "a2", "results_total": 10, "results_fresh": 9}
+{"ts": "2026-10-28T23:13:59", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-28T23:13:59", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 10, "results_fresh": 7, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-28T23:13:59", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-28T23:13:59", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 9, "results_fresh": 6, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-28T23:13:59", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-28T23:13:59", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-28T23:13:59", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 8, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-28T23:13:59", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 9, "results_fresh": 8, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-28T23:13:59", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-28T23:13:59", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-28T23:13:59", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 10, "results_fresh": 7, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-28T23:13:59", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 10, "results_fresh": 9, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-28T23:13:59", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-28T23:13:59", "query": "a2:semiconductor design win sole source supplier", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-28T23:13:59", "query": "a2:fabless tape-out customer qualification", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-28T23:13:59", "query": "a2:power semiconductor exclusive design win", "sector": "semiconductors", "results_total": 10, "results_fresh": 9, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-28T23:13:59", "query": "a2:silicon carbide filed patent power device", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-28T23:13:59", "query": "a2:data center component design win startup", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-28T23:13:59", "query": "a2:co-packaged optics supplier design qualification", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 9, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T06:25:32", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-29T06:25:32", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 10, "results_fresh": 7, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T06:25:32", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T06:25:32", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 9, "results_fresh": 7, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T06:25:32", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T06:25:32", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T06:25:32", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 8, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T06:25:32", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 8, "results_fresh": 7, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T06:25:32", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T06:25:32", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T06:25:32", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 10, "results_fresh": 8, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T06:25:32", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 10, "results_fresh": 8, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T06:25:32", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T06:25:32", "query": "a2:semiconductor design win sole source supplier", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T06:25:32", "query": "a2:fabless tape-out customer qualification", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T06:25:32", "query": "a2:power semiconductor exclusive design win", "sector": "semiconductors", "results_total": 10, "results_fresh": 9, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T06:25:32", "query": "a2:silicon carbide filed patent power device", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T06:25:32", "query": "a2:data center component design win startup", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T06:25:32", "query": "a2:co-packaged optics supplier design qualification", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T12:39:05", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T12:39:05", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 10, "results_fresh": 7, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T12:39:05", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T12:39:05", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 9, "results_fresh": 6, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T12:39:05", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 10, "results_fresh": 9, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T12:39:05", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T12:39:05", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 8, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T12:39:05", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 9, "results_fresh": 8, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T12:39:05", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T12:39:05", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T12:39:05", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 10, "results_fresh": 8, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T12:39:05", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 10, "results_fresh": 8, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T12:39:05", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T12:39:05", "query": "a2:semiconductor design win sole source supplier", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T12:39:05", "query": "a2:fabless tape-out customer qualification", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T12:39:05", "query": "a2:power semiconductor exclusive design win", "sector": "semiconductors", "results_total": 10, "results_fresh": 9, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T12:39:05", "query": "a2:silicon carbide filed patent power device", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T12:39:05", "query": "a2:data center component design win startup", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T12:39:05", "query": "a2:co-packaged optics supplier design qualification", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T19:20:29", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-29T19:20:29", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 10, "results_fresh": 7, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T19:20:29", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T19:20:29", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 9, "results_fresh": 6, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T19:20:29", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T19:20:29", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T19:20:29", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 8, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T19:20:29", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 9, "results_fresh": 7, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T19:20:29", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T19:20:29", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T19:20:29", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 10, "results_fresh": 7, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T19:20:29", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 10, "results_fresh": 9, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T19:20:29", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T19:20:29", "query": "a2:semiconductor design win sole source supplier", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T19:20:29", "query": "a2:fabless tape-out customer qualification", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T19:20:29", "query": "a2:power semiconductor exclusive design win", "sector": "semiconductors", "results_total": 10, "results_fresh": 8, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T19:20:29", "query": "a2:silicon carbide filed patent power device", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T19:20:29", "query": "a2:data center component design win startup", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-29T19:20:29", "query": "a2:co-packaged optics supplier design qualification", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-30T02:42:05", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-30T02:42:05", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 20, "results_fresh": 18, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-30T02:42:05", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-30T02:42:05", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-30T02:42:05", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-30T02:42:05", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-30T02:42:05", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-30T02:42:05", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 20, "results_fresh": 17, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-30T02:42:05", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-30T02:42:05", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-30T02:42:05", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-30T02:42:05", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-30T02:42:05", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-30T02:42:05", "query": "a2:semiconductor design win sole source supplier", "sector": "semiconductors", "results_total": 20, "results_fresh": 20, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-30T02:42:05", "query": "a2:fabless tape-out customer qualification", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-30T02:42:05", "query": "a2:power semiconductor exclusive design win", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-30T02:42:05", "query": "a2:silicon carbide filed patent power device", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-30T02:42:05", "query": "a2:data center component design win startup", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-30T02:42:05", "query": "a2:co-packaged optics supplier design qualification", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-30T09:18:18", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-30T09:18:18", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-30T09:18:18", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-30T09:18:18", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-30T09:18:18", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-30T09:18:18", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-30T09:18:18", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-30T09:18:18", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-30T09:18:18", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-30T09:18:18", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-30T09:18:18", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-30T09:18:18", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-30T09:18:18", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-30T09:18:18", "query": "a2:semiconductor design win sole source supplier", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-30T09:18:18", "query": "a2:fabless tape-out customer qualification", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-30T09:18:18", "query": "a2:power semiconductor exclusive design win", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-30T09:18:18", "query": "a2:silicon carbide filed patent power device", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-30T09:18:18", "query": "a2:data center component design win startup", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-30T09:18:18", "query": "a2:co-packaged optics supplier design qualification", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-10-30T21:31:20", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 9, "results_fresh": 9, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-30T21:31:20", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 10, "results_fresh": 7, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-30T21:31:20", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-30T21:31:20", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 9, "results_fresh": 5, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-30T21:31:20", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-30T21:31:20", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-30T21:31:20", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 7, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-30T21:31:20", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 9, "results_fresh": 7, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-30T21:31:20", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-30T21:31:20", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-30T21:31:20", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 10, "results_fresh": 6, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-30T21:31:20", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 10, "results_fresh": 9, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-30T21:31:20", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-30T21:31:20", "query": "a2:semiconductor design win sole source supplier", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-30T21:31:20", "query": "a2:fabless tape-out customer qualification", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-30T21:31:20", "query": "a2:power semiconductor exclusive design win", "sector": "semiconductors", "results_total": 9, "results_fresh": 8, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-30T21:31:20", "query": "a2:silicon carbide filed patent power device", "sector": "semiconductors", "results_total": 10, "results_fresh": 9, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-30T21:31:20", "query": "a2:data center component design win startup", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-30T21:31:20", "query": "a2:co-packaged optics supplier design qualification", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 9, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-10-31T04:46:47", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-31T04:46:47", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 20, "results_fresh": 18, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-31T04:46:47", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-31T04:46:47", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-31T04:46:47", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-31T04:46:47", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-31T04:46:47", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 20, "results_fresh": 19, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-31T04:46:47", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 20, "results_fresh": 17, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-31T04:46:47", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 20, "results_fresh": 19, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-31T04:46:47", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-31T04:46:47", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 20, "results_fresh": 18, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-31T04:46:47", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-31T04:46:47", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-31T04:46:47", "query": "a2:semiconductor design win sole source supplier", "sector": "semiconductors", "results_total": 20, "results_fresh": 20, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-31T04:46:47", "query": "a2:fabless tape-out customer qualification", "sector": "semiconductors", "results_total": 20, "results_fresh": 20, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-31T04:46:47", "query": "a2:power semiconductor exclusive design win", "sector": "semiconductors", "results_total": 20, "results_fresh": 20, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-31T04:46:47", "query": "a2:silicon carbide filed patent power device", "sector": "semiconductors", "results_total": 20, "results_fresh": 20, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-31T04:46:47", "query": "a2:data center component design win startup", "sector": "ai-infrastructure", "results_total": 20, "results_fresh": 20, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-10-31T04:46:47", "query": "a2:co-packaged optics supplier design qualification", "sector": "ai-infrastructure", "results_total": 20, "results_fresh": 20, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-11-02T04:12:01", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-11-02T04:12:01", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 20, "results_fresh": 18, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-11-02T04:12:01", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T04:12:01", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T04:12:01", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T04:12:01", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T04:12:01", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T04:12:01", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T04:12:01", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T04:12:01", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T04:12:01", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T04:12:01", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T04:12:01", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T04:12:01", "query": "a2:semiconductor design win sole source supplier", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T04:12:01", "query": "a2:fabless tape-out customer qualification", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T04:12:01", "query": "a2:power semiconductor exclusive design win", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T04:12:01", "query": "a2:silicon carbide filed patent power device", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T04:12:01", "query": "a2:data center component design win startup", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T04:12:01", "query": "a2:co-packaged optics supplier design qualification", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T16:28:18", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T16:28:18", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T16:28:18", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T16:28:18", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T16:28:18", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T16:28:18", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T16:28:18", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T16:28:18", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T16:28:18", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T16:28:18", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T16:28:18", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T16:28:18", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T16:28:18", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T16:28:18", "query": "a2:semiconductor design win sole source supplier", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T16:28:18", "query": "a2:fabless tape-out customer qualification", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T16:28:18", "query": "a2:power semiconductor exclusive design win", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T16:28:18", "query": "a2:silicon carbide filed patent power device", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T16:28:18", "query": "a2:data center component design win startup", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T16:28:18", "query": "a2:co-packaged optics supplier design qualification", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-02T22:52:36", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-11-02T22:52:36", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 20, "results_fresh": 18, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-11-02T22:52:36", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-11-02T22:52:36", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-11-02T22:52:36", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-11-02T22:52:36", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-11-02T22:52:36", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-11-02T22:52:36", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 20, "results_fresh": 17, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-11-02T22:52:36", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-11-02T22:52:36", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-11-02T22:52:36", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 20, "results_fresh": 18, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-11-02T22:52:36", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-11-02T22:52:36", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 20, "results_fresh": 20, "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-11-02T22:52:36", "query": "a2:semiconductor design win sole source supplier", "sector": "semiconductors", "results_total": 20, "results_fresh": 19, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-11-02T22:52:36", "query": "a2:fabless tape-out customer qualification", "sector": "semiconductors", "results_total": 20, "results_fresh": 20, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-11-02T22:52:36", "query": "a2:power semiconductor exclusive design win", "sector": "semiconductors", "results_total": 20, "results_fresh": 19, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-11-02T22:52:36", "query": "a2:silicon carbide filed patent power device", "sector": "semiconductors", "results_total": 20, "results_fresh": 20, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-11-02T22:52:36", "query": "a2:data center component design win startup", "sector": "ai-infrastructure", "results_total": 20, "results_fresh": 20, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-11-02T22:52:36", "query": "a2:co-packaged optics supplier design qualification", "sector": "ai-infrastructure", "results_total": 20, "results_fresh": 20, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google"]}
+{"ts": "2026-11-03T05:34:56", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 29, "results_fresh": 29, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-03T05:34:56", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 30, "results_fresh": 25, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-03T05:34:56", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 29, "results_fresh": 28, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-03T05:34:56", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 28, "results_fresh": 27, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-03T05:34:56", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 30, "results_fresh": 29, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-03T05:34:56", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 30, "results_fresh": 30, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-03T05:34:56", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 28, "results_fresh": 28, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-03T05:34:56", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 29, "results_fresh": 25, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-03T05:34:56", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 30, "results_fresh": 29, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-03T05:34:56", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 28, "results_fresh": 27, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-03T05:34:56", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 29, "results_fresh": 26, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-03T05:34:56", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 30, "results_fresh": 30, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-03T05:34:56", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 28, "results_fresh": 28, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-03T05:34:56", "query": "a2:semiconductor design win sole source supplier", "sector": "semiconductors", "results_total": 30, "results_fresh": 29, "tag": "a2", "engines_down": ["brave", "google"]}
+{"ts": "2026-11-03T05:34:56", "query": "a2:fabless tape-out customer qualification", "sector": "semiconductors", "results_total": 30, "results_fresh": 30, "tag": "a2", "engines_down": ["brave", "google"]}
+{"ts": "2026-11-03T05:34:56", "query": "a2:power semiconductor exclusive design win", "sector": "semiconductors", "results_total": 29, "results_fresh": 28, "tag": "a2", "engines_down": ["brave", "google"]}
+{"ts": "2026-11-03T05:34:56", "query": "a2:silicon carbide filed patent power device", "sector": "semiconductors", "results_total": 29, "results_fresh": 29, "tag": "a2", "engines_down": ["brave", "google"]}
+{"ts": "2026-11-03T05:34:56", "query": "a2:data center component design win startup", "sector": "ai-infrastructure", "results_total": 29, "results_fresh": 29, "tag": "a2", "engines_down": ["brave", "google"]}
+{"ts": "2026-11-03T05:34:56", "query": "a2:co-packaged optics supplier design qualification", "sector": "ai-infrastructure", "results_total": 30, "results_fresh": 29, "tag": "a2", "engines_down": ["brave", "google"]}
+{"ts": "2026-11-03T12:36:26", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T12:36:26", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T12:36:26", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T12:36:26", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T12:36:26", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T12:36:26", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T12:36:26", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T12:36:26", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T12:36:26", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T12:36:26", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T12:36:26", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T12:36:26", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T12:36:26", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T12:36:26", "query": "a2:semiconductor design win sole source supplier", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T12:36:26", "query": "a2:fabless tape-out customer qualification", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T12:36:26", "query": "a2:power semiconductor exclusive design win", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T12:36:26", "query": "a2:silicon carbide filed patent power device", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T12:36:26", "query": "a2:data center component design win startup", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T12:36:26", "query": "a2:co-packaged optics supplier design qualification", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T18:57:06", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T18:57:06", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T18:57:06", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T18:57:06", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T18:57:06", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T18:57:06", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T18:57:06", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T18:57:06", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T18:57:06", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T18:57:06", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T18:57:06", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T18:57:06", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T18:57:06", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T18:57:06", "query": "a2:semiconductor design win sole source supplier", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T18:57:06", "query": "a2:fabless tape-out customer qualification", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T18:57:06", "query": "a2:power semiconductor exclusive design win", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T18:57:06", "query": "a2:silicon carbide filed patent power device", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T18:57:06", "query": "a2:data center component design win startup", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-03T18:57:06", "query": "a2:co-packaged optics supplier design qualification", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-04T01:06:53", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 30, "results_fresh": 30, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T01:06:53", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 29, "results_fresh": 25, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T01:06:53", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 30, "results_fresh": 30, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T01:06:53", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 28, "results_fresh": 27, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T01:06:53", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 30, "results_fresh": 30, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T01:06:53", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 30, "results_fresh": 30, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T01:06:53", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 28, "results_fresh": 27, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T01:06:53", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 29, "results_fresh": 25, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T01:06:53", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 30, "results_fresh": 29, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T01:06:53", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 29, "results_fresh": 29, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T01:06:53", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 29, "results_fresh": 25, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T01:06:53", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 30, "results_fresh": 30, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T01:06:53", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 28, "results_fresh": 28, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T01:06:53", "query": "a2:semiconductor design win sole source supplier", "sector": "semiconductors", "results_total": 30, "results_fresh": 30, "tag": "a2", "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T01:06:53", "query": "a2:fabless tape-out customer qualification", "sector": "semiconductors", "results_total": 30, "results_fresh": 30, "tag": "a2", "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T01:06:53", "query": "a2:power semiconductor exclusive design win", "sector": "semiconductors", "results_total": 30, "results_fresh": 29, "tag": "a2", "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T01:06:53", "query": "a2:silicon carbide filed patent power device", "sector": "semiconductors", "results_total": 29, "results_fresh": 28, "tag": "a2", "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T01:06:53", "query": "a2:data center component design win startup", "sector": "ai-infrastructure", "results_total": 29, "results_fresh": 29, "tag": "a2", "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T01:06:53", "query": "a2:co-packaged optics supplier design qualification", "sector": "ai-infrastructure", "results_total": 28, "results_fresh": 27, "tag": "a2", "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T07:39:02", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 30, "results_fresh": 30, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T07:39:02", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 29, "results_fresh": 24, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T07:39:02", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 28, "results_fresh": 28, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T07:39:02", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 28, "results_fresh": 26, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T07:39:02", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 30, "results_fresh": 30, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T07:39:02", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 30, "results_fresh": 30, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T07:39:02", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 28, "results_fresh": 27, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T07:39:02", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 29, "results_fresh": 26, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T07:39:02", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 30, "results_fresh": 29, "engines_down": ["brave", "google"]}
+{"ts": "2026-11-04T07:39:02", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-04T07:39:02", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 10, "results_fresh": 7, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-04T07:39:02", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-04T07:39:02", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-04T07:39:02", "query": "a2:semiconductor design win sole source supplier", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-04T07:39:02", "query": "a2:fabless tape-out customer qualification", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-04T07:39:02", "query": "a2:power semiconductor exclusive design win", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-04T07:39:02", "query": "a2:silicon carbide filed patent power device", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-04T07:39:02", "query": "a2:data center component design win startup", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-04T07:39:02", "query": "a2:co-packaged optics supplier design qualification", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 9, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-04T14:12:10", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-04T14:12:10", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-04T14:12:10", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-04T14:12:10", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-04T14:12:10", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-04T14:12:10", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-04T14:12:10", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-04T14:12:10", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-04T14:12:10", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-04T14:12:10", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-04T14:12:10", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-04T14:12:10", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-04T14:12:10", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 0, "results_fresh": 0, "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-04T14:12:10", "query": "a2:semiconductor design win sole source supplier", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-04T14:12:10", "query": "a2:fabless tape-out customer qualification", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-04T14:12:10", "query": "a2:power semiconductor exclusive design win", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-04T14:12:10", "query": "a2:silicon carbide filed patent power device", "sector": "semiconductors", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-04T14:12:10", "query": "a2:data center component design win startup", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-04T14:12:10", "query": "a2:co-packaged optics supplier design qualification", "sector": "ai-infrastructure", "results_total": 0, "results_fresh": 0, "tag": "a2", "engines_down": ["brave", "duckduckgo", "google", "google cse"], "suspicion": "upstream_suspension"}
+{"ts": "2026-11-09T15:24:52", "query": "450mm wafer foundry transition", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-09T15:24:52", "query": "High-NA EUV HVM adoption", "sector": "semiconductors", "results_total": 9, "results_fresh": 9, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-09T15:24:52", "query": "gate-all-around etch content per wafer", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-09T15:24:52", "query": "GaN-on-Si power epiwafer 8-inch", "sector": "semiconductors", "results_total": 9, "results_fresh": 9, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-09T15:24:52", "query": "advanced packaging replaces node scaling", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-09T15:24:52", "query": "liquid cooling default AI rack PPA", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-09T15:24:52", "query": "800V DC data center architecture", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-09T15:24:52", "query": "co-packaged optics copper interconnect replace", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-09T15:24:52", "query": "immersion cooling hyperscaler deployment", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 9, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-09T15:24:52", "query": "SMR data center behind the meter", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-09T15:24:52", "query": "NRC standard design approval reactor", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-09T15:24:52", "query": "microreactor hyperscaler PPA award", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-09T15:24:52", "query": "transformer lead time grid equipment", "sector": "advanced-energy", "results_total": 10, "results_fresh": 10, "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-09T15:24:52", "query": "a2:semiconductor design win sole source supplier", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-09T15:24:52", "query": "a2:fabless tape-out customer qualification", "sector": "semiconductors", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-09T15:24:52", "query": "a2:power semiconductor exclusive design win", "sector": "semiconductors", "results_total": 10, "results_fresh": 9, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-09T15:24:52", "query": "a2:silicon carbide filed patent power device", "sector": "semiconductors", "results_total": 10, "results_fresh": 9, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-09T15:24:52", "query": "a2:data center component design win startup", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}
+{"ts": "2026-11-09T15:24:52", "query": "a2:co-packaged optics supplier design qualification", "sector": "ai-infrastructure", "results_total": 10, "results_fresh": 10, "tag": "a2", "engines_down": ["brave", "google", "google cse"]}

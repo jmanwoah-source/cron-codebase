@@ -1,0 +1,24 @@
+{
+  "ticker": "AEHR",
+  "company": "AEHR TEST SYSTEMS",
+  "filing_date": "2026-07-27",
+  "accession": "0001654954-26-006919",
+  "doc": "aehr_10k.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/AEHR_000165495426006919.html",
+  "raw_chars": 1588277,
+  "stripped_chars": 1489042,
+  "strip_saved": 99235,
+  "text_chars": 270008,
+  "headings_candidates": 19,
+  "headings_selected": 18,
+  "toc_dropped": 1,
+  "item_chars": {
+    "1": 6032,
+    "1A": 5032,
+    "7": 10033,
+    "8": 9000
+  },
+  "total_chars": 29884,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/AEHR.md"
+}

@@ -1,0 +1,62 @@
+{
+  "run_timestamp": "2026-11-09T16:30:00+00:00",
+  "engine_run": "2026-11-09 deepdive (Agent9 Deep-Dive Scorer)",
+  "total_judged": 11,
+  "entity_mismatches": [],
+  "fetch_errors": [],
+  "mcap_policy_excluded": [
+    {"ticker": "BKNG", "market_cap": 120720628365},
+    {"ticker": "CME", "market_cap": 109488394553},
+    {"ticker": "LRCX", "market_cap": 250835499119},
+    {"ticker": "SHEL", "market_cap": 290002674496},
+    {"ticker": "SPGI", "market_cap": 135615220000},
+    {"ticker": "TD", "market_cap": 206794800000},
+    {"ticker": "TMUS", "market_cap": 171612749228}
+  ],
+  "score_distribution": {
+    ">=75 (high)": 0,
+    "55-74 (mid)": 0,
+    "<55 (low)": 11
+  },
+  "tier_pass_rates": {
+    "track_a_>=75": 0,
+    "track_b_>=75": 0,
+    "both_pass": 0,
+    "mirage_pass": 0
+  },
+  "tier_depth": {
+    "HIGH": 11,
+    "MODERATE": 0,
+    "BELOW": 0
+  },
+  "sector_distribution": {
+    "Technology": 4,
+    "Industrials": 3,
+    "Defense/Aerospace": 1,
+    "Financial Services": 2,
+    "Materials": 1,
+    "Quantum Computing": 1
+  },
+  "top_scoring_high": [],
+  "top_scoring_mid": [],
+  "top_ranked": [
+    {"ticker": "CRCT", "best": 50, "A": 50, "B": 33, "fin": 59, "cat": 0, "note": "Overbought RSI 74.7, rvol 2.46 squeeze — no catalyst"},
+    {"ticker": "ARLO", "best": 46, "A": 46, "B": 30, "fin": 56, "cat": 0, "note": "Moderate financials, no catalyst"},
+    {"ticker": "BRC", "best": 45, "A": 45, "B": 33, "fin": 68, "cat": 0, "note": "Solid financials, oversold RSI 34.1, no catalyst"},
+    {"ticker": "DAKT", "best": 41, "A": 41, "B": 30, "fin": 64, "cat": 0, "note": "Good financials, no catalyst or edge"},
+    {"ticker": "FET", "best": 40, "A": 33, "B": 40, "fin": 55, "cat": 80, "note": "$1B defense contract but thin margins"},
+    {"ticker": "BHE", "best": 36, "A": 36, "B": 36, "fin": 60, "cat": 0, "note": "Oversold RSI 32, no catalyst"},
+    {"ticker": "BCO", "best": 35, "A": 35, "B": 30, "fin": 48, "cat": 0, "note": "Insurance, no catalyst"},
+    {"ticker": "ADT", "best": 30, "A": 10, "B": 30, "fin": 62, "cat": 0, "note": "Overbought RSI 86.5, strong financials"},
+    {"ticker": "AMTM", "best": 30, "A": 13, "B": 30, "fin": 70, "cat": 0, "note": "Strongest financials, no catalyst"},
+    {"ticker": "FIVN", "best": 26, "A": 23, "B": 26, "fin": 60, "cat": 15, "note": "Analyst dump catalyst (negative)"},
+    {"ticker": "QUCY", "best": 8, "A": 8, "B": 8, "fin": 12, "cat": 50, "note": "Micro-cap quantum, dilution kill"}
+  ],
+  "issues": {
+    "no_tickers_passed_75": true,
+    "entity_mismatch_count": 0,
+    "fetch_error_count": 1,
+    "delta_cache_missed": true,
+    "notes": "No tickers reached Track A or B >= 75 this cycle. All 11 scored tickers below 55 best_track_score. FET has highest catalyst_100 (80) from $1B prime defense contract but margins cap track A. CRCT has highest track_a (50) — cybersecurity moat + overbought squeeze. QUCY flagged as mirage (track_c=0) — dilution kill, runway 0. 7 mcap-policy tickers excluded. Delta cache skipped 144 of 184 tickers (~78%). 10 promote_to_deepdive flags cleared."
+  }
+}

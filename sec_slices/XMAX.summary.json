@@ -1,0 +1,24 @@
+{
+  "ticker": "XMAX",
+  "company": "XMax Inc.",
+  "filing_date": "2026-04-15",
+  "accession": "0001493152-26-016828",
+  "doc": "form10-k.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/XMAX_000149315226016828.html",
+  "raw_chars": 1796056,
+  "stripped_chars": 1546130,
+  "strip_saved": 249926,
+  "text_chars": 387861,
+  "headings_candidates": 22,
+  "headings_selected": 18,
+  "toc_dropped": 4,
+  "item_chars": {
+    "1": 6032,
+    "1A": 5032,
+    "7": 10033,
+    "8": 0
+  },
+  "total_chars": 21631,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/XMAX.md"
+}

@@ -1,0 +1,205 @@
+{
+  "SMTC": {
+    "transcript_date": "2026-08-25",
+    "forward_statements": [
+      {
+        "text": "We're also seeing increasing engagement from a broader array of customers on emerging technologies like NPO and XPO as the networking ecosystem looks to us to align and help define the next generation of high-density, low-power optical architectures in our shared technology road map.",
+        "design_win": false
+      },
+      {
+        "text": "Based on strong market demand and the design win momentum, we expect continued revenue growth of 1.6T portfolio with the FiberEdge expected to exceed 50% market share by the end of the fiscal year and the CopperEdge already taking the lion's share of the linear equalizer market.",
+        "design_win": true
+      },
+      {
+        "text": "Our combined PD and TIA design team has already engaged with the key customers, and we expect to deliver co-optimized high-performance solutions.",
+        "design_win": false
+      },
+      {
+        "text": "Our PerSe capacitive sensor design win pipeline continues to grow in specific absorption rate, smart wearable and other consumer applications, expanding with the lead customers on a broadening range of applications.",
+        "design_win": true
+      },
+      {
+        "text": "We expect our design win pipeline to support the long-term growth for this business.",
+        "design_win": true
+      },
+      {
+        "text": "We expect to provide a gross margin outlook, including and excluding the cellular module business until the close of the divestiture, which is expected to occur in the fourth quarter of the current fiscal year.",
+        "design_win": false
+      },
+      {
+        "text": "Hong Hou: We anticipated a very rapid data center revenue growth.",
+        "design_win": false
+      },
+      {
+        "text": "Now with the strong booking momentum and record backlog, we see the capacity we have secured may not be enough in supporting the FY '28, especially second half of FY '28.",
+        "design_win": false
+      },
+      {
+        "text": "Hong Hou: 3.2T timing, I would say, probably in the 18 months or so, but I think the design window will start opening up at about in 12 months period of time.",
+        "design_win": true
+      },
+      {
+        "text": "So we are going out to get more capacity secured.",
+        "design_win": false
+      }
+    ],
+    "design_win": true,
+    "rd_revenue_pct_by_qtr": [
+      18.43,
+      18.66,
+      19.79,
+      17.72
+    ],
+    "rd_trending_up": false,
+    "error": null,
+    "rd_trend_dates": [
+      "2025-10-26",
+      "2026-01-25",
+      "2026-04-26",
+      "2026-07-26"
+    ]
+  },
+  "CMST": {
+    "transcript_date": null,
+    "forward_statements": [],
+    "design_win": false,
+    "rd_revenue_pct_by_qtr": [],
+    "rd_trending_up": false,
+    "error": "rd: no income-statement data: No data returned for income-statement with symbol=\"CMST\". The identifier may not exist, or may have no data for this endpoint. Use the 'search' tool to verify t",
+    "rd_trend_dates": null,
+    "rd_error": "no income-statement data: No data returned for income-statement with symbol=\"CMST\". The identifier may not exist, or may have no data for this endpoint. Use the 'search' tool to verify t",
+    "skip_transcript": true
+  },
+  "LSCC": {
+    "transcript_date": "2026-11-02",
+    "forward_statements": [
+      {
+        "text": "With channel inventory at healthy levels, customer engagement accelerating, and multiple new design wins ramping into production, we expect our Industrial & Embedded business to become an increasingly important growth engine into 2027 and beyond.",
+        "design_win": true
+      },
+      {
+        "text": "The sequential increase primarily reflects the addition of AMI and continued investments in our product roadmap.",
+        "design_win": false
+      },
+      {
+        "text": "Most of the increase in OPEX continues to support R&D investments in our product roadmap and long-term growth objectives, as well as a full quarter contribution from AMI.",
+        "design_win": false
+      },
+      {
+        "text": "At the midpoint of this guidance, we anticipate that we would exceed 160% year-over-year earnings growth as we continue to demonstrate the leverage in our model.",
+        "design_win": false
+      },
+      {
+        "text": "Importantly, we anticipate full year earnings per share of approximately $2.50, up about 140% year-over-year.",
+        "design_win": false
+      },
+      {
+        "text": "While it is still early in the planning cycle, our confidence is rooted in our backlog, the ramp of design wins in I&E augmenting our demonstrated strength in C&C, and the expected contribution from AMI.",
+        "design_win": true
+      },
+      {
+        "text": "I would love to understand how you are looking at the linearity of that revenue as you flow through the year, and how much of that 60% is already in backlog versus dependent on what you are hearing from customers around design wins ramping, or maybe you could talk about the pricing environment given how much demand there is.",
+        "design_win": true
+      },
+      {
+        "text": "I would say, just to clear up any confusion, we are building very deliberately internal inventory so that we can respond to what we expect to be the significant growth in Q4, in 2027, and beyond.",
+        "design_win": false
+      },
+      {
+        "text": "We have secured what we believe is the right level of supply for, again, multiple years.",
+        "design_win": false
+      },
+      {
+        "text": "Supply obviously is an industry-wide issue, and we, as I said, have secured supply for our customers.",
+        "design_win": false
+      },
+      {
+        "text": "I am not sure what our competitors are doing there, but we just can only comment on our side, we secured supply.",
+        "design_win": false
+      }
+    ],
+    "design_win": true,
+    "rd_revenue_pct_by_qtr": [
+      36.26,
+      29.75,
+      31.94,
+      27.6
+    ],
+    "rd_trending_up": false,
+    "error": null,
+    "rd_trend_dates": [
+      "2026-01-03",
+      "2026-04-04",
+      "2026-07-04",
+      "2026-10-03"
+    ]
+  },
+  "MCHP": {
+    "transcript_date": "2026-11-05",
+    "forward_statements": [
+      {
+        "text": "Our non-GAAP cash tax rate was 5.7% in the September quarter, and we expect to have a tax rate of about 6.5% for fiscal year 2027.",
+        "design_win": false
+      },
+      {
+        "text": "Across our end markets, new design wins are increasingly supporting that growth.",
+        "design_win": true
+      },
+      {
+        "text": "On the standard product side, design wins are building across many products.",
+        "design_win": true
+      },
+      {
+        "text": "In system management, we offer the parts that sense, control, and connect a server or rack, and our Gigabit Ethernet switches and USB hubs are gaining design win momentum in management networks.",
+        "design_win": true
+      },
+      {
+        "text": "With respect to our Gen 6 PCIe switch and retimer products, we had 19 design wins at the end of September quarter, up from 12 design wins at the end of June quarter.",
+        "design_win": true
+      },
+      {
+        "text": "As of today, we now have 24 total design wins.",
+        "design_win": true
+      },
+      {
+        "text": "These incremental wins will begin to ramp net sales next year and help position us across a growing range of next-generation data center platforms.",
+        "design_win": false
+      },
+      {
+        "text": "Our design wins are not limited to data centers.",
+        "design_win": true
+      },
+      {
+        "text": "So, on the PCIe Gen 6 wins, I think, Steve, you said 14 design wins coming out of June, and it's now up to 24.",
+        "design_win": true
+      },
+      {
+        "text": "The design wins are very strong, and they are turning on at various times next year.",
+        "design_win": true
+      },
+      {
+        "text": "Eric Bjornholt: Yeah, just one clarification to the way Tim asked that question is he said PCIe Gen 6, and the 24 design wins is both PCIe and the retimers.",
+        "design_win": true
+      },
+      {
+        "text": "So, it's seeing substantial recovery from that point, and a lot of new design wins in every single area, robotics, medical, process control, factories, farming, equipment, appliances.",
+        "design_win": true
+      }
+    ],
+    "design_win": true,
+    "rd_revenue_pct_by_qtr": [
+      23.13,
+      22.41,
+      20.81,
+      19.64
+    ],
+    "rd_trending_up": false,
+    "error": null,
+    "rd_trend_dates": [
+      "2025-12-31",
+      "2026-03-31",
+      "2026-06-30",
+      "2026-09-30"
+    ]
+  }
+}

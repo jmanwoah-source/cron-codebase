@@ -1,0 +1,24 @@
+{
+  "ticker": "ONDS",
+  "company": "Ondas Inc.",
+  "filing_date": "2026-03-30",
+  "accession": "0001213900-26-035981",
+  "doc": "ea0282911-10k_ondas.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/ONDS_000121390026035981.html",
+  "raw_chars": 2228257,
+  "stripped_chars": 1887459,
+  "strip_saved": 340798,
+  "text_chars": 535000,
+  "headings_candidates": 20,
+  "headings_selected": 18,
+  "toc_dropped": 2,
+  "item_chars": {
+    "1": 6032,
+    "1A": 5032,
+    "7": 10033,
+    "8": 9000
+  },
+  "total_chars": 29883,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/ONDS.md"
+}

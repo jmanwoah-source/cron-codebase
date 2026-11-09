@@ -1,0 +1,24 @@
+{
+  "ticker": "ON",
+  "company": "ON SEMICONDUCTOR CORP",
+  "filing_date": "2026-02-09",
+  "accession": "0001097864-26-000006",
+  "doc": "on-20251231.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/ON_000109786426000006.html",
+  "raw_chars": 2781984,
+  "stripped_chars": 2535447,
+  "strip_saved": 246537,
+  "text_chars": 417161,
+  "headings_candidates": 19,
+  "headings_selected": 18,
+  "toc_dropped": 1,
+  "item_chars": {
+    "1": 6032,
+    "1A": 5032,
+    "7": 10033,
+    "8": 0
+  },
+  "total_chars": 21644,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/ON.md"
+}

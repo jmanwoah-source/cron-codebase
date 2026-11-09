@@ -1,0 +1,220 @@
+{
+  "generated_at": "2026-11-09T18:10:13.283612+00:00",
+  "discrimination_score": 0.0,
+  "tier_stats": {
+    "LOW": {
+      "n": 11,
+      "avg_score": 35.2,
+      "min_score": 8.0,
+      "max_score": 50.0,
+      "ret_7d": {
+        "avg": null,
+        "std": null,
+        "positive_pct": null,
+        "n": 0
+      },
+      "ret_30d": {
+        "avg": null,
+        "std": null,
+        "positive_pct": null,
+        "n": 0
+      },
+      "ret_90d": {
+        "avg": null,
+        "std": null,
+        "positive_pct": null,
+        "n": 0
+      },
+      "tickers": [
+        "ADT",
+        "AMTM",
+        "ARLO",
+        "BCO",
+        "BHE",
+        "BRC",
+        "CRCT",
+        "DAKT",
+        "FET",
+        "FIVN",
+        "QUCY"
+      ]
+    }
+  },
+  "pillar_correlations": {
+    "financial_100": {
+      "7": {
+        "correlation": -0.115,
+        "n": 11,
+        "interpretation": "weak"
+      },
+      "30": {
+        "correlation": 0.192,
+        "n": 11,
+        "interpretation": "weak"
+      },
+      "90": {
+        "correlation": null,
+        "n": 0,
+        "interpretation": "insufficient_data"
+      }
+    },
+    "catalyst_100": {
+      "7": {
+        "correlation": 0.069,
+        "n": 11,
+        "interpretation": "negligible"
+      },
+      "30": {
+        "correlation": -0.046,
+        "n": 11,
+        "interpretation": "negligible"
+      },
+      "90": {
+        "correlation": null,
+        "n": 0,
+        "interpretation": "insufficient_data"
+      }
+    },
+    "valuation_100": {
+      "7": {
+        "correlation": -0.02,
+        "n": 11,
+        "interpretation": "negligible"
+      },
+      "30": {
+        "correlation": 0.197,
+        "n": 11,
+        "interpretation": "weak"
+      },
+      "90": {
+        "correlation": null,
+        "n": 0,
+        "interpretation": "insufficient_data"
+      }
+    },
+    "technical_100": {
+      "7": {
+        "correlation": 1.0,
+        "n": 11,
+        "interpretation": "strong"
+      },
+      "30": {
+        "correlation": 0.878,
+        "n": 11,
+        "interpretation": "strong"
+      },
+      "90": {
+        "correlation": null,
+        "n": 0,
+        "interpretation": "insufficient_data"
+      }
+    }
+  },
+  "recommendations": [
+    {
+      "pillar": "financial_100",
+      "window": "7d",
+      "action": "REDUCE_WEIGHT",
+      "from_pct": "25%",
+      "to_pct": "15%",
+      "rationale": "financial_100 weak correlation (-0.115) with 7d returns",
+      "confidence": "medium",
+      "n": 11,
+      "risk": "May underweight genuine financial 100 opportunities",
+      "requires_data": true
+    },
+    {
+      "pillar": "financial_100",
+      "window": "30d",
+      "action": "REDUCE_WEIGHT",
+      "from_pct": "25%",
+      "to_pct": "15%",
+      "rationale": "financial_100 weak correlation (0.192) with 30d returns",
+      "confidence": "medium",
+      "n": 11,
+      "risk": "May underweight genuine financial 100 opportunities",
+      "requires_data": true
+    },
+    {
+      "pillar": "catalyst_100",
+      "window": "7d",
+      "action": "REDUCE_WEIGHT",
+      "from_pct": "25%",
+      "to_pct": "15%",
+      "rationale": "catalyst_100 negligible correlation (0.069) with 7d returns",
+      "confidence": "medium",
+      "n": 11,
+      "risk": "May underweight genuine catalyst 100 opportunities",
+      "requires_data": true
+    },
+    {
+      "pillar": "catalyst_100",
+      "window": "30d",
+      "action": "REDUCE_WEIGHT",
+      "from_pct": "25%",
+      "to_pct": "15%",
+      "rationale": "catalyst_100 negligible correlation (-0.046) with 30d returns",
+      "confidence": "medium",
+      "n": 11,
+      "risk": "May underweight genuine catalyst 100 opportunities",
+      "requires_data": true
+    },
+    {
+      "pillar": "valuation_100",
+      "window": "7d",
+      "action": "REDUCE_WEIGHT",
+      "from_pct": "25%",
+      "to_pct": "15%",
+      "rationale": "valuation_100 negligible correlation (-0.020) with 7d returns",
+      "confidence": "medium",
+      "n": 11,
+      "risk": "May underweight genuine valuation 100 opportunities",
+      "requires_data": true
+    },
+    {
+      "pillar": "valuation_100",
+      "window": "30d",
+      "action": "REDUCE_WEIGHT",
+      "from_pct": "25%",
+      "to_pct": "15%",
+      "rationale": "valuation_100 weak correlation (0.197) with 30d returns",
+      "confidence": "medium",
+      "n": 11,
+      "risk": "May underweight genuine valuation 100 opportunities",
+      "requires_data": true
+    },
+    {
+      "pillar": "technical_100",
+      "window": "7d",
+      "action": "INCREASE_WEIGHT",
+      "from_pct": "25%",
+      "to_pct": "30%",
+      "rationale": "technical_100 shows strong positive correlation (1.000) with 7d returns",
+      "confidence": "medium",
+      "n": 11,
+      "risk": "Overweighting may increase false positives in other dimensions",
+      "requires_data": true
+    },
+    {
+      "pillar": "technical_100",
+      "window": "30d",
+      "action": "INCREASE_WEIGHT",
+      "from_pct": "25%",
+      "to_pct": "30%",
+      "rationale": "technical_100 shows strong positive correlation (0.878) with 30d returns",
+      "confidence": "medium",
+      "n": 11,
+      "risk": "Overweighting may increase false positives in other dimensions",
+      "requires_data": true
+    },
+    {
+      "rule": "tier_distribution",
+      "action": "NOTICE",
+      "rationale": "Only one tier present (LOW) \u2014 scoring has no discrimination",
+      "confidence": "high",
+      "n": 11,
+      "risk": null,
+      "requires_data": true
+    }
+  ]
+}

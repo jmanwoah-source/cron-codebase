@@ -1,0 +1,24 @@
+{
+  "ticker": "LITE",
+  "company": "Lumentum Holdings Inc.",
+  "filing_date": "2026-08-17",
+  "accession": "0001628280-26-057358",
+  "doc": "lite-20260627.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/LITE_000162828026057358.html",
+  "raw_chars": 3332179,
+  "stripped_chars": 3045222,
+  "strip_saved": 286957,
+  "text_chars": 540096,
+  "headings_candidates": 2,
+  "headings_selected": 2,
+  "toc_dropped": 0,
+  "item_chars": {
+    "1": 0,
+    "1A": 5032,
+    "7": 0,
+    "8": 0
+  },
+  "total_chars": 5339,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/LITE.md"
+}

@@ -1,0 +1,24 @@
+{
+  "ticker": "ECL",
+  "company": "ECOLAB INC.",
+  "filing_date": "2026-02-23",
+  "accession": "0001104659-26-018357",
+  "doc": "ecl-20251231x10k.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/ECL_000110465926018357.html",
+  "raw_chars": 8192801,
+  "stripped_chars": 7638891,
+  "strip_saved": 553910,
+  "text_chars": 484498,
+  "headings_candidates": 25,
+  "headings_selected": 17,
+  "toc_dropped": 8,
+  "item_chars": {
+    "1": 6032,
+    "1A": 5032,
+    "7": 10033,
+    "8": 9000
+  },
+  "total_chars": 29883,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/ECL.md"
+}

@@ -1,0 +1,24 @@
+{
+  "ticker": "MTSI",
+  "company": "MACOM Technology Solutions Holdings, Inc.",
+  "filing_date": "2025-11-14",
+  "accession": "0001493594-25-000054",
+  "doc": "mtsi-20251003.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/MTSI_000149359425000054.html",
+  "raw_chars": 2028624,
+  "stripped_chars": 1867601,
+  "strip_saved": 161023,
+  "text_chars": 359879,
+  "headings_candidates": 9,
+  "headings_selected": 4,
+  "toc_dropped": 5,
+  "item_chars": {
+    "1": 6032,
+    "1A": 5032,
+    "7": 0,
+    "8": 0
+  },
+  "total_chars": 11566,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/MTSI.md"
+}

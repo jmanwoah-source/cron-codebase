@@ -1,0 +1,24 @@
+{
+  "ticker": "NDAQ",
+  "company": "NASDAQ, INC.",
+  "filing_date": "2026-02-12",
+  "accession": "0001628280-26-007703",
+  "doc": "ndaq-20251231.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/NDAQ_000162828026007703.html",
+  "raw_chars": 9611603,
+  "stripped_chars": 9376624,
+  "strip_saved": 234979,
+  "text_chars": 519390,
+  "headings_candidates": 27,
+  "headings_selected": 17,
+  "toc_dropped": 10,
+  "item_chars": {
+    "1": 6032,
+    "1A": 5032,
+    "7": 9403,
+    "8": 0
+  },
+  "total_chars": 21008,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/NDAQ.md"
+}

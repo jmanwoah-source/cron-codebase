@@ -1,0 +1,6 @@
+{
+  "generated": "2026-11-04T14:15:17",
+  "rule": "composite>=500 OR gate-fire transition; max 4/cycle; saturate after 3 zero-new cycles",
+  "eligible": [],
+  "queue": []
+}

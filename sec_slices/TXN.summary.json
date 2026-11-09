@@ -1,0 +1,24 @@
+{
+  "ticker": "TXN",
+  "company": "TEXAS INSTRUMENTS INC",
+  "filing_date": "2026-02-06",
+  "accession": "0000097476-26-000059",
+  "doc": "txn-20251231.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/TXN_000009747626000059.html",
+  "raw_chars": 2110473,
+  "stripped_chars": 1892999,
+  "strip_saved": 217474,
+  "text_chars": 207114,
+  "headings_candidates": 0,
+  "headings_selected": 0,
+  "toc_dropped": 0,
+  "item_chars": {
+    "1": 0,
+    "1A": 0,
+    "7": 0,
+    "8": 0
+  },
+  "total_chars": 261,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/TXN.md"
+}

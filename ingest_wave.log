@@ -1,0 +1,8 @@
+[ingestor 13:52:04] FMP session up: FMP MCP Server
+[ingestor 14:02:26] regime_state: upserted 6 pillar rows
+[ingestor 14:02:26] alpha_vectors: upserted chunk 1 (100 rows)
+[ingestor 14:02:26] alpha_vectors: upserted chunk 2 (100 rows)
+[ingestor 14:02:26] alpha_vectors: upserted chunk 3 (56 rows)
+[ingestor 14:02:26] feed_raw.json: appended 1003 primary items (atomic)
+[ingestor 14:02:26] unharnessed_scores.json: 256 rows (atomic write OK)
+[ingestor 14:02:26] DONE: alpha_vectors now 1281 rows. Full-universe backfill continues on next run (resumable). Smoke-test-safe exit.

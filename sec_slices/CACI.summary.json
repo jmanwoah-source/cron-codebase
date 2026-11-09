@@ -1,0 +1,24 @@
+{
+  "ticker": "CACI",
+  "company": "CACI INTERNATIONAL INC /DE/",
+  "filing_date": "2026-08-06",
+  "accession": "0001628280-26-054195",
+  "doc": "caci-20260630.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/CACI_000162828026054195.html",
+  "raw_chars": 1832427,
+  "stripped_chars": 1680481,
+  "strip_saved": 151946,
+  "text_chars": 278796,
+  "headings_candidates": 20,
+  "headings_selected": 17,
+  "toc_dropped": 3,
+  "item_chars": {
+    "1": 0,
+    "1A": 5032,
+    "7": 10033,
+    "8": 9000
+  },
+  "total_chars": 24566,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/CACI.md"
+}

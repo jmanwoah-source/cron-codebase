@@ -1,0 +1,24 @@
+{
+  "ticker": "AEIS",
+  "company": "ADVANCED ENERGY INDUSTRIES INC",
+  "filing_date": "2026-02-13",
+  "accession": "0001104659-26-014731",
+  "doc": "aeis-20251231x10k.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/AEIS_000110465926014731.html",
+  "raw_chars": 3622513,
+  "stripped_chars": 3429913,
+  "strip_saved": 192600,
+  "text_chars": 305057,
+  "headings_candidates": 1,
+  "headings_selected": 1,
+  "toc_dropped": 0,
+  "item_chars": {
+    "1": 0,
+    "1A": 0,
+    "7": 0,
+    "8": 0
+  },
+  "total_chars": 414,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/AEIS.md"
+}

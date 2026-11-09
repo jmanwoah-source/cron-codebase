@@ -1,0 +1,362 @@
+{
+  "candidates": [
+    {
+      "ticker": "ONEN",
+      "name": "ONE Nuclear Energy Inc.",
+      "sector": "Utilities",
+      "industry": "Independent Power Producers",
+      "market_cap": 165414832.0,
+      "price": 1.56,
+      "bucket": "Power Generation (IPP)",
+      "why_flagged": "target-sector small-cap ($165M mktcap) in Power Generation (IPP) \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "DGXX",
+      "name": "Digi Power X Inc.",
+      "sector": "Utilities",
+      "industry": "Independent Power Producers",
+      "market_cap": 211412097.0,
+      "price": 2.085,
+      "bucket": "Power Generation (IPP)",
+      "why_flagged": "target-sector small-cap ($211M mktcap) in Power Generation (IPP) \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "HNRG",
+      "name": "Hallador Energy Company",
+      "sector": "Utilities",
+      "industry": "Independent Power Producers",
+      "market_cap": 476147906.0,
+      "price": 10.1,
+      "bucket": "Power Generation (IPP)",
+      "why_flagged": "target-sector small-cap ($476M mktcap) in Power Generation (IPP) \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "SSYS",
+      "name": "Stratasys Ltd.",
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "market_cap": 565490934.0,
+      "price": 6.42,
+      "bucket": "AI/Data-Center Hardware",
+      "why_flagged": "target-sector small-cap ($565M mktcap) in AI/Data-Center Hardware \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "QMCO",
+      "name": "Quantum Corporation",
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "market_cap": 570262714.0,
+      "price": 14.47,
+      "bucket": "AI/Data-Center Hardware",
+      "why_flagged": "target-sector small-cap ($570M mktcap) in AI/Data-Center Hardware \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "QUBT",
+      "name": "Quantum Computing, Inc.",
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "market_cap": 1432775630.0,
+      "price": 6.33,
+      "bucket": "AI/Data-Center Hardware",
+      "why_flagged": "target-sector small-cap ($1,433M mktcap) in AI/Data-Center Hardware \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "INFQ",
+      "name": "Infleqtion Inc",
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "market_cap": 2003424192.0,
+      "price": 8.89,
+      "bucket": "AI/Data-Center Hardware",
+      "why_flagged": "target-sector small-cap ($2,003M mktcap) in AI/Data-Center Hardware \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "RGTI",
+      "name": "Rigetti Computing, Inc.",
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "market_cap": 3921782777.0,
+      "price": 11.75,
+      "bucket": "AI/Data-Center Hardware",
+      "why_flagged": "target-sector small-cap ($3,922M mktcap) in AI/Data-Center Hardware \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "QBTS",
+      "name": "D-Wave Quantum Inc.",
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "market_cap": 4020491682.0,
+      "price": 10.68,
+      "bucket": "AI/Data-Center Hardware",
+      "why_flagged": "target-sector small-cap ($4,020M mktcap) in AI/Data-Center Hardware \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "OKLO",
+      "name": "Oklo Inc.",
+      "sector": "Utilities",
+      "industry": "Independent Power Producers",
+      "market_cap": 4380715917.0,
+      "price": 23.55,
+      "bucket": "Power Generation (IPP)",
+      "why_flagged": "target-sector small-cap ($4,381M mktcap) in Power Generation (IPP) \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "UEPEN",
+      "name": "Union Electric Company",
+      "sector": "Utilities",
+      "industry": "Regulated Electric",
+      "market_cap": 6280626000.0,
+      "price": 61.5,
+      "bucket": "Grid (Regulated Electric)",
+      "why_flagged": "target-sector small-cap ($6,281M mktcap) in Grid (Regulated Electric) \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "TXNM",
+      "name": "TXNM Energy, Inc.",
+      "sector": "Utilities",
+      "industry": "Regulated Electric",
+      "market_cap": 6411535720.0,
+      "price": 58.22,
+      "bucket": "Grid (Regulated Electric)",
+      "why_flagged": "target-sector small-cap ($6,412M mktcap) in Grid (Regulated Electric) \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "UEPCP",
+      "name": "Union Electric Company",
+      "sector": "Utilities",
+      "industry": "Regulated Electric",
+      "market_cap": 6588019240.0,
+      "price": 64.51,
+      "bucket": "Grid (Regulated Electric)",
+      "why_flagged": "target-sector small-cap ($6,588M mktcap) in Grid (Regulated Electric) \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "UEPEP",
+      "name": "Union Electric Company",
+      "sector": "Utilities",
+      "industry": "Regulated Electric",
+      "market_cap": 7007748880.0,
+      "price": 68.62,
+      "bucket": "Grid (Regulated Electric)",
+      "why_flagged": "target-sector small-cap ($7,008M mktcap) in Grid (Regulated Electric) \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "SLAB",
+      "name": "Silicon Laboratories Inc.",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "market_cap": 7390737562.0,
+      "price": 221.5,
+      "bucket": "Semiconductors",
+      "why_flagged": "target-sector small-cap ($7,391M mktcap) in Semiconductors \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "UEPCN",
+      "name": "Union Electric Company",
+      "sector": "Utilities",
+      "industry": "Regulated Electric",
+      "market_cap": 7761424000.0,
+      "price": 76.0,
+      "bucket": "Grid (Regulated Electric)",
+      "why_flagged": "target-sector small-cap ($7,761M mktcap) in Grid (Regulated Electric) \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "RMBS",
+      "name": "Rambus Inc.",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "market_cap": 7981864880.0,
+      "price": 74.53,
+      "bucket": "Semiconductors",
+      "why_flagged": "target-sector small-cap ($7,982M mktcap) in Semiconductors \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "AMKR",
+      "name": "Amkor Technology, Inc.",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "market_cap": 8133130403.0,
+      "price": 32.82,
+      "bucket": "Semiconductors",
+      "why_flagged": "target-sector small-cap ($8,133M mktcap) in Semiconductors \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "ONTO",
+      "name": "Onto Innovation Inc.",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "market_cap": 8503585520.0,
+      "price": 173.28,
+      "bucket": "Semiconductors",
+      "why_flagged": "target-sector small-cap ($8,504M mktcap) in Semiconductors \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "IDA",
+      "name": "IDACORP, Inc.",
+      "sector": "Utilities",
+      "industry": "Regulated Electric",
+      "market_cap": 8629945392.0,
+      "price": 146.55,
+      "bucket": "Grid (Regulated Electric)",
+      "why_flagged": "target-sector small-cap ($8,630M mktcap) in Grid (Regulated Electric) \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "DRS",
+      "name": "Leonardo DRS, Inc.",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "market_cap": 9075781733.0,
+      "price": 34.04,
+      "bucket": "Defense/Electrical Hardware",
+      "why_flagged": "target-sector small-cap ($9,076M mktcap) in Defense/Electrical Hardware \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "SARO",
+      "name": "StandardAero, Inc.",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "market_cap": 9143303851.0,
+      "price": 27.63,
+      "bucket": "Defense/Electrical Hardware",
+      "why_flagged": "target-sector small-cap ($9,143M mktcap) in Defense/Electrical Hardware \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "SMTC",
+      "name": "Semtech Corporation",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "market_cap": 9632135176.0,
+      "price": 103.21,
+      "bucket": "Semiconductors",
+      "why_flagged": "target-sector small-cap ($9,632M mktcap) in Semiconductors \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "AYI",
+      "name": "Acuity Brands, Inc.",
+      "sector": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "market_cap": 9670977814.0,
+      "price": 323.06,
+      "bucket": "Defense/Electrical Hardware",
+      "why_flagged": "target-sector small-cap ($9,671M mktcap) in Defense/Electrical Hardware \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "QNT",
+      "name": "Quantinuum Inc. Class A Common Stock",
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "market_cap": 9892486407.0,
+      "price": 37.57,
+      "bucket": "AI/Data-Center Hardware",
+      "why_flagged": "target-sector small-cap ($9,892M mktcap) in AI/Data-Center Hardware \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "OGE",
+      "name": "OGE Energy Corp.",
+      "sector": "Utilities",
+      "industry": "Regulated Electric",
+      "market_cap": 10468603374.0,
+      "price": 50.64,
+      "bucket": "Grid (Regulated Electric)",
+      "why_flagged": "target-sector small-cap ($10,469M mktcap) in Grid (Regulated Electric) \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "BWXT",
+      "name": "BWX Technologies, Inc.",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "market_cap": 10951043545.0,
+      "price": 119.52,
+      "bucket": "Defense/Electrical Hardware",
+      "why_flagged": "target-sector small-cap ($10,951M mktcap) in Defense/Electrical Hardware \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "HII",
+      "name": "Huntington Ingalls Industries, Inc.",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "market_cap": 11378105187.0,
+      "price": 288.74,
+      "bucket": "Defense/Electrical Hardware",
+      "why_flagged": "target-sector small-cap ($11,378M mktcap) in Defense/Electrical Hardware \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "SWKS",
+      "name": "Skyworks Solutions, Inc.",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "market_cap": 12367357953.0,
+      "price": 82.19,
+      "bucket": "Semiconductors",
+      "why_flagged": "target-sector small-cap ($12,367M mktcap) in Semiconductors \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "SITM",
+      "name": "SiTime Corporation",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "market_cap": 12537050965.0,
+      "price": 416.915,
+      "bucket": "Semiconductors",
+      "why_flagged": "target-sector small-cap ($12,537M mktcap) in Semiconductors \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "PNW",
+      "name": "Pinnacle West Capital Corporation",
+      "sector": "Utilities",
+      "industry": "Regulated Electric",
+      "market_cap": 12631151340.0,
+      "price": 104.22,
+      "bucket": "Grid (Regulated Electric)",
+      "why_flagged": "target-sector small-cap ($12,631M mktcap) in Grid (Regulated Electric) \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "IONQ",
+      "name": "IonQ, Inc.",
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "market_cap": 14007279076.0,
+      "price": 32.62,
+      "bucket": "AI/Data-Center Hardware",
+      "why_flagged": "target-sector small-cap ($14,007M mktcap) in AI/Data-Center Hardware \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "TXT",
+      "name": "Textron Inc.",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "market_cap": 14151676000.0,
+      "price": 83.54,
+      "bucket": "Defense/Electrical Hardware",
+      "why_flagged": "target-sector small-cap ($14,152M mktcap) in Defense/Electrical Hardware \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "TLN",
+      "name": "Talen Energy Corporation",
+      "sector": "Utilities",
+      "industry": "Independent Power Producers",
+      "market_cap": 14732639533.0,
+      "price": 338.64,
+      "bucket": "Power Generation (IPP)",
+      "why_flagged": "target-sector small-cap ($14,733M mktcap) in Power Generation (IPP) \u2014 below news-coverage radar"
+    },
+    {
+      "ticker": "LSCC",
+      "name": "Lattice Semiconductor Corporation",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "market_cap": 14915990600.0,
+      "price": 105.02,
+      "bucket": "Semiconductors",
+      "why_flagged": "target-sector small-cap ($14,916M mktcap) in Semiconductors \u2014 below news-coverage radar"
+    }
+  ],
+  "fmp_calls_made": 7,
+  "buckets": [
+    "Semiconductors: 8 candidates",
+    "AI/Data-Center Hardware: 8 candidates",
+    "Defense/Electrical Hardware: 6 candidates",
+    "Grid (Regulated Electric): 8 candidates",
+    "Power Generation (IPP): 5 candidates"
+  ]
+}

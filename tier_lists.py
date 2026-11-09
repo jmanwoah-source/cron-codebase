@@ -1,0 +1,1 @@
+/home/jaren/.hermes/scripts/tier_lists.py

@@ -1,0 +1,134 @@
+{
+ "comment": "Primary-source feeds config. Edit phrases/categories here; the run script reads this verbatim. NEVER let the LLM rewrite query strings at runtime. Staging: candidates auto-extracted from high-scoring record titles; promote to a feed's phrases only after 2 days of >=3 hits (weekly human review). query_version hash is logged into every run's report for audit.",
+ "feed_cadence_hours": 6,
+ "feeds": {
+  "osti": {
+   "enabled": true,
+   "endpoint": "https://www.osti.gov/api/v1/records",
+   "window_days": 1,
+   "coldstart_window_days": 14,
+   "phrases": [
+    "small modular reactor",
+    "uranium fuel cycle",
+    "advanced packaging",
+    "silicon photonics",
+    "lithography",
+    "counter-UAS",
+    "liquid immersion cooling"
+   ],
+   "phrases_staging": [],
+   "max_per_run": 5
+  },
+  "arxiv": {
+   "enabled": true,
+   "endpoint": "https://export.arxiv.org/api/query",
+   "window_days": 2,
+   "coldstart_window_days": 14,
+   "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci",
+    "physics.optics",
+    "cs.RO",
+    "quant-ph"
+   ],
+   "phrases_staging": [],
+   "max_per_run": 5
+  },
+  "sec_edgar": {
+   "enabled": true,
+   "endpoint": "https://efts.sec.gov/LATEST/search-index",
+   "window_days": 2,
+   "coldstart_window_days": 90,
+   "phrases": [
+    "liquid cooling",
+    "counter-UAS",
+    "advanced packaging",
+    "silicon photonics",
+    "small modular reactor"
+   ],
+   "tier_b_window_days": 7,
+   "phrases_staging": [],
+   "max_per_run": 5
+  },
+  "edgar_atom": {
+   "enabled": true,
+   "comment": "Intraday fast lane (live-verified 2026-10-30): browse-edgar current-events Atom for 8-K (material events) + SC 13D/13G (ownership). Catches filings within the window, not the 120m syndication lag. S1 = Item 1.01/2.01 or watchlist CIK. Lanes/endpoints live in primary_feeds.py (_ATOM_FAST_LANES) - human-tuned.",
+   "window_days": 1,
+   "dedupe_days": 14,
+   "max_per_run": 5
+  },
+  "federalreg": {
+   "enabled": true,
+   "endpoint": "https://www.federalregister.gov/api/v1/documents.json",
+   "window_days": 3,
+   "coldstart_window_days": 30,
+   "phrases": [
+    "small modular reactor",
+    "counter-UAS",
+    "liquid cooling",
+    "semiconductor export"
+   ],
+   "phrases_staging": [],
+   "max_per_run": 5,
+   "note": "API does NOT support OR across phrases; script fans out one request per phrase"
+  },
+  "gnews": {
+   "enabled": true,
+   "comment": "Google News wire-proxy discovery (live-verified 2026-10-31). Exchange-tag lanes (NASDAQ:/NYSE:) + defense/government awards, when:6h-12h windows. Gate: exchange-prefixed ticker required + noise-phrase filter (script: primary_feeds.py f_gnews). COMPOUND OR + exchange tags returns 0 \u2014 one tag per query. when: window is Google-side freshness; window_days in WINDOWS is a no-op safety net (RSS items carry no usable date field). Wave-A Step 3 (2026-10-31): dual entity resolution (pass 1 exchange-ticker + pass 2 normalized-name fallback), max 8 dedup items/run prioritized by extracted dollar amount (primary_feeds.py f_gnews).",
+   "phrases": [
+    "NASDAQ: (award OR contract) when:6h",
+    "NYSE: (contract OR award OR \"design win\") when:12h",
+    "\"Department of Defense\" (contract OR award) when:12h"
+   ],
+   "phrases_staging": [],
+   "max_per_run": 8
+  },
+  "eia": {
+   "enabled": true,
+   "endpoint": "https://api.eia.gov/v2/electricity/retail-sales/data/",
+   "api_key": "7FmNtwHhWtnRGmCQmWcQwMCbCPwmDJ6PztDzGCPg",
+   "window_days": 1,
+   "alert_mom_pct": 8.0,
+   "series": {
+    "epod_TX": {
+     "data": "sales",
+     "state": "TX",
+     "sector": "ALL"
+    },
+    "epod_VA": {
+     "data": "sales",
+     "state": "VA",
+     "sector": "ALL"
+    },
+    "epod_TN": {
+     "data": "sales",
+     "state": "TN",
+     "sector": "ALL"
+    }
+   },
+   "max_per_run": 2,
+   "note": "Metric class: alerts fire on MoM derivative only, never raw values. ROUTE PIVOT 2026-11-02: EPOD route dead (HTTP 500 server-side since ~10-25); now retail-sales (EIA-861 all-sectors MWh, live-verified)."
+  },
+  "fmp_pr": {
+   "enabled": true,
+   "comment": "Entity Acquisition Upgrade 2026-11-04: FMP press-release firehose (GlobeNewswire/PRNewswire via FMP news press-releases), corridor-scoped to entity_universe_gate.json ($500M-$300B US), keyword-evaluated (scripts/primary_feeds.py _KEYWORD_RE). Human-tuned; never LLM-rewritten.",
+   "window_days": 1,
+   "dedupe_days": 14,
+   "max_per_run": 5,
+   "max_pages": 1
+  },
+  "fmp_8k": {
+   "enabled": true,
+   "comment": "Entity Acquisition Upgrade 2026-11-04: FMP 8-K firehose (secFilings 8k-latest \u2014 verified FRESH 2026-11-04, newest filing same-day). Corridor-scoped; fetches the filing document (finalLink) for Item 1.01/2.01 + thematic keyword scan. max_fetches bounds SEC document fetches per run.",
+   "window_days": 1,
+   "dedupe_days": 14,
+   "max_per_run": 5,
+   "max_pages": 4,
+   "max_fetches": 4
+  }
+ },
+ "staging": {
+  "comment": "Auto-extracted candidate phrases; promote to feed.phrases after 2 days at >=3 hits. Human reviewed weekly.",
+  "candidates": []
+ }
+}

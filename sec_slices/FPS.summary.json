@@ -1,0 +1,24 @@
+{
+  "ticker": "FPS",
+  "company": "Forgent Power Solutions, Inc.",
+  "filing_date": "2026-09-15",
+  "accession": "0002080126-26-000035",
+  "doc": "fps-20260630.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/FPS_000208012626000035.html",
+  "raw_chars": 2564428,
+  "stripped_chars": 2423718,
+  "strip_saved": 140710,
+  "text_chars": 572865,
+  "headings_candidates": 16,
+  "headings_selected": 16,
+  "toc_dropped": 0,
+  "item_chars": {
+    "1": 0,
+    "1A": 5032,
+    "7": 10033,
+    "8": 9000
+  },
+  "total_chars": 24566,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/FPS.md"
+}

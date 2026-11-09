@@ -1,0 +1,302 @@
+{
+ "CEG": {
+  "primary_benchmark": "XLE",
+  "parent_whale": "VST",
+  "thesis_hook": "Only scale merchant nuclear fleet; 2026 data-center power demand inflection; 12.7% share dilution flagged",
+  "dilution_risk": true
+ },
+ "KEYS": {
+  "primary_benchmark": "SMH",
+  "parent_whale": "NVDA",
+  "thesis_hook": "Quantum metrology test-equipment niche; NPL/MPI broadband co-dev; Z=7.1 fortress",
+  "dilution_risk": false
+ },
+ "LITE": {
+  "primary_benchmark": "SMH",
+  "parent_whale": "NVDA",
+  "thesis_hook": "1060nm VCSEL PCIe-over-fiber demo with Astera/Corning; co-packaging optics position",
+  "dilution_risk": false
+ },
+ "AEM": {
+  "primary_benchmark": "XME",
+  "parent_whale": null,
+  "thesis_hook": "Entity-review hold: profile is Agnico Eagle gold miner; AI-semi catalyst briefs belong to a different entity \u2014 do not trade",
+  "dilution_risk": false
+ },
+ "SAIC": {
+  "primary_benchmark": "ITA",
+  "parent_whale": "LHX",
+  "thesis_hook": "First mission integrator to deliver practical quantum solutions to DoD; $400M intelligence-agency recompete, Z 3.4 fortress",
+  "dilution_risk": false
+ },
+ "NTAP": {
+  "primary_benchmark": "XAR",
+  "parent_whale": "MSFT",
+  "thesis_hook": "Z 17.9 fortress, 70% gross margin; AI-data storage platform through hyperscaler capex cycle",
+  "dilution_risk": false
+ },
+ "INFY": {
+  "primary_benchmark": "XAR",
+  "parent_whale": "MSFT",
+  "thesis_hook": "Z 5.2 fortress but off-four-pillar IT services; Q1 FY27 guidance cut + JPM downgrade \u2014 reference only",
+  "dilution_risk": false
+ },
+ "QUBT": {
+  "primary_benchmark": "QTUM",
+  "parent_whale": "IONQ",
+  "thesis_hook": "Trapped-ion quantum hardware name; 10x error-correction record is Quantinuum-adjacent story, dRev +100% but 58.9% share dilution",
+  "dilution_risk": true
+ },
+ "MVIS": {
+  "primary_benchmark": "SMH",
+  "parent_whale": "AAPL",
+  "thesis_hook": "AR display + 3D sensing; 2q runway and 31% dilution make this a structural-breakdown watch",
+  "dilution_risk": true
+ },
+ "TLN": {
+  "primary_benchmark": "XLU",
+  "parent_whale": "CEG",
+  "thesis_hook": "Nuclear+gas IPP for AI load; XLU utility anchor, CEG is the nuclear-scale parent",
+  "dilution_risk": false
+ },
+ "SVCO": {
+  "primary_benchmark": "SMH",
+  "parent_whale": "TSM",
+  "thesis_hook": "Samsung foundry EDA/IP partnership validates semiconductor-modeling moat; 1.8q runway keeps dilution-trap flag",
+  "dilution_risk": true
+ },
+ "NXPI": {
+  "primary_benchmark": "SMH",
+  "parent_whale": "NVDA",
+  "thesis_hook": "Automotive + AI-edge analog franchise with Z4.3 fortress; soft Q4 guidance is the entry discount",
+  "dilution_risk": false
+ },
+ "LDOS": {
+  "primary_benchmark": "ITA",
+  "parent_whale": "LMT",
+  "thesis_hook": "DoD digital-warfare integrator; Z3.3 fortress with 5.5% FCF yield, no dilution",
+  "dilution_risk": false
+ },
+ "ADBE": {
+  "primary_benchmark": "XLK",
+  "parent_whale": "MSFT",
+  "thesis_hook": "Creative/PPM SaaS franchise with Z7.7 net-cash fortress; macro chip-slide entry, no recent catalyst flow",
+  "dilution_risk": false
+ },
+ "ATMS": {
+  "primary_benchmark": "XBI",
+  "parent_whale": null,
+  "dilution_risk": true,
+  "thesis_hook": "Artemis Therapeutics biotech shell; GaN JDA briefs belong to ATOM (Atomera) — entity-review, XBI anchor, do not trade on semiconductor thesis"
+ },
+ "AVAV": {
+  "primary_benchmark": "ITA",
+  "parent_whale": "LHX",
+  "thesis_hook": "Titan 3yr C-UAS contract + $51M Army delivery + JIATF-401 Domestic Shield; L3Harris is the parent-scale C-UAS anchor",
+  "dilution_risk": false
+ },
+ "DRS": {
+  "primary_benchmark": "ITA",
+  "parent_whale": "LHX",
+  "thesis_hook": "JIATF-401 $500M IDIQ + counter-drone radar slots; L3Harris is the parent-scale C-UAS anchor",
+  "dilution_risk": false
+ },
+ "XMAX": {
+  "primary_benchmark": "SMH",
+  "parent_whale": "ON",
+  "thesis_hook": "1200V vertical GaN (Hexa Creation) into 800V DC data-center power chain; 344% YoY dilution flagged",
+  "dilution_risk": true
+ },
+ "SKYQ": {
+  "primary_benchmark": "QTUM",
+  "parent_whale": "IONQ",
+  "thesis_hook": "Sky Quarry riding D-Wave sector briefs only; 94.8% YoY share dilution + 0q runway \u2014 do not short on fundamentals alone",
+  "dilution_risk": true
+ },
+ "FLEX": {
+  "primary_benchmark": "SMH",
+  "parent_whale": "NVDA",
+  "thesis_hook": "Factory-built AI modules for modular data centers; Z 7.19 net-cash fortress",
+  "dilution_risk": false
+ },
+ "TTMI": {
+  "primary_benchmark": "SMH",
+  "parent_whale": "NVDA",
+  "thesis_hook": "NVIDIA 2.5x substrate capacity through 2028 supply partner; Z 5.52",
+  "dilution_risk": false
+ },
+ "INFQ": {
+  "primary_benchmark": "ITA",
+  "parent_whale": "LHX",
+  "thesis_hook": "Quantum RF sensing: DoD APFIT $11M + Innovate UK $12M + NASA QGGPf hardware; 1309% share-count rebase flagged",
+  "dilution_risk": true
+ },
+ "QBTS": {
+  "primary_benchmark": "QTUM",
+  "parent_whale": "IONQ",
+  "thesis_hook": "Dual-rail erasure qubit gate published in Nature; DoD $350M quantum push named beneficiary; 26% YoY dilution",
+  "dilution_risk": true
+ },
+ "SMTC": {
+  "primary_benchmark": "SMH",
+  "parent_whale": "NVDA",
+  "thesis_hook": "SiGe/silicon-photonics franchise doubling data-center revenue by FY28-29; Z 12.64, guidance raised",
+  "dilution_risk": false
+ },
+ "AMKR": {
+  "primary_benchmark": "SMH",
+  "parent_whale": "NVDA",
+  "thesis_hook": "NVIDIA named in 6-partner substrate capacity expansion (2.5x)",
+  "dilution_risk": false
+ },
+ "GFS": {
+  "primary_benchmark": "SMH",
+  "parent_whale": "TSM",
+  "thesis_hook": "GM supply agreement on 2 new 300mm NY fabs ($21B US-Japan deal); TSM is the foundry-scale anchor for SMH benchmark",
+  "dilution_risk": false
+ },
+ "LSCC": {
+  "primary_benchmark": "SMH",
+  "parent_whale": "AMD",
+  "thesis_hook": "NIOS edge-AI sensor-fusion design collab; deferred revenue +372% QoQ; AMD is the FPGA-scale anchor",
+  "dilution_risk": false
+ },
+ "ALAB": {
+  "primary_benchmark": "SMH",
+  "parent_whale": "NVDA",
+  "thesis_hook": "PCIe-retimer/co-packaged-optics franchise; 1060nm VCSEL demo with Lumentum/Corning",
+  "dilution_risk": false
+ },
+ "CRDO": {
+  "primary_benchmark": "SMH",
+  "parent_whale": "NVDA",
+  "thesis_hook": "SerDes/AI-networking analog franchise (Z 9.8); hyperscaler AI-interconnect demand; 8.2% YoY dilution kill flagged",
+  "dilution_risk": true
+ },
+ "TXN": {
+  "primary_benchmark": "SMH",
+  "parent_whale": "AMD",
+  "thesis_hook": "Analog/microcontroller franchise (Z 13 fortress) into auto + AI-edge content; near-ceiling $275B",
+  "dilution_risk": false
+ },
+ "ONTO": {
+  "primary_benchmark": "SMH",
+  "parent_whale": "NVDA",
+  "thesis_hook": "Fab inspection for advanced nodes + drev +14% qoq; 800V DC power buildout",
+  "dilution_risk": false
+ },
+ "MOBX": {
+  "primary_benchmark": "SMH",
+  "parent_whale": "ON",
+  "thesis_hook": "Power/RF IC microcap; S-1 resale registration + 1q-class runway - mirage",
+  "dilution_risk": true
+ },
+ "ALGM": {
+  "primary_benchmark": "SMH",
+  "parent_whale": "NVDA",
+  "thesis_hook": "8-inch GaN power via imec IC-Link for 800V AI data-center rails; Z 7.22 fortress",
+  "dilution_risk": false
+ },
+ "NOC": {
+  "primary_benchmark": "ITA",
+  "parent_whale": "LMT",
+  "thesis_hook": "NDAA-directed advanced packaging + sole-source defense electronics supply base",
+  "dilution_risk": false
+ },
+ "ON": {
+  "primary_benchmark": "SMH",
+  "parent_whale": "TXN",
+  "thesis_hook": "Analog/power-semi IP franchise riding 800V data-center power rails; TXN is the analog-scale anchor; Z=4.34",
+  "dilution_risk": false
+ },
+ "EQIX": {
+  "primary_benchmark": "DTCR",
+  "parent_whale": "MSFT",
+  "thesis_hook": "AI data-center colossus adding liquid-cooling capacity; hyperscaler MSFT is the Tier-1 anchor",
+  "dilution_risk": false
+ },
+ "BURU": {
+  "primary_benchmark": "ITA",
+  "parent_whale": "AVAV",
+  "dilution_risk": true,
+  "thesis_hook": "Tekne defense/dual-use portfolio ($93M) vs 129% YoY dilution + negative margins \u2014 mirage, do not long"
+ },
+ "PRZO": {
+  "primary_benchmark": "ITA",
+  "parent_whale": "AVAV",
+  "thesis_hook": "Counter-UAS drone-tech micro-cap; 1.3q runway + 55.6% YoY dilution \u2014 structural-breakdown watch only",
+  "dilution_risk": true
+ },
+ "CVV": {
+  "primary_benchmark": "SOXX",
+  "parent_whale": "WOLF",
+  "thesis_hook": "SiC crystal-growth equipment (Chameleon): Stony Brook boule demo, GM +887bps, pre-revenue inflection vs SiC materials anchor Wolfspeed",
+  "dilution_risk": false
+ },
+ "DIT": {
+  "primary_benchmark": "XRT",
+  "parent_whale": null,
+  "thesis_hook": "AMCON grocery-distributor microcap (not Applied Digital — entity-review); 0q runway, 51% YoY share growth — structural-breakdown anchor",
+  "dilution_risk": true
+ },
+ "CACI": {
+  "primary_benchmark": "ITA",
+  "parent_whale": "LHX",
+  "thesis_hook": "$500M SkyValor drone-defense contract + federal franchise; counter-UAS defense P&L, Z 3.0 fortress",
+  "dilution_risk": false
+ },
+ "AEIS": {
+  "primary_benchmark": "SMH",
+  "parent_whale": "NVDA",
+  "thesis_hook": "Advanced Energy: precision power/electronics for fabs + DC labs (Z 5.0 net-cash fortress); drev +6.4 qoq — reference only",
+  "dilution_risk": false
+ },
+ "RDDT": {
+  "primary_benchmark": "PDP",
+  "parent_whale": "MSFT",
+  "thesis_hook": "Consumer-internet franchise; fortress Z 4.93, DAU-warning pullback only, no pillar catalyst in window",
+  "dilution_risk": false
+ },
+ "FPS": {
+  "primary_benchmark": "XLI",
+  "parent_whale": "CEG",
+  "thesis_hook": "AI-data-center power-distribution franchise; CFO-departure plunge and 31.9% YoY share dilution are the risk",
+  "dilution_risk": true
+ },
+ "QUCY": {
+  "primary_benchmark": "QTUM",
+  "parent_whale": "IONQ",
+  "thesis_hook": "Entity-review shell (profile Quantum Cyber vs quote Mainz Biomed); 0.1q runway, 116% dilution, briefs describe a quantum-antenna pitch",
+  "dilution_risk": true
+ },
+ "SPIR": {
+  "primary_benchmark": "XAR",
+  "parent_whale": null,
+  "thesis_hook": "Satellite space-data microcap in structural breakdown (runway ~4q, 22% YoY dilution, GM -570bps) — mirage anchor, no Tier-1 parent",
+  "dilution_risk": true
+ },
+ "ADIL": {
+  "primary_benchmark": "XBI",
+  "parent_whale": null,
+  "thesis_hook": "Adial pharma microcap; Adeia (ADEA) catalyst briefs mis-attached — entity-review, financials-only, mirage anchor",
+  "dilution_risk": true
+ },
+ "ESLT": {
+  "primary_benchmark": "ITA",
+  "parent_whale": "LMT",
+  "thesis_hook": "Israeli defense-electronics franchise (sensors/C-UAS); LMT is the parent-scale defense anchor",
+  "dilution_risk": false
+ },
+ "AEHR": {
+  "primary_benchmark": "SMH",
+  "parent_whale": "NVDA",
+  "thesis_hook": "GaN/3D-IC test-handles franchise (Z 6.7 fortress); Q1 rev +200% YoY, b2b 1.4x, backlog $109M, FY guide raised to $150M; 9% YoY share dilution with PSFV carve-out",
+  "dilution_risk": false
+ },
+ "LRCX": {
+  "primary_benchmark": "SMH",
+  "parent_whale": "NVDA",
+  "thesis_hook": "Lithography/etch tool bottleneck for AI foundry capex; Q1 FY27 $8.22B revenue, component-shortage caution; near-ceiling $280.8B",
+  "dilution_risk": false
+ }
+}

@@ -1,0 +1,24 @@
+{
+  "ticker": "NXPI",
+  "company": "NXP Semiconductors N.V.",
+  "filing_date": "2026-02-19",
+  "accession": "0001413447-26-000008",
+  "doc": "nxpi-20251231.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/NXPI_000141344726000008.html",
+  "raw_chars": 2585040,
+  "stripped_chars": 2371101,
+  "strip_saved": 213939,
+  "text_chars": 396530,
+  "headings_candidates": 26,
+  "headings_selected": 18,
+  "toc_dropped": 8,
+  "item_chars": {
+    "1": 6032,
+    "1A": 5032,
+    "7": 10033,
+    "8": 373
+  },
+  "total_chars": 22004,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/NXPI.md"
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "ticker": "AVAV",
+    "company": "AeroVironment Inc",
+    "filing_date": "2026-06-29",
+    "accession": "0001104659-26-078906",
+    "doc": "avav-20260430x10k.htm",
+    "cache": "/home/jaren/.hermes/cron/sec_cache/AVAV_000110465926078906.html",
+    "raw_chars": 4304106,
+    "stripped_chars": 4070232,
+    "strip_saved": 233874,
+    "text_chars": 540244,
+    "headings_candidates": 19,
+    "headings_selected": 17,
+    "toc_dropped": 2,
+    "item_chars": {
+      "1": 6032,
+      "1A": 5032,
+      "7": 10033,
+      "8": 9000
+    },
+    "total_chars": 29883,
+    "hard_cap": 30000,
+    "output": "/home/jaren/.hermes/cron/sec_slices/AVAV.md"
+  },
+  {
+    "ticker": "ALAB",
+    "company": "Astera Labs, Inc.",
+    "filing_date": "2026-02-20",
+    "accession": "0001736297-26-000010",
+    "doc": "alab-20251231.htm",
+    "cache": "/home/jaren/.hermes/cron/sec_cache/ALAB_000173629726000010.html",
+    "raw_chars": 2244531,
+    "stripped_chars": 2129793,
+    "strip_saved": 114738,
+    "text_chars": 381960,
+    "headings_candidates": 21,
+    "headings_selected": 18,
+    "toc_dropped": 3,
+    "item_chars": {
+      "1": 6032,
+      "1A": 5032,
+      "7": 10033,
+      "8": 9000
+    },
+    "total_chars": 29883,
+    "hard_cap": 30000,
+    "output": "/home/jaren/.hermes/cron/sec_slices/ALAB.md"
+  }
+]

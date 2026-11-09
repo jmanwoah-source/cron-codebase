@@ -1,0 +1,9 @@
+{
+  "ingested_at": "2026-11-09T18:08:03.916010+00:00",
+  "cycle": "2026-11-09",
+  "scored_count": 11,
+  "excluded_count": 7,
+  "tier_distribution": {
+    "LOW": 11
+  }
+}

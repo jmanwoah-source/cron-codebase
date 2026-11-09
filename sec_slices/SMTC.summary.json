@@ -1,0 +1,24 @@
+{
+  "ticker": "SMTC",
+  "company": "SEMTECH CORP",
+  "filing_date": "2026-03-23",
+  "accession": "0000088941-26-000005",
+  "doc": "smtc-20260125.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/SMTC_000008894126000005.html",
+  "raw_chars": 3008260,
+  "stripped_chars": 2720744,
+  "strip_saved": 287516,
+  "text_chars": 529985,
+  "headings_candidates": 26,
+  "headings_selected": 18,
+  "toc_dropped": 8,
+  "item_chars": {
+    "1": 6032,
+    "1A": 5032,
+    "7": 10033,
+    "8": 9000
+  },
+  "total_chars": 29883,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/SMTC.md"
+}

@@ -1,0 +1,24 @@
+{
+  "ticker": "LRCX",
+  "company": "LAM RESEARCH CORP",
+  "filing_date": "2026-08-07",
+  "accession": "0000707549-26-000037",
+  "doc": "lrcx-20260628.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/LRCX_000070754926000037.html",
+  "raw_chars": 1920265,
+  "stripped_chars": 1803266,
+  "strip_saved": 116999,
+  "text_chars": 366637,
+  "headings_candidates": 22,
+  "headings_selected": 18,
+  "toc_dropped": 4,
+  "item_chars": {
+    "1": 6032,
+    "1A": 5032,
+    "7": 10033,
+    "8": 9000
+  },
+  "total_chars": 29883,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/LRCX.md"
+}

@@ -1,0 +1,24 @@
+{
+  "ticker": "BWXT",
+  "company": "BWX Technologies, Inc.",
+  "filing_date": "2026-02-23",
+  "accession": "0001486957-26-000007",
+  "doc": "bwxt-20251231.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/BWXT_000148695726000007.html",
+  "raw_chars": 3018824,
+  "stripped_chars": 2720788,
+  "strip_saved": 298036,
+  "text_chars": 420739,
+  "headings_candidates": 19,
+  "headings_selected": 17,
+  "toc_dropped": 2,
+  "item_chars": {
+    "1": 6032,
+    "1A": 5032,
+    "7": 10033,
+    "8": 9000
+  },
+  "total_chars": 29883,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/BWXT.md"
+}

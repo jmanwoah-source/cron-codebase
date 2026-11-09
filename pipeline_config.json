@@ -1,0 +1,476 @@
+{
+ "fmp_mcp_url": "https://financialmodelingprep.com/mcp?apikey=YFP1FhbI0QC2DC2mNh7InDvWxdCn5Uh9",
+ "searxng_url": "http://localhost:8888",
+ "vllm_health_url": "http://localhost:8000/health",
+ "cron_dir": "~/.hermes/cron",
+ "wiki_dir": "~/wiki",
+ "thresholds": {
+  "active_min_best_track": 75,
+  "active_min_briefs": 2,
+  "recheck_days": 14,
+  "stale_file_min": 150,
+  "disk_low_pct": 5,
+  "wiki_max_market_cap": 300000000000,
+  "mcap_cache_ttl_days": 7
+ },
+ "financial_scoring_bands": {
+  "comment": "Deterministic 0-20 sub-score bands; replaces LLM arithmetic. Tune here, not in prompts.",
+  "revenue_growth": [
+   [
+    30,
+    20
+   ],
+   [
+    15,
+    17
+   ],
+   [
+    5,
+    14
+   ],
+   [
+    0,
+    10
+   ],
+   [
+    -15,
+    5
+   ]
+  ],
+  "operating_margin": [
+   [
+    40,
+    20
+   ],
+   [
+    25,
+    16
+   ],
+   [
+    10,
+    12
+   ],
+   [
+    0,
+    8
+   ],
+   [
+    -999,
+    0
+   ]
+  ],
+  "net_margin": [
+   [
+    20,
+    20
+   ],
+   [
+    10,
+    16
+   ],
+   [
+    5,
+    12
+   ],
+   [
+    0,
+    8
+   ],
+   [
+    -999,
+    0
+   ]
+  ]
+ },
+ "sources": {
+  "comment": "Query list lives HERE (tuner commits changes to this file, not to job prompts). tag = agent-letter + letter.",
+  "max_results_per_query": 10,
+  "candidates_per_agent": 8,
+  "content_chars": 400,
+  "max_text_chars": 2000,
+  "max_items_per_agent_apply": 5,
+  "max_total_items": 30,
+  "sleep_s": 2.5,
+  "junk_domains": [
+   "youtube.com",
+   "youtu.be",
+   "wikipedia.org",
+   "reddit.com",
+   "medium.com",
+   "amazon.com",
+   "ebay.com",
+   "pinterest.com",
+   "tiktok.com",
+   "facebook.com",
+   "instagram.com",
+   "twitter.com",
+   "x.com",
+   "linkedin.com",
+   "quora.com",
+   "slideshare.net",
+   "researchgate.net",
+   "academia.edu",
+   "issuu.com",
+   "scribd.com",
+   "tumblr.com"
+  ],
+  "etf_blocklist": [
+   "SPY",
+   "QQQ",
+   "IWM",
+   "VGT",
+   "SMH",
+   "SOXX",
+   "ARKK",
+   "XLE",
+   "XLI",
+   "XLF",
+   "XLU",
+   "ARKF",
+   "BOTZ",
+   "ICLN",
+   "URNM",
+   "NLR",
+   "URA",
+   "URAET",
+   "TAN",
+   "GDX",
+   "GDXJ",
+   "IGV",
+   "IGR",
+   "TQQQ",
+   "SQQQ",
+   "DIA",
+   "VOO",
+   "IVV",
+   "SCHD",
+   "SMALL",
+   "AVUV",
+   "VB",
+   "VBR"
+  ],
+  "common_word_blocklist": [
+   "MAP",
+   "NEWS",
+   "TEAM",
+   "TEAMS",
+   "CHIP",
+   "CHIPS",
+   "LEVEL",
+   "LASER",
+   "LASERS",
+   "QEC",
+   "SBIR",
+   "GLOBAL",
+   "GROWTH",
+   "CHAINS",
+   "CHAIN",
+   "SUPPLY",
+   "DEMAND",
+   "CENTER",
+   "CENTERS",
+   "DATA",
+   "PLATFORM",
+   "PLATFORMS",
+   "PROCESSOR",
+   "PROCESSORS",
+   "SENSOR",
+   "SENSORS",
+   "DEVICE",
+   "DEVICES",
+   "MODULE",
+   "MODULES",
+   "SYSTEM",
+   "SYSTEMS",
+   "NETWORK",
+   "NETWORKS",
+   "MODEL",
+   "MODELS",
+   "BANK",
+   "BANKS",
+   "FUND",
+   "FUNDS",
+   "BOARD",
+   "BOARDS",
+   "CASE",
+   "CASES",
+   "GATE",
+   "GATES",
+   "RISK",
+   "RISKS",
+   "SECURE",
+   "SECURITY",
+   "PRIVACY",
+   "TRADE",
+   "TRADES",
+   "LICENSE",
+   "LICENSES",
+   "REGULATION",
+   "REGULATIONS",
+   "AUDIT",
+   "AUDITS",
+   "SPEND",
+   "SPENDING",
+   "COST",
+   "COSTS",
+   "REVENUE",
+   "REVENUES",
+   "PROFIT",
+   "PROFITS",
+   "MARGIN",
+   "MARGINS",
+   "FINANCE",
+   "FINANCIAL",
+   "ECONOMY",
+   "ECONOMIC",
+   "MARKETING",
+   "BRAND",
+   "BRANDS",
+   "CUSTOMER",
+   "CUSTOMERS",
+   "VENDOR",
+   "VENDORS",
+   "PARTNER",
+   "PARTNERS",
+   "AGREEMENT",
+   "AGREEMENTS",
+   "DEAL",
+   "DEALS",
+   "ACQUISITION",
+   "ACQUISITIONS",
+   "MERGER",
+   "VIDEO",
+   "IMAGES",
+   "PHOTOS",
+   "DOWNLOAD",
+   "REVIEWS",
+   "COMPARISON",
+   "NEWSLETTER",
+   "PODCAST",
+   "BLOG",
+   "HUB",
+   "INDEX",
+   "WATCHLIST",
+   "TOOL",
+   "TOOLS",
+   "CLOUD",
+   "GUIDE",
+   "GUIDES",
+   "PRO",
+   "PROS",
+   "ROBOT",
+   "ROBOTS",
+   "ROBOTICS",
+   "FACTORY",
+   "PLANT",
+   "PLANTS"
+  ],
+  "ticker_aliases": {
+   "NVDA": "NVDA",
+   "Nvidia": "NVDA",
+   "nvidia": "NVDA",
+   "TSMC": "TSM",
+   "TSM": "TSM",
+   "Micron": "MU",
+   "micron": "MU",
+   "TSMC shares": "TSM",
+   "Bosch": "BOSCH",
+   "Infleqtion": "INFQ",
+   "Inflection": "INFQ"
+  },
+  "queries": [
+   {
+    "tag": "1b",
+    "agent": "patent_supply_chain",
+    "source_name": "patent_supply_chain",
+    "source_type": "patent",
+    "category": "materials_science",
+    "time_range": "week",
+    "query": "GaN oxide semiconductor Ga2O3 foundry supply"
+   },
+   {
+    "tag": "1c",
+    "agent": "patent_supply_chain",
+    "source_name": "patent_supply_chain",
+    "source_type": "patent",
+    "category": "semiconductors",
+    "time_range": "week",
+    "query": "advanced packaging chiplet supplier \"sole source\""
+   },
+   {
+    "tag": "2b",
+    "agent": "conference_deep_dive",
+    "source_name": "conference_deep_dive",
+    "source_type": "conference",
+    "category": "ai_infrastructure",
+    "time_range": "week",
+    "query": "immersion cooling AI data center announcement"
+   },
+   {
+    "tag": "3a",
+    "agent": "negative_intelligence",
+    "source_name": "negative_intelligence",
+    "source_type": "negative_intelligence",
+    "category": "semiconductors",
+    "time_range": "day",
+    "query": "semiconductor company guidance cut"
+   },
+   {
+    "tag": "3b",
+    "agent": "negative_intelligence",
+    "source_name": "negative_intelligence",
+    "source_type": "negative_intelligence",
+    "category": "semiconductors",
+    "time_range": "day",
+    "query": "CEO departure semiconductor foundry"
+   },
+   {
+    "tag": "3c",
+    "agent": "negative_intelligence",
+    "source_name": "negative_intelligence",
+    "source_type": "negative_intelligence",
+    "category": "ai_infrastructure",
+    "time_range": "day",
+    "query": "analyst downgrade \"data center\" AI chip"
+   },
+   {
+    "tag": "4a",
+    "agent": "macro_government",
+    "source_name": "macro_government",
+    "source_type": "government",
+    "category": "energy",
+    "time_range": "week",
+    "query": "\"SMR\" nuclear DOE grant recipient announced"
+   },
+   {
+    "tag": "4c",
+    "agent": "macro_government",
+    "source_name": "macro_government",
+    "source_type": "government",
+    "category": "edge_robotics",
+    "time_range": "week",
+    "query": "DOD award \"counter-unmanned aircraft\" OR \"counter-UAS\""
+   },
+   {
+    "tag": "5a",
+    "agent": "quantum_research",
+    "source_name": "quantum_research",
+    "source_type": "quantum",
+    "category": "quantum",
+    "time_range": "week",
+    "query": "\"logical qubit\" \"below threshold\" quantum processor"
+   },
+   {
+    "tag": "5b",
+    "agent": "quantum_research",
+    "source_name": "quantum_research",
+    "source_type": "quantum",
+    "category": "quantum",
+    "time_range": "week",
+    "query": "\"quantum sensing\" defense contract win announcement"
+   },
+   {
+    "tag": "6a",
+    "agent": "edge_robotics",
+    "source_name": "edge_robotics",
+    "source_type": "edge_robotics",
+    "category": "edge_robotics",
+    "time_range": "day",
+    "query": "\"counter-UAS\" system contract win announcement"
+   },
+   {
+    "tag": "6b",
+    "agent": "edge_robotics",
+    "source_name": "edge_robotics",
+    "source_type": "edge_robotics",
+    "category": "edge_robotics",
+    "time_range": "day",
+    "query": "humanoid robot component supplier"
+   }
+  ],
+  "last_edit": "2026-10-30 Argon revamp: removed 4 site:-restricted queries (0-result dead slots: 1a, 2a, 2c, 4b)"
+ },
+ "process": {
+  "comment": "Processing phase tuning. Dedup threshold, text budget, brief retention window (rolling).",
+  "headline_similarity": 0.9,
+  "item_text_chars": 600,
+  "brief_retention_days": 14,
+  "history_retention_days": 30
+ },
+ "tuner": {
+  "comment": "Query Tuner: self-gated 24h, analyzes last 12 ledger windows per query.",
+  "windows": 12,
+  "gate_hours": 24
+ },
+ "inclination": {
+  "comment": "Early-advantage ('onto something') detector. notify_threshold is the 50% conviction trigger for Discord alerts. Component bands are in inclinations/inclination_score.py.",
+  "notify_threshold": 50,
+  "min_market_cap": 50000000,
+  "max_market_cap": 150000000000,
+  "stage_points": {
+   "shipping": 15,
+   "first_customer": 13,
+   "pilot": 9,
+   "academic": 4,
+   "unknown": 0
+  }
+ },
+ "deepdive": {
+  "comment": "Deep-Dive LLM-load control (2026-10-20). Exclude already-decided tickers from the per-cycle scoring universe to cut LLM completion tokens. ARCHIVED = the watchlist pruner already demoted them (mostly exited_100b_mcap_ceiling). Config-gated + visible: excluded tickers are reported in the dd_briefing summary, never silently dropped. Set include_archived=true to revert.",
+  "include_archived": false,
+  "include_dormant": true
+ },
+ "drift": {
+  "comment": "Drift-detector scan config (2026-10-26). sector_queries = big-substitution language (existing Leg A). sub2b_queries = small-cap winner-pattern language (Leg A2) \u2014 design-win / qualification / sole-source / DOE-award signals that surface the nano/sub-ceiling winners BEFORE they become headline substitutions. Tuner commits query changes HERE, not in drift_scan.py. Shadow-run: A2 results are TAGGED tag='a2' so the cron LLM can evaluate precision without affecting the base filing cap.",
+  "sector_queries": {
+   "semiconductors": [
+    "450mm wafer foundry transition",
+    "High-NA EUV HVM adoption",
+    "gate-all-around etch content per wafer",
+    "GaN-on-Si power epiwafer 8-inch",
+    "advanced packaging replaces node scaling"
+   ],
+   "ai-infrastructure": [
+    "liquid cooling default AI rack PPA",
+    "800V DC data center architecture",
+    "co-packaged optics copper interconnect replace",
+    "immersion cooling hyperscaler deployment"
+   ],
+   "advanced-energy": [
+    "SMR data center behind the meter",
+    "NRC standard design approval reactor",
+    "microreactor hyperscaler PPA award",
+    "transformer lead time grid equipment"
+   ],
+   "physical-ai": [
+    "autonomous counter-drone detect and kill",
+    "human in the loop removed autonomous engagement",
+    "edge NPU on-board inference defense",
+    "autonomous UAS FMS award"
+   ]
+  },
+  "sub2b_queries": {
+   "semiconductors": [
+    "semiconductor design win sole source supplier",
+    "fabless tape-out customer qualification",
+    "power semiconductor exclusive design win",
+    "silicon carbide filed patent power device"
+   ],
+   "ai-infrastructure": [
+    "data center component design win startup",
+    "co-packaged optics supplier design qualification",
+    "AI server startup component design win"
+   ],
+   "advanced-energy": [
+    "DOE grant reactor startup award",
+    "small modular reactor supplier design qualification",
+    "microreactor component design win utility"
+   ],
+   "physical-ai": [
+    "counter-UAS sensor design win startup",
+    "autonomous drone defense company award small",
+    "edge AI defense startup design qualification"
+   ]
+  }
+ }
+}

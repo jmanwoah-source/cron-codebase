@@ -1,0 +1,65 @@
+{
+  "run": "2026-11-04",
+  "results": [
+    {
+      "drift_id": "DRIFT-001",
+      "composite": 432,
+      "fetch_errors": []
+    },
+    {
+      "drift_id": "DRIFT-002",
+      "composite": 600,
+      "fetch_errors": []
+    },
+    {
+      "drift_id": "DRIFT-003",
+      "composite": 20,
+      "fetch_errors": []
+    },
+    {
+      "drift_id": "DRIFT-004",
+      "composite": 144,
+      "fetch_errors": []
+    },
+    {
+      "drift_id": "DRIFT-005",
+      "composite": 336,
+      "fetch_errors": []
+    },
+    {
+      "drift_id": "DRIFT-006",
+      "composite": 105,
+      "fetch_errors": []
+    },
+    {
+      "drift_id": "DRIFT-007",
+      "composite": 180,
+      "fetch_errors": []
+    },
+    {
+      "drift_id": "DRIFT-008",
+      "composite": 294,
+      "fetch_errors": []
+    },
+    {
+      "drift_id": "DRIFT-009",
+      "composite": 180,
+      "fetch_errors": []
+    },
+    {
+      "drift_id": "DRIFT-010",
+      "composite": 84,
+      "fetch_errors": []
+    },
+    {
+      "drift_id": "DRIFT-011",
+      "composite": 336,
+      "fetch_errors": []
+    },
+    {
+      "drift_id": "DRIFT-012",
+      "composite": 96,
+      "fetch_errors": []
+    }
+  ]
+}

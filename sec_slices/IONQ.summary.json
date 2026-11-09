@@ -1,0 +1,24 @@
+{
+  "ticker": "IONQ",
+  "company": "IonQ, Inc.",
+  "filing_date": "2026-02-25",
+  "accession": "0001193125-26-071562",
+  "doc": "ionq-20251231.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/IONQ_000119312526071562.html",
+  "raw_chars": 5633807,
+  "stripped_chars": 5405460,
+  "strip_saved": 228347,
+  "text_chars": 625948,
+  "headings_candidates": 23,
+  "headings_selected": 18,
+  "toc_dropped": 5,
+  "item_chars": {
+    "1": 6032,
+    "1A": 5032,
+    "7": 10033,
+    "8": 0
+  },
+  "total_chars": 21637,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/IONQ.md"
+}

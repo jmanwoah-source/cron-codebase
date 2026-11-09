@@ -1,0 +1,14 @@
+{
+ "triggered_at": "2026-10-15T17:06:08+00:00",
+ "job_id": "7267b662cf52",
+ "input": "/home/jaren/.hermes/cron/vetted_tickers.json",
+ "unique_tickers": 53,
+ "tier_summary": {
+  "high_conviction_75_plus": 0,
+  "moderate_conviction_65_to_74": 0,
+  "low_conviction_55_to_64": 2,
+  "below_threshold_below_55": 51
+ },
+ "status": "triggered_cli",
+ "note": "hermes cron run 7267b662cf52 returned success; scheduler acknowledged (already firing per scheduler, next run 2026-10-15T14:20:37-04:00). File handoff in place regardless."
+}

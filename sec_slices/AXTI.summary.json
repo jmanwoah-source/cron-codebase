@@ -1,0 +1,24 @@
+{
+  "ticker": "AXTI",
+  "company": "AXT INC",
+  "filing_date": "2026-03-17",
+  "accession": "0001437749-26-008612",
+  "doc": "axti20251231_10k.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/AXTI_000143774926008612.html",
+  "raw_chars": 3214833,
+  "stripped_chars": 2878574,
+  "strip_saved": 336259,
+  "text_chars": 533305,
+  "headings_candidates": 24,
+  "headings_selected": 18,
+  "toc_dropped": 6,
+  "item_chars": {
+    "1": 6032,
+    "1A": 5032,
+    "7": 10033,
+    "8": 0
+  },
+  "total_chars": 21637,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/AXTI.md"
+}

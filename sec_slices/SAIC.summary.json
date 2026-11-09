@@ -1,0 +1,24 @@
+{
+  "ticker": "SAIC",
+  "company": "Science Applications International Corp",
+  "filing_date": "2026-03-16",
+  "accession": "0001571123-26-000029",
+  "doc": "saic-20260130.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/SAIC_000157112326000029.html",
+  "raw_chars": 2196133,
+  "stripped_chars": 2049809,
+  "strip_saved": 146324,
+  "text_chars": 346574,
+  "headings_candidates": 22,
+  "headings_selected": 17,
+  "toc_dropped": 5,
+  "item_chars": {
+    "1": 0,
+    "1A": 5032,
+    "7": 10033,
+    "8": 0
+  },
+  "total_chars": 15596,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/SAIC.md"
+}

@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-11-09T08:19:11",
+  "lookback_days": 10,
+  "fmp_calls_made": 1,
+  "searxng_queries_run": 6,
+  "eight_k_fetched": 25,
+  "eight_k_ip_flags": [
+    {
+      "ticker": "HRTX",
+      "filing_date": "2026-11-09",
+      "matched_term": "patent",
+      "snippet": "",
+      "link": "https://www.sec.gov/Archives/edgar/data/818033/000119312526452721/hrtx-ex99_1.htm"
+    },
+    {
+      "ticker": "MREO",
+      "filing_date": "2026-11-09",
+      "matched_term": "license",
+      "snippet": "",
+      "link": "https://www.sec.gov/Archives/edgar/data/1719714/000119312526452716/mreo-ex99_1.htm"
+    },
+    {
+      "ticker": "QTRX",
+      "filing_date": "2026-11-09",
+      "matched_term": "license",
+      "snippet": "",
+      "link": "https://www.sec.gov/Archives/edgar/data/1503274/000150327426000042/ex991-qtrxx20260930.htm"
+    },
+    {
+      "ticker": "ADCT",
+      "filing_date": "2026-11-09",
+      "matched_term": "license",
+      "snippet": "",
+      "link": "https://www.sec.gov/Archives/edgar/data/1771910/000162828026071899/adct-20260930pressrelease.htm"
+    }
+  ],
+  "patent_filings": [
+    {
+      "company": "Wolfspeed TSiC",
+      "tech_area": "silicon carbide power",
+      "headline": "TSiC\u2122 Optical-Grade Silicon Carbide (SiC) Materials - Wolfspeed",
+      "url": "https://www.wolfspeed.com/products/materials/optical-grade-silicon-carbide/"
+    },
+    {
+      "company": "Shashwat Singh",
+      "tech_area": "silicon carbide power",
+      "headline": "Shashwat Singh holds 20+ patents in semiconductor design - LinkedIn",
+      "url": "https://www.linkedin.com/posts/sme-manufacturing-media_engineering-semiconductor-activity-7519495483300593664-fH59"
+    }
+  ],
+  "patent_assignee_counts": {
+    "Wolfspeed TSiC": 1,
+    "Shashwat Singh": 1
+  }
+}

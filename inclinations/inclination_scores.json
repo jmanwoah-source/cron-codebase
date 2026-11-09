@@ -1,0 +1,6586 @@
+{
+ "generated": "2026-11-09T13:19:12.782898+00:00",
+ "threshold": 50,
+ "tickers": [
+  {
+   "ticker": "LSCC",
+   "inclination_score": 44,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 24,
+    "source_diversity": 20,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "strong early-advantage edge",
+    "wide source diversity"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 14915990600.0,
+   "sector": "Technology",
+   "name": "Lattice Semiconductor Corporation"
+  },
+  {
+   "ticker": "SMTC",
+   "inclination_score": 36,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 24,
+    "source_diversity": 12,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "strong early-advantage edge"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 9632135176.0,
+   "sector": "Technology",
+   "name": "Semtech Corporation"
+  },
+  {
+   "ticker": "MCHP",
+   "inclination_score": 31,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 24,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "strong early-advantage edge"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 41258669156.0,
+   "sector": "Technology",
+   "name": "Microchip Technology Incorporated"
+  },
+  {
+   "ticker": "NVDA",
+   "inclination_score": 20,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 20,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "wide source diversity"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 5160533000000.0,
+   "sector": "Technology",
+   "name": "NVIDIA Corporation"
+  },
+  {
+   "ticker": "AMD",
+   "inclination_score": 16,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 16,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "wide source diversity"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 863171178458.0,
+   "sector": "Technology",
+   "name": "Advanced Micro Devices, Inc."
+  },
+  {
+   "ticker": "AMKR",
+   "inclination_score": 16,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 16,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "wide source diversity"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 8133130403.0,
+   "sector": "Technology",
+   "name": "Amkor Technology, Inc."
+  },
+  {
+   "ticker": "LMT",
+   "inclination_score": 12,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 12,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 127417403190.0,
+   "sector": "Industrials",
+   "name": "Lockheed Martin Corporation"
+  },
+  {
+   "ticker": "ALAB",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 33085343421,
+   "sector": "Technology",
+   "name": "Astera Labs, Inc. Common Stock"
+  },
+  {
+   "ticker": "ALGM",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 5253226110,
+   "sector": "Technology",
+   "name": "Allegro MicroSystems, Inc."
+  },
+  {
+   "ticker": "ARM",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 243290074018.0,
+   "sector": "Technology",
+   "name": "Arm Holdings plc American Depositary Shares"
+  },
+  {
+   "ticker": "AVAV",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 5730542132,
+   "sector": "Industrials",
+   "name": "AeroVironment, Inc."
+  },
+  {
+   "ticker": "AVGO",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1569330818119.0,
+   "sector": "Technology",
+   "name": "Broadcom Inc."
+  },
+  {
+   "ticker": "AXON",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 25427306200,
+   "sector": "Industrials",
+   "name": "Axon Enterprise, Inc."
+  },
+  {
+   "ticker": "CMST",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": null,
+   "sector": null,
+   "name": null
+  },
+  {
+   "ticker": "DRS",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 9075781733.0,
+   "sector": "Industrials",
+   "name": "Leonardo DRS, Inc."
+  },
+  {
+   "ticker": "FLNC",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1059066241,
+   "sector": "Industrials",
+   "name": "Fluence Energy, Inc."
+  },
+  {
+   "ticker": "GD",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 92376276510.0,
+   "sector": "Industrials",
+   "name": "General Dynamics Corporation"
+  },
+  {
+   "ticker": "HON",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 69605792308.0,
+   "sector": "Industrials",
+   "name": "Honeywell International Inc."
+  },
+  {
+   "ticker": "HPE",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 59410472300,
+   "sector": "Technology",
+   "name": "Hewlett Packard Enterprise Company"
+  },
+  {
+   "ticker": "IBM",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 218706986760.0,
+   "sector": "Technology",
+   "name": "International Business Machines Corporation"
+  },
+  {
+   "ticker": "INFQ",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 2003424192.0,
+   "sector": "Technology",
+   "name": "Infleqtion Inc"
+  },
+  {
+   "ticker": "INFY",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 50728500000,
+   "sector": "Technology",
+   "name": "Infosys Limited"
+  },
+  {
+   "ticker": "INTC",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 474956557791.0,
+   "sector": "Technology",
+   "name": "Intel Corp."
+  },
+  {
+   "ticker": "IONQ",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 14007279076.0,
+   "sector": "Technology",
+   "name": "IonQ, Inc."
+  },
+  {
+   "ticker": "LITE",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 48787044111,
+   "sector": "Technology",
+   "name": "Lumentum Holdings Inc."
+  },
+  {
+   "ticker": "MSFT",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 3928487227500.0,
+   "sector": "Technology",
+   "name": "Microsoft Corporation"
+  },
+  {
+   "ticker": "MTSI",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 16112732482,
+   "sector": "Technology",
+   "name": "MACOM Technology Solutions Holdings, Inc."
+  },
+  {
+   "ticker": "MU",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 994337152800.0,
+   "sector": "Technology",
+   "name": "Micron Technology, Inc."
+  },
+  {
+   "ticker": "NVTS",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 2248010730,
+   "sector": "Technology",
+   "name": "Navitas Semiconductor Corp"
+  },
+  {
+   "ticker": "NXPI",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 62582239370,
+   "sector": "Technology",
+   "name": "NXP Semiconductors N.V."
+  },
+  {
+   "ticker": "OKLO",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 4380715917.0,
+   "sector": "Utilities",
+   "name": "Oklo Inc."
+  },
+  {
+   "ticker": "ON",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 24645600999,
+   "sector": "Technology",
+   "name": "ON Semiconductor Corporation"
+  },
+  {
+   "ticker": "ONTO",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 8503585520.0,
+   "sector": "Technology",
+   "name": "Onto Innovation Inc."
+  },
+  {
+   "ticker": "QBTS",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 4020491682.0,
+   "sector": "Technology",
+   "name": "D-Wave Quantum Inc."
+  },
+  {
+   "ticker": "QCOM",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 183785857550.0,
+   "sector": "Technology",
+   "name": "QUALCOMM Incorporated"
+  },
+  {
+   "ticker": "QMCO",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 570262714.0,
+   "sector": "Technology",
+   "name": "Quantum Corporation"
+  },
+  {
+   "ticker": "QNT",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 9892486407.0,
+   "sector": "Technology",
+   "name": "Quantinuum Inc. Class A Common Stock"
+  },
+  {
+   "ticker": "QUBT",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1432775630.0,
+   "sector": "Technology",
+   "name": "Quantum Computing, Inc."
+  },
+  {
+   "ticker": "RGTI",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 3921782777.0,
+   "sector": "Technology",
+   "name": "Rigetti Computing, Inc."
+  },
+  {
+   "ticker": "RTX",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 261357249395.0,
+   "sector": "Industrials",
+   "name": "RTX Corporation"
+  },
+  {
+   "ticker": "SWKS",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 12367357953.0,
+   "sector": "Technology",
+   "name": "Skyworks Solutions, Inc."
+  },
+  {
+   "ticker": "TLN",
+   "inclination_score": 7,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 7,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 14732639533.0,
+   "sector": "Utilities",
+   "name": "Talen Energy Corporation"
+  },
+  {
+   "ticker": "AAPL",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 5012517062800.0,
+   "sector": "Technology",
+   "name": "Apple Inc."
+  },
+  {
+   "ticker": "ADBE",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 93135560000,
+   "sector": "Technology",
+   "name": "Adobe Inc."
+  },
+  {
+   "ticker": "ADCT",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 201714958.0,
+   "sector": "Healthcare",
+   "name": "ADC Therapeutics S.A."
+  },
+  {
+   "ticker": "ADEA",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1709342263,
+   "sector": "Technology",
+   "name": "Adeia Inc."
+  },
+  {
+   "ticker": "ADIL",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 13260745,
+   "sector": "Healthcare",
+   "name": "Adial Pharmaceuticals, Inc."
+  },
+  {
+   "ticker": "AEHR",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1749569415,
+   "sector": "Technology",
+   "name": "Aehr Test Systems"
+  },
+  {
+   "ticker": "AEM",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 87722649039.0,
+   "sector": "Basic Materials",
+   "name": "Agnico Eagle Mines Limited"
+  },
+  {
+   "ticker": "AEP",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 68898874780,
+   "sector": "Utilities",
+   "name": "American Electric Power Company, Inc."
+  },
+  {
+   "ticker": "AI",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1758131388.0,
+   "sector": "Technology",
+   "name": "C3.ai, Inc."
+  },
+  {
+   "ticker": "AMAT",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 324811497445.0,
+   "sector": "Technology",
+   "name": "Applied Materials, Inc."
+  },
+  {
+   "ticker": "AMZN",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 2696575000000.0,
+   "sector": "Consumer Cyclical",
+   "name": "Amazon.com, Inc."
+  },
+  {
+   "ticker": "AOSL",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 715502726,
+   "sector": "Technology",
+   "name": "Alpha and Omega Semiconductor Limited"
+  },
+  {
+   "ticker": "APLD",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 4702120027,
+   "sector": "Technology",
+   "name": "Applied Digital Corp."
+  },
+  {
+   "ticker": "ASML",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 632671340586.0,
+   "sector": "Technology",
+   "name": "ASML Holding N.V."
+  },
+  {
+   "ticker": "ASTS",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 13200746940,
+   "sector": "Communication Services",
+   "name": "AST SpaceMobile, Inc."
+  },
+  {
+   "ticker": "ATMS",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 55792932.0,
+   "sector": "Financial Services",
+   "name": "Artemis Therapeutics Inc."
+  },
+  {
+   "ticker": "ATOM",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 114730560.0,
+   "sector": "Technology",
+   "name": "Atomera Incorporated"
+  },
+  {
+   "ticker": "AV",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": null,
+   "sector": null,
+   "name": null
+  },
+  {
+   "ticker": "AXTI",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 2549486016,
+   "sector": "Technology",
+   "name": "AXT, Inc."
+  },
+  {
+   "ticker": "AYI",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 9670977814.0,
+   "sector": "Industrials",
+   "name": "Acuity Brands, Inc."
+  },
+  {
+   "ticker": "BA",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 138995719476.0,
+   "sector": "Industrials",
+   "name": "The Boeing Company"
+  },
+  {
+   "ticker": "BURU",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 9022450.0,
+   "sector": "Industrials",
+   "name": "Nuburu, Inc."
+  },
+  {
+   "ticker": "BVS",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 726511262,
+   "sector": "Healthcare",
+   "name": "Bioventus Inc."
+  },
+  {
+   "ticker": "BWX",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": null,
+   "sector": null,
+   "name": null
+  },
+  {
+   "ticker": "BWXT",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 10951043545.0,
+   "sector": "Industrials",
+   "name": "BWX Technologies, Inc."
+  },
+  {
+   "ticker": "CACI",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 13506389703,
+   "sector": "Technology",
+   "name": "CACI International Inc"
+  },
+  {
+   "ticker": "CARR",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 42855231590,
+   "sector": "Industrials",
+   "name": "Carrier Global Corporation"
+  },
+  {
+   "ticker": "CC",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1918862250,
+   "sector": "Basic Materials",
+   "name": "The Chemours Company"
+  },
+  {
+   "ticker": "CEG",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 88559129381,
+   "sector": "Utilities",
+   "name": "Constellation Energy Corporation"
+  },
+  {
+   "ticker": "CIFR",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 2986908925,
+   "sector": "Technology",
+   "name": "Cipher Mining Inc."
+  },
+  {
+   "ticker": "COHR",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 41215688990.0,
+   "sector": "Technology",
+   "name": "Coherent, Inc."
+  },
+  {
+   "ticker": "CRDO",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 22650085638,
+   "sector": "Technology",
+   "name": "Credo Technology Group Holding Ltd"
+  },
+  {
+   "ticker": "CRWV",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 30226963089.0,
+   "sector": "Technology",
+   "name": "CoreWeave, Inc. Class A Common Stock"
+  },
+  {
+   "ticker": "CVV",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 27596264,
+   "sector": "Industrials",
+   "name": "CVD Equipment Corporation"
+  },
+  {
+   "ticker": "DELL",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 287094885523.0,
+   "sector": "Technology",
+   "name": "Dell Technologies Inc."
+  },
+  {
+   "ticker": "DGXX",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 211412097.0,
+   "sector": "Utilities",
+   "name": "Digi Power X Inc."
+  },
+  {
+   "ticker": "DIT",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 60806544,
+   "sector": "Consumer Defensive",
+   "name": "AMCON Distributing Company"
+  },
+  {
+   "ticker": "DOW",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 23544695475.0,
+   "sector": "Basic Materials",
+   "name": "Dow Inc."
+  },
+  {
+   "ticker": "DXC",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 2310299060,
+   "sector": "Technology",
+   "name": "DXC Technology Company"
+  },
+  {
+   "ticker": "EC",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 36799441757.0,
+   "sector": "Energy",
+   "name": "Ecopetrol S.A."
+  },
+  {
+   "ticker": "ENPH",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 3766318010,
+   "sector": "Energy",
+   "name": "Enphase Energy, Inc."
+  },
+  {
+   "ticker": "ENTG",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 19555344000,
+   "sector": "Technology",
+   "name": "Entegris, Inc."
+  },
+  {
+   "ticker": "EPC",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1290028311,
+   "sector": "Consumer Defensive",
+   "name": "Edgewell Personal Care Company"
+  },
+  {
+   "ticker": "EQIX",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 94234420281.0,
+   "sector": "Real Estate",
+   "name": "Equinix, Inc."
+  },
+  {
+   "ticker": "FEIM",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 678877343,
+   "sector": "Technology",
+   "name": "Frequency Electronics, Inc."
+  },
+  {
+   "ticker": "FET",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 787795691,
+   "sector": "Energy",
+   "name": "Forum Energy Technologies, Inc."
+  },
+  {
+   "ticker": "FIVN",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 2101225692,
+   "sector": "Technology",
+   "name": "Five9, Inc."
+  },
+  {
+   "ticker": "FLEX",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 28322803600.0,
+   "sector": "Technology",
+   "name": "Flex Ltd."
+  },
+  {
+   "ticker": "FPS",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 8235886634.0,
+   "sector": "Industrials",
+   "name": "Forgent Power Solutions, Inc."
+  },
+  {
+   "ticker": "FSLR",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 21618728340,
+   "sector": "Energy",
+   "name": "First Solar, Inc."
+  },
+  {
+   "ticker": "GEHC",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 32259432118.0,
+   "sector": "Healthcare",
+   "name": "GE HealthCare Technologies Inc."
+  },
+  {
+   "ticker": "GEV",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 245346512320.0,
+   "sector": "Industrials",
+   "name": "GE Vernova Inc."
+  },
+  {
+   "ticker": "GF",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": null,
+   "sector": null,
+   "name": null
+  },
+  {
+   "ticker": "GFS",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 21192767482,
+   "sector": "Technology",
+   "name": "GLOBALFOUNDRIES Inc."
+  },
+  {
+   "ticker": "GRF",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 40174340.0,
+   "sector": "Financial Services",
+   "name": "Eagle Capital Growth Fund, Inc."
+  },
+  {
+   "ticker": "GTX",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 3716111815,
+   "sector": "Consumer Cyclical",
+   "name": "Garrett Motion Inc."
+  },
+  {
+   "ticker": "HII",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 11378105187.0,
+   "sector": "Industrials",
+   "name": "Huntington Ingalls Industries, Inc."
+  },
+  {
+   "ticker": "HNRG",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 476147906.0,
+   "sector": "Utilities",
+   "name": "Hallador Energy Company"
+  },
+  {
+   "ticker": "HQ",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 617440572,
+   "sector": "Technology",
+   "name": "Horizon Quantum Holdings Ltd. Class A Ordinary Shares"
+  },
+  {
+   "ticker": "HRTX",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 55626726.0,
+   "sector": "Healthcare",
+   "name": "Heron Therapeutics, Inc."
+  },
+  {
+   "ticker": "HTGC",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 3063108543,
+   "sector": "Financial Services",
+   "name": "Hercules Capital, Inc."
+  },
+  {
+   "ticker": "HUM",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 52083499200,
+   "sector": "Healthcare",
+   "name": "Humana Inc."
+  },
+  {
+   "ticker": "ICLR",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 13130101756.0,
+   "sector": "Healthcare",
+   "name": "ICON Public Limited Company"
+  },
+  {
+   "ticker": "IDA",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 8629945392.0,
+   "sector": "Utilities",
+   "name": "IDACORP, Inc."
+  },
+  {
+   "ticker": "IREN",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 8755836789,
+   "sector": "Technology",
+   "name": "IREN Limited"
+  },
+  {
+   "ticker": "JCI",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 81793270694,
+   "sector": "Basic Materials",
+   "name": "Johnson Controls International plc"
+  },
+  {
+   "ticker": "KEYS",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 58151435875.0,
+   "sector": "Technology",
+   "name": "Keysight Technologies, Inc."
+  },
+  {
+   "ticker": "KTOS",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 6589112400,
+   "sector": "Industrials",
+   "name": "Kratos Defense & Security Solutions, Inc."
+  },
+  {
+   "ticker": "LAC",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 430927756,
+   "sector": "Basic Materials",
+   "name": "Lithium Americas Corp."
+  },
+  {
+   "ticker": "LDOS",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 15818292944.0,
+   "sector": "Technology",
+   "name": "Leidos Holdings, Inc."
+  },
+  {
+   "ticker": "LEU",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 2193422985.0,
+   "sector": "Energy",
+   "name": "Centrus Energy Corp."
+  },
+  {
+   "ticker": "LHX",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 48391777890,
+   "sector": "Industrials",
+   "name": "L3Harris Technologies, Inc."
+  },
+  {
+   "ticker": "LRCX",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 250835499119,
+   "sector": "Technology",
+   "name": "Lam Research Corporation"
+  },
+  {
+   "ticker": "META",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1807009819001.0,
+   "sector": "Communication Services",
+   "name": "Meta Platforms, Inc."
+  },
+  {
+   "ticker": "METC",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 323701872,
+   "sector": "Energy",
+   "name": "Ramaco Resources, Inc."
+  },
+  {
+   "ticker": "MOBX",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 10072892,
+   "sector": "Technology",
+   "name": "Mobix Labs, Inc."
+  },
+  {
+   "ticker": "MPWR",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 58083948480,
+   "sector": "Technology",
+   "name": "Monolithic Power Systems, Inc."
+  },
+  {
+   "ticker": "MREO",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 45192545.0,
+   "sector": "Healthcare",
+   "name": "Mereo BioPharma Group plc"
+  },
+  {
+   "ticker": "MRVL",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 199525864152.0,
+   "sector": "Technology",
+   "name": "Marvell Technology, Inc."
+  },
+  {
+   "ticker": "MVIS",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 27798175.0,
+   "sector": "Technology",
+   "name": "MicroVision, Inc."
+  },
+  {
+   "ticker": "NAVI",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 835144988.0,
+   "sector": "Financial Services",
+   "name": "Navient Corporation"
+  },
+  {
+   "ticker": "NBIS",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 31077600000,
+   "sector": "Technology",
+   "name": "Nebius Group N.V."
+  },
+  {
+   "ticker": "NOC",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 74585020640,
+   "sector": "Industrials",
+   "name": "Northrop Grumman Corporation"
+  },
+  {
+   "ticker": "NTAP",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 33232130610,
+   "sector": "Technology",
+   "name": "NetApp, Inc."
+  },
+  {
+   "ticker": "NU",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 58113183738,
+   "sector": "Financial Services",
+   "name": "Nu Holdings Ltd."
+  },
+  {
+   "ticker": "NVMI",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 9961053502.0,
+   "sector": "Technology",
+   "name": "Nova Ltd."
+  },
+  {
+   "ticker": "OGE",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 10468603374.0,
+   "sector": "Utilities",
+   "name": "OGE Energy Corp."
+  },
+  {
+   "ticker": "ONDS",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 3106584899,
+   "sector": "Technology",
+   "name": "Ondas Holdings Inc."
+  },
+  {
+   "ticker": "ONEN",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 165414832.0,
+   "sector": "Utilities",
+   "name": "ONE Nuclear Energy Inc."
+  },
+  {
+   "ticker": "ORCL",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 387703453357.0,
+   "sector": "Technology",
+   "name": "Oracle Corporation"
+  },
+  {
+   "ticker": "PALX",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 324714194,
+   "sector": "Technology",
+   "name": "Palomino Labs Inc"
+  },
+  {
+   "ticker": "PEAK",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 9356658163.0,
+   "sector": "Real Estate",
+   "name": "Healthpeak Properties, Inc."
+  },
+  {
+   "ticker": "PNR",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 8854321670.0,
+   "sector": "Industrials",
+   "name": "Pentair plc"
+  },
+  {
+   "ticker": "PNW",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 12631151340.0,
+   "sector": "Utilities",
+   "name": "Pinnacle West Capital Corporation"
+  },
+  {
+   "ticker": "PSIX",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 903241064,
+   "sector": "Industrials",
+   "name": "Power Solutions International, Inc."
+  },
+  {
+   "ticker": "PUSA",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 33055165,
+   "sector": "Industrials",
+   "name": "Powerus Corp."
+  },
+  {
+   "ticker": "QTRX",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 136913423.0,
+   "sector": "Healthcare",
+   "name": "Quanterix Corporation"
+  },
+  {
+   "ticker": "QUCY",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 16258096,
+   "sector": "Healthcare",
+   "name": "Quantum Cyber N.V."
+  },
+  {
+   "ticker": "RDDT",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 18363213343,
+   "sector": "Communication Services",
+   "name": "Reddit, Inc."
+  },
+  {
+   "ticker": "RMBS",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 7981864880.0,
+   "sector": "Technology",
+   "name": "Rambus Inc."
+  },
+  {
+   "ticker": "SAI",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 18478714,
+   "sector": "Financial Services",
+   "name": "SAI.TECH Global Corporation"
+  },
+  {
+   "ticker": "SAIC",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 6129624001,
+   "sector": "Technology",
+   "name": "Science Applications International Corporation"
+  },
+  {
+   "ticker": "SARO",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 9143303851.0,
+   "sector": "Industrials",
+   "name": "StandardAero, Inc."
+  },
+  {
+   "ticker": "SEM",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 2047431417.0,
+   "sector": "Healthcare",
+   "name": "Select Medical Holdings Corporation"
+  },
+  {
+   "ticker": "SERV",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 241046861.0,
+   "sector": "Industrials",
+   "name": "Serve Robotics Inc."
+  },
+  {
+   "ticker": "SHEL",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 290002674496,
+   "sector": "Energy",
+   "name": "Shell plc"
+  },
+  {
+   "ticker": "SITM",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 12537050965.0,
+   "sector": "Technology",
+   "name": "SiTime Corporation"
+  },
+  {
+   "ticker": "SKYQ",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 10308489.0,
+   "sector": "Energy",
+   "name": "Sky Quarry Inc."
+  },
+  {
+   "ticker": "SLAB",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 7390737562.0,
+   "sector": "Technology",
+   "name": "Silicon Laboratories Inc."
+  },
+  {
+   "ticker": "SMCI",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 18894313400,
+   "sector": "Technology",
+   "name": "Super Micro Computer, Inc."
+  },
+  {
+   "ticker": "SMR",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1514743925,
+   "sector": "Industrials",
+   "name": "NuScale Power Corporation"
+  },
+  {
+   "ticker": "SNPS",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 86324643557,
+   "sector": "Technology",
+   "name": "Synopsys, Inc."
+  },
+  {
+   "ticker": "SSYS",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 565490934.0,
+   "sector": "Technology",
+   "name": "Stratasys Ltd."
+  },
+  {
+   "ticker": "SVCO",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 226356857.0,
+   "sector": "Technology",
+   "name": "Silvaco Group, Inc. Common Stock"
+  },
+  {
+   "ticker": "SWH",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 11645002099,
+   "sector": "Industrials",
+   "name": "Stanley Black & Decker, Inc."
+  },
+  {
+   "ticker": "TD",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 206794800000,
+   "sector": "Financial Services",
+   "name": "The Toronto-Dominion Bank"
+  },
+  {
+   "ticker": "TDI",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": null,
+   "sector": null,
+   "name": null
+  },
+  {
+   "ticker": "TECH",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 11430503948,
+   "sector": "Healthcare",
+   "name": "Bio-Techne Corporation"
+  },
+  {
+   "ticker": "TMC",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1001377544,
+   "sector": "Basic Materials",
+   "name": "TMC the metals company inc."
+  },
+  {
+   "ticker": "TSEM",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 15590516248,
+   "sector": "Technology",
+   "name": "Tower Semiconductor Ltd."
+  },
+  {
+   "ticker": "TSLA",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1400983451600.0,
+   "sector": "Consumer Cyclical",
+   "name": "Tesla, Inc."
+  },
+  {
+   "ticker": "TSM",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 2139993512800.0,
+   "sector": "Technology",
+   "name": "Taiwan Semiconductor Manufacturing Company Limited"
+  },
+  {
+   "ticker": "TT",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 102319578232.0,
+   "sector": "Industrials",
+   "name": "Trane Technologies plc"
+  },
+  {
+   "ticker": "TTMI",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 8369714408.0,
+   "sector": "Technology",
+   "name": "TTM Technologies, Inc."
+  },
+  {
+   "ticker": "TVC",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 12484500.0,
+   "sector": "Utilities",
+   "name": "Tennessee Valley Authority"
+  },
+  {
+   "ticker": "TWO",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1280541328,
+   "sector": "Real Estate",
+   "name": "Two Harbors Investment Corp."
+  },
+  {
+   "ticker": "TXNM",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 6411535720.0,
+   "sector": "Utilities",
+   "name": "TXNM Energy, Inc."
+  },
+  {
+   "ticker": "TXT",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 14151676000.0,
+   "sector": "Industrials",
+   "name": "Textron Inc."
+  },
+  {
+   "ticker": "UAMY",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 422066580,
+   "sector": "Basic Materials",
+   "name": "United States Antimony Corporation"
+  },
+  {
+   "ticker": "UEPCN",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 7761424000.0,
+   "sector": "Utilities",
+   "name": "Union Electric Company"
+  },
+  {
+   "ticker": "UEPCP",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 6588019240.0,
+   "sector": "Utilities",
+   "name": "Union Electric Company"
+  },
+  {
+   "ticker": "UEPEN",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 6280626000.0,
+   "sector": "Utilities",
+   "name": "Union Electric Company"
+  },
+  {
+   "ticker": "UEPEP",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 7007748880.0,
+   "sector": "Utilities",
+   "name": "Union Electric Company"
+  },
+  {
+   "ticker": "UIS",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 196143908,
+   "sector": "Technology",
+   "name": "Unisys Corporation"
+  },
+  {
+   "ticker": "VRT",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 79469222960.0,
+   "sector": "Industrials",
+   "name": "Vertiv Holdings Co"
+  },
+  {
+   "ticker": "VST",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 41887272336,
+   "sector": "Utilities",
+   "name": "Vistra Corp."
+  },
+  {
+   "ticker": "WOLF",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1229047812.0,
+   "sector": "Technology",
+   "name": "Wolfspeed Inc."
+  },
+  {
+   "ticker": "WULF",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 5673273892,
+   "sector": "Financial Services",
+   "name": "TeraWulf Inc."
+  },
+  {
+   "ticker": "XE",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 228926172,
+   "sector": "Industrials",
+   "name": "X-Energy, Inc. Class A Common Stock"
+  },
+  {
+   "ticker": "XMAX",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 345786948,
+   "sector": "Consumer Cyclical",
+   "name": "XMAX, Inc."
+  },
+  {
+   "ticker": "XPEV",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 8782818302.0,
+   "sector": "Consumer Cyclical",
+   "name": "XPeng Inc."
+  },
+  {
+   "ticker": "XPRO",
+   "inclination_score": 3,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 3,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1498737648.0,
+   "sector": "Energy",
+   "name": "Expro Group Holdings N.V."
+  },
+  {
+   "ticker": "ADT",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 6663535900,
+   "sector": "Industrials",
+   "name": "ADT Inc."
+  },
+  {
+   "ticker": "AEIS",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 7975357047,
+   "sector": "Technology",
+   "name": "Advanced Energy Industries, Inc."
+  },
+  {
+   "ticker": "AMSC",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1133061795,
+   "sector": "Industrials",
+   "name": "American Superconductor Corporation"
+  },
+  {
+   "ticker": "AMTM",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 5195761276,
+   "sector": "Industrials",
+   "name": "Amentum Holdings, Inc."
+  },
+  {
+   "ticker": "ARLO",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1327948196,
+   "sector": "Technology",
+   "name": "Arlo Technologies, Inc."
+  },
+  {
+   "ticker": "ATMU",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 4128733818,
+   "sector": "Consumer Cyclical",
+   "name": "Atmus Filtration Technologies Inc."
+  },
+  {
+   "ticker": "AVEX",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 575997397,
+   "sector": "Industrials",
+   "name": "Aevex Corp."
+  },
+  {
+   "ticker": "BALL",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 17449221760,
+   "sector": "Consumer Cyclical",
+   "name": "Ball Corporation"
+  },
+  {
+   "ticker": "BBAI",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1068687925,
+   "sector": "Technology",
+   "name": "BigBear.ai Holdings, Inc."
+  },
+  {
+   "ticker": "BBAI-WT",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1001513232,
+   "sector": "Technology",
+   "name": "BigBear.ai Holdings, Inc. WT"
+  },
+  {
+   "ticker": "BCO",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 4541153400,
+   "sector": "Industrials",
+   "name": "The Brink's Company"
+  },
+  {
+   "ticker": "BHE",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 2160226596,
+   "sector": "Technology",
+   "name": "Benchmark Electronics, Inc."
+  },
+  {
+   "ticker": "BIVI",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 11346430,
+   "sector": "Healthcare",
+   "name": "BioVie Inc."
+  },
+  {
+   "ticker": "BIVIW",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 2265873,
+   "sector": "Healthcare",
+   "name": "BioVie Inc."
+  },
+  {
+   "ticker": "BKNG",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 120720628365,
+   "sector": "Consumer Cyclical",
+   "name": "Booking Holdings Inc."
+  },
+  {
+   "ticker": "BKR",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 47538643860,
+   "sector": "Energy",
+   "name": "Baker Hughes Company"
+  },
+  {
+   "ticker": "BRC",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 3691906284,
+   "sector": "Industrials",
+   "name": "Brady Corporation"
+  },
+  {
+   "ticker": "BUUU",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 615157000,
+   "sector": "Industrials",
+   "name": "BUUU Group Ltd"
+  },
+  {
+   "ticker": "CERS",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 407947080,
+   "sector": "Healthcare",
+   "name": "Cerus Corporation"
+  },
+  {
+   "ticker": "CI",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 77578371918,
+   "sector": "Healthcare",
+   "name": "Cigna Corporation"
+  },
+  {
+   "ticker": "CME",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 109488394553,
+   "sector": "Financial Services",
+   "name": "CME Group Inc."
+  },
+  {
+   "ticker": "CRBG",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 14947644113,
+   "sector": "Financial Services",
+   "name": "Corebridge Financial, Inc."
+  },
+  {
+   "ticker": "CRCT",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1838922008,
+   "sector": "Technology",
+   "name": "Cricut, Inc."
+  },
+  {
+   "ticker": "DAKT",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 933478337,
+   "sector": "Technology",
+   "name": "Daktronics, Inc."
+  },
+  {
+   "ticker": "DDOG",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 64288795878,
+   "sector": "Technology",
+   "name": "Datadog, Inc."
+  },
+  {
+   "ticker": "DOX",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 4527663390,
+   "sector": "Technology",
+   "name": "Amdocs Limited"
+  },
+  {
+   "ticker": "EFOR",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1411373897,
+   "sector": "Technology",
+   "name": "Everforth, Inc."
+  },
+  {
+   "ticker": "EOG",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 77173976194,
+   "sector": "Energy",
+   "name": "EOG Resources, Inc."
+  },
+  {
+   "ticker": "ESLT",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 32000002134,
+   "sector": "Industrials",
+   "name": "Elbit Systems Ltd."
+  },
+  {
+   "ticker": "FBIN",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 5739357680,
+   "sector": "Basic Materials",
+   "name": "Fortune Brands Innovations, Inc."
+  },
+  {
+   "ticker": "FLR",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 6216284469,
+   "sector": "Industrials",
+   "name": "Fluor Corporation"
+  },
+  {
+   "ticker": "FNCTF",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 45421336075,
+   "sector": "Communication Services",
+   "name": "Orange S.A."
+  },
+  {
+   "ticker": "GRMN",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 55027996250,
+   "sector": "Technology",
+   "name": "Garmin Ltd."
+  },
+  {
+   "ticker": "GTN",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 506683164,
+   "sector": "Communication Services",
+   "name": "Gray Media, Inc."
+  },
+  {
+   "ticker": "HAE",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 5456455210,
+   "sector": "Healthcare",
+   "name": "Haemonetics Corporation"
+  },
+  {
+   "ticker": "HAWK",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1448910485,
+   "sector": "Industrials",
+   "name": "HawkEye 360, Inc."
+  },
+  {
+   "ticker": "HODO",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 3575035,
+   "sector": "Technology",
+   "name": "House of Doge Inc."
+  },
+  {
+   "ticker": "HUT",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 6489586350,
+   "sector": "Financial Services",
+   "name": "Hut 8 Corp."
+  },
+  {
+   "ticker": "IT",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 12004624900,
+   "sector": "Technology",
+   "name": "Gartner, Inc."
+  },
+  {
+   "ticker": "KEQU",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 98789240,
+   "sector": "Consumer Cyclical",
+   "name": "Kewaunee Scientific Corporation"
+  },
+  {
+   "ticker": "KRMN",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 6044862057,
+   "sector": "Industrials",
+   "name": "Karman Holdings Inc."
+  },
+  {
+   "ticker": "LIFE",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 2177613572,
+   "sector": "Financial Services",
+   "name": "Ethos Technologies Inc."
+  },
+  {
+   "ticker": "MSI",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 85148317940,
+   "sector": "Technology",
+   "name": "Motorola Solutions, Inc."
+  },
+  {
+   "ticker": "OC",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 9589397797,
+   "sector": "Basic Materials",
+   "name": "Owens Corning"
+  },
+  {
+   "ticker": "ONT",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 769773890,
+   "sector": "Industrials",
+   "name": "Onterris, Inc."
+  },
+  {
+   "ticker": "ORANY",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 44956921789,
+   "sector": "Communication Services",
+   "name": "Orange S.A."
+  },
+  {
+   "ticker": "PBK",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 8081322,
+   "sector": "Utilities",
+   "name": "PowerBank Corporation Common Stock"
+  },
+  {
+   "ticker": "POLA",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1368640,
+   "sector": "Industrials",
+   "name": "Polar Power, Inc."
+  },
+  {
+   "ticker": "PRIM",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 3520634120,
+   "sector": "Industrials",
+   "name": "Primoris Services Corporation"
+  },
+  {
+   "ticker": "QRVO",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 10072260072,
+   "sector": "Technology",
+   "name": "Qorvo, Inc."
+  },
+  {
+   "ticker": "RAPP",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1172589334,
+   "sector": "Healthcare",
+   "name": "Rapport Therapeutics, Inc. Common Stock"
+  },
+  {
+   "ticker": "RIG",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 5852660800,
+   "sector": "Energy",
+   "name": "Transocean Ltd."
+  },
+  {
+   "ticker": "RRX",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 11258692533,
+   "sector": "Industrials",
+   "name": "Regal Rexnord Corporation"
+  },
+  {
+   "ticker": "SDRL",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 2639248895,
+   "sector": "Energy",
+   "name": "Seadrill Limited"
+  },
+  {
+   "ticker": "SHLS",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1696464000,
+   "sector": "Energy",
+   "name": "Shoals Technologies Group, Inc."
+  },
+  {
+   "ticker": "SPGI",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 135615220000,
+   "sector": "Financial Services",
+   "name": "S&P Global Inc."
+  },
+  {
+   "ticker": "SPIR",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 338344750,
+   "sector": "Industrials",
+   "name": "Spire Global, Inc."
+  },
+  {
+   "ticker": "TLS",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 360231376,
+   "sector": "Technology",
+   "name": "Telos Corporation"
+  },
+  {
+   "ticker": "TMUS",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 171612749228,
+   "sector": "Communication Services",
+   "name": "T-Mobile US, Inc."
+  },
+  {
+   "ticker": "TMUSI",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 20176953041,
+   "sector": "Communication Services",
+   "name": "T-Mobile USA Inc 5.5 % Notes 2025-01.06.70"
+  },
+  {
+   "ticker": "TMUSL",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 22161395525,
+   "sector": "Communication Services",
+   "name": "T-Mobile US, Inc. 6.25 % Notes -01.09.69"
+  },
+  {
+   "ticker": "TMUSZ",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 374400000,
+   "sector": "Communication Services",
+   "name": "T-Mobile US, Inc. 5.5 % Notes 2025-01.03.70"
+  },
+  {
+   "ticker": "TNC",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 1219024950,
+   "sector": "Industrials",
+   "name": "Tennant Company"
+  },
+  {
+   "ticker": "TREX",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 5576090100,
+   "sector": "Basic Materials",
+   "name": "Trex Company, Inc."
+  },
+  {
+   "ticker": "TRMB",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 12617361142,
+   "sector": "Technology",
+   "name": "Trimble Inc."
+  },
+  {
+   "ticker": "VRNS",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 5626570021,
+   "sector": "Technology",
+   "name": "Varonis Systems, Inc."
+  },
+  {
+   "ticker": "VRRM",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "in",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 332899710,
+   "sector": "Technology",
+   "name": "Verra Mobility Corporation"
+  },
+  {
+   "ticker": "XTND",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 20173759,
+   "sector": "Industrials",
+   "name": "Xtend AI Robotics Inc"
+  },
+  {
+   "ticker": "ZENA",
+   "inclination_score": 0,
+   "notify": false,
+   "scope": "out_of_scope",
+   "components": {
+    "news_corroboration": 0,
+    "early_advantage": 0,
+    "source_diversity": 0,
+    "commercialization": 0,
+    "displacement_edge": 0
+   },
+   "why": [
+    "single-signal; watchlist only"
+   ],
+   "gap": null,
+   "gap_stage": "unknown",
+   "gap_advantaged": null,
+   "gap_doomed_note": "",
+   "is_advantaged": false,
+   "is_gap_filler": false,
+   "doomed": [],
+   "market_cap": 39507691,
+   "sector": "Technology",
+   "name": "ZenaTech, Inc."
+  }
+ ],
+ "alerts": []
+}

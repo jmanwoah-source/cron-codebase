@@ -1,0 +1,24 @@
+{
+  "ticker": "NTAP",
+  "company": "NetApp, Inc.",
+  "filing_date": "2026-06-05",
+  "accession": "0001193125-26-259683",
+  "doc": "ntap-20260424.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/NTAP_000119312526259683.html",
+  "raw_chars": 5076896,
+  "stripped_chars": 4876785,
+  "strip_saved": 200111,
+  "text_chars": 468235,
+  "headings_candidates": 32,
+  "headings_selected": 18,
+  "toc_dropped": 14,
+  "item_chars": {
+    "1": 6032,
+    "1A": 5032,
+    "7": 515,
+    "8": 9000
+  },
+  "total_chars": 20985,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/NTAP.md"
+}

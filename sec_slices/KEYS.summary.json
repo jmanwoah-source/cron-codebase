@@ -1,0 +1,24 @@
+{
+  "ticker": "KEYS",
+  "company": "Keysight Technologies, Inc.",
+  "filing_date": "2025-12-17",
+  "accession": "0001601046-25-000127",
+  "doc": "keys-20251031.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/KEYS_000160104625000127.html",
+  "raw_chars": 3307066,
+  "stripped_chars": 2975128,
+  "strip_saved": 331938,
+  "text_chars": 478024,
+  "headings_candidates": 28,
+  "headings_selected": 18,
+  "toc_dropped": 10,
+  "item_chars": {
+    "1": 6032,
+    "1A": 5032,
+    "7": 10033,
+    "8": 9000
+  },
+  "total_chars": 29882,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/KEYS.md"
+}

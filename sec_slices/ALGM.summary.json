@@ -1,0 +1,24 @@
+{
+  "ticker": "ALGM",
+  "company": "ALLEGRO MICROSYSTEMS, INC.",
+  "filing_date": "2026-05-21",
+  "accession": "0001193125-26-233537",
+  "doc": "algm-20260327.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/ALGM_000119312526233537.html",
+  "raw_chars": 4981766,
+  "stripped_chars": 4791376,
+  "strip_saved": 190390,
+  "text_chars": 550397,
+  "headings_candidates": 21,
+  "headings_selected": 18,
+  "toc_dropped": 3,
+  "item_chars": {
+    "1": 6032,
+    "1A": 5032,
+    "7": 10033,
+    "8": 0
+  },
+  "total_chars": 21653,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/ALGM.md"
+}

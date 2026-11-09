@@ -1,0 +1,1817 @@
+{
+ "generated": "2026-11-09 15:46",
+ "tier_a": [
+  "IONQ",
+  "INFQ",
+  "AMKR",
+  "MTSI",
+  "CC",
+  "DRS",
+  "SMR",
+  "AVAV",
+  "ONDS",
+  "SAI",
+  "QBTS",
+  "LSCC",
+  "SMTC",
+  "ON",
+  "ALGM",
+  "SAIC",
+  "ADEA",
+  "GFS",
+  "NVTS",
+  "BCO",
+  "CRCT",
+  "DAKT",
+  "ADT",
+  "BHE",
+  "BRC",
+  "ARLO",
+  "AMTM"
+ ],
+ "tier_b": [
+  "HPE",
+  "NXPI",
+  "AEP",
+  "ALAB",
+  "CEG",
+  "ESLT",
+  "LRCX",
+  "VRT",
+  "BA",
+  "LMT",
+  "MRVL"
+ ],
+ "tier_c": [
+  "FLNC",
+  "SMCI",
+  "IREN"
+ ],
+ "rows": [
+  {
+   "status": "WATCH",
+   "conviction": 90,
+   "note": "2026-11-07 (13:40 run): re-scored best=70 A=70 B=60 C=80 (tier HIGH)",
+   "cats": [
+    "quantum",
+    "semiconductors"
+   ],
+   "ticker": "IONQ",
+   "mcap": 15321266760,
+   "band": "LARGE",
+   "fmp_name": "IonQ, Inc.",
+   "industry": "Computer Hardware",
+   "cik": "0001824920"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 70,
+   "note": "2026-11-07 (13:40 run): re-scored best=60 A=60 B=20 C=60 (tier HIGH)",
+   "cats": [
+    "quantum"
+   ],
+   "ticker": "INFQ",
+   "mcap": 2190470606,
+   "band": "MID",
+   "fmp_name": "Infleqtion Inc",
+   "industry": "Computer Hardware",
+   "cik": "0002007825"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=45 A=30 B=45 C=65 (tier BASE)",
+   "cats": [
+    "quantum"
+   ],
+   "ticker": "QUBT",
+   "mcap": 1558398138,
+   "band": "SMALL",
+   "fmp_name": "Quantum Computing, Inc.",
+   "industry": "Computer Hardware",
+   "cik": "0001758009"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 35,
+   "note": "2026-11-06: re-scored best=56 A=56 B=46 C=80 (PROMO)",
+   "cats": [
+    "semiconductors"
+   ],
+   "ticker": "KEYS",
+   "mcap": 49428933300,
+   "band": "MEGA",
+   "fmp_name": "Keysight Technologies, Inc.",
+   "industry": "Hardware, Equipment & Parts",
+   "cik": "0001601046"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=56 A=56 B=54 C=100 (tier BASE)",
+   "cats": [
+    "semiconductors"
+   ],
+   "ticker": "TSEM",
+   "mcap": 17390906431,
+   "band": "LARGE",
+   "fmp_name": "Tower Semiconductor Ltd.",
+   "industry": "Semiconductors",
+   "cik": "0000928876"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-04 (18:25 run): re-scored best=22 A=22 B=18 C=45 (tier BASE)",
+   "cats": [
+    "semiconductors"
+   ],
+   "ticker": "SVCO",
+   "mcap": 240409280,
+   "band": "MICRO",
+   "fmp_name": "Silvaco Group, Inc. Common Stock",
+   "industry": "Software - Application",
+   "cik": "0001943289"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 80,
+   "note": "2026-11-07 (13:40 run): re-scored best=56 A=46 B=56 C=100 (tier BASE)",
+   "cats": [
+    "ai_infrastructure",
+    "materials_science",
+    "semiconductors"
+   ],
+   "ticker": "AMKR",
+   "mcap": 8720440211,
+   "band": "MID",
+   "fmp_name": "Amkor Technology, Inc.",
+   "industry": "Semiconductors",
+   "cik": "0001047127"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-04 (18:25 run): re-scored best=16 A=16 B=0 C=50 (tier BASE)",
+   "cats": [
+    "edge_robotics"
+   ],
+   "ticker": "BURU",
+   "mcap": 9022450,
+   "band": "MICRO",
+   "fmp_name": "Nuburu, Inc.",
+   "industry": "Industrial - Machinery",
+   "cik": "0001814215"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=24 A=20 B=24 C=80 (tier BASE)",
+   "cats": [
+    "semiconductors"
+   ],
+   "ticker": "PALX",
+   "mcap": 324714194,
+   "band": "MICRO",
+   "fmp_name": "Palomino Labs Inc",
+   "industry": "Semiconductors",
+   "cik": "0001938569"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=28 A=28 B=14 C=70 (tier BASE)",
+   "cats": [
+    "materials_science"
+   ],
+   "ticker": "ATOM",
+   "mcap": 125066880,
+   "band": "MICRO",
+   "fmp_name": "Atomera Incorporated",
+   "industry": "Semiconductors",
+   "cik": "0001420520"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=47 A=47 B=46 C=100 (tier BASE)",
+   "cats": [
+    "ai_infrastructure"
+   ],
+   "ticker": "CARR",
+   "mcap": 43796115827,
+   "band": "MEGA",
+   "fmp_name": "Carrier Global Corporation",
+   "industry": "Industrial - Machinery",
+   "cik": "0001783180"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 65,
+   "note": "2026-11-07 (13:40 run): re-scored best=70 A=70 B=60 C=100 (tier BASE)",
+   "cats": [
+    "materials_science",
+    "semiconductors"
+   ],
+   "ticker": "MTSI",
+   "mcap": 17521569386,
+   "band": "LARGE",
+   "fmp_name": "MACOM Technology Solutions Holdings, Inc.",
+   "industry": "Semiconductors",
+   "cik": "0001493594"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=68 A=68 B=57 C=90 (tier BASE)",
+   "cats": [
+    "semiconductors"
+   ],
+   "ticker": "AXTI",
+   "mcap": 2823581992,
+   "band": "MID",
+   "fmp_name": "AXT, Inc.",
+   "industry": "Semiconductors",
+   "cik": "0001051627"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=50 A=44 B=50 C=80 (tier BASE)",
+   "cats": [
+    "semiconductors"
+   ],
+   "ticker": "ENPH",
+   "mcap": 3826520890,
+   "band": "MID",
+   "fmp_name": "Enphase Energy, Inc.",
+   "industry": "Solar",
+   "cik": "0001463101"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=51 A=51 B=50 C=100 (tier BASE)",
+   "cats": [
+    "ai_infrastructure"
+   ],
+   "ticker": "SNPS",
+   "mcap": 89913997937,
+   "band": "MEGA",
+   "fmp_name": "Synopsys, Inc.",
+   "industry": "Software - Infrastructure",
+   "cik": "0000883241"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 95,
+   "note": "2026-11-07 (13:40 run): re-scored best=62 A=58 B=62 C=80 (tier BASE)",
+   "cats": [
+    "ai_infrastructure"
+   ],
+   "ticker": "CC",
+   "mcap": 2024211550,
+   "band": "MID",
+   "fmp_name": "The Chemours Company",
+   "industry": "Chemicals - Specialty",
+   "cik": "0001627223"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=81 A=81 B=65 C=100 (tier HIGH)",
+   "cats": [
+    "semiconductors"
+   ],
+   "ticker": "AEHR",
+   "mcap": 1967734875,
+   "band": "SMALL",
+   "fmp_name": "Aehr Test Systems",
+   "industry": "Semiconductors",
+   "cik": "0001040470"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=60 A=60 B=54 C=100 (tier BASE)",
+   "cats": [],
+   "ticker": "BWXT",
+   "mcap": 11762842791,
+   "band": "LARGE",
+   "fmp_name": "BWX Technologies, Inc.",
+   "industry": "Aerospace & Defense",
+   "cik": "0001486957"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 80,
+   "note": "2026-11-07 (13:40 run): re-scored best=70 A=59 B=70 C=80 (tier HIGH)",
+   "cats": [
+    "edge_robotics"
+   ],
+   "ticker": "DRS",
+   "mcap": 9659681910,
+   "band": "MID",
+   "fmp_name": "Leonardo DRS, Inc.",
+   "industry": "Aerospace & Defense",
+   "cik": "0001833756"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 45,
+   "note": "2026-11-07 (13:40 run): re-scored best=46 A=36 B=46 C=100 (tier BASE)",
+   "cats": [
+    "ai_infrastructure"
+   ],
+   "ticker": "HPE",
+   "mcap": 63598608600,
+   "band": "MEGA",
+   "fmp_name": "Hewlett Packard Enterprise Company",
+   "industry": "Computer Hardware",
+   "cik": "0001645590"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 65,
+   "note": "2026-11-07 (13:40 run): re-scored best=58 A=58 B=46 C=100 (tier BASE)",
+   "cats": [
+    "semiconductors"
+   ],
+   "ticker": "NXPI",
+   "mcap": 65551423710,
+   "band": "MEGA",
+   "fmp_name": "NXP Semiconductors N.V.",
+   "industry": "Semiconductors",
+   "cik": "0001413447"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 70,
+   "note": "2026-11-07 (13:40 run): re-scored best=28 A=28 B=18 C=80 (tier HIGH)",
+   "cats": [
+    "energy"
+   ],
+   "ticker": "SMR",
+   "mcap": 1632524211,
+   "band": "SMALL",
+   "fmp_name": "NuScale Power Corporation",
+   "industry": "Electrical Equipment & Parts",
+   "cik": "0001822966"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 85,
+   "note": "2026-11-07 (13:40 run): re-scored best=68 A=39 B=68 C=80 (tier HIGH)",
+   "cats": [
+    "edge_robotics",
+    "semiconductors"
+   ],
+   "ticker": "AVAV",
+   "mcap": 6470999824,
+   "band": "MID",
+   "fmp_name": "AeroVironment, Inc.",
+   "industry": "Aerospace & Defense",
+   "cik": "0001368622"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 30,
+   "note": "2026-11-07 (13:40 run): re-scored best=46 A=32 B=46 C=80 (tier BASE)",
+   "cats": [
+    "ai_infrastructure",
+    "energy"
+   ],
+   "ticker": "FLNC",
+   "mcap": 1085191214,
+   "band": "SMALL",
+   "fmp_name": "Fluence Energy, Inc.",
+   "industry": "Electrical Equipment & Parts",
+   "cik": "0001868941"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 65,
+   "note": "2026-11-07 (13:40 run): re-scored best=38 A=24 B=38 C=80 (tier HIGH)",
+   "cats": [
+    "energy"
+   ],
+   "ticker": "AEP",
+   "mcap": 69851795280,
+   "band": "MEGA",
+   "fmp_name": "American Electric Power Company, Inc.",
+   "industry": "Regulated Electric",
+   "cik": "0000004904"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 30,
+   "note": "2026-11-07 (13:40 run): re-scored best=59 A=56 B=59 C=65 (tier BASE)",
+   "cats": [
+    "ai_infrastructure"
+   ],
+   "ticker": "SMCI",
+   "mcap": 19051985000,
+   "band": "LARGE",
+   "fmp_name": "Super Micro Computer, Inc.",
+   "industry": "Computer Hardware",
+   "cik": "0001375365"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=46 A=43 B=46 C=100 (tier BASE)",
+   "cats": [
+    "edge_robotics"
+   ],
+   "ticker": "LHX",
+   "mcap": 50609431800,
+   "band": "MEGA",
+   "fmp_name": "L3Harris Technologies, Inc.",
+   "industry": "Aerospace & Defense",
+   "cik": "0000202058"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=50 A=28 B=50 C=100 (tier BASE)",
+   "cats": [
+    "semiconductors"
+   ],
+   "ticker": "SWKS",
+   "mcap": 12568239346,
+   "band": "LARGE",
+   "fmp_name": "Skyworks Solutions, Inc.",
+   "industry": "Semiconductors",
+   "cik": "0000004127"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=54 A=54 B=54 C=100 (tier BASE)",
+   "cats": [
+    "energy"
+   ],
+   "ticker": "FSLR",
+   "mcap": 20637426810,
+   "band": "LARGE",
+   "fmp_name": "First Solar, Inc.",
+   "industry": "Solar",
+   "cik": "0001274494"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 70,
+   "note": "2026-11-07 (13:40 run): re-scored best=58 A=58 B=49 C=70 (tier BASE)",
+   "cats": [
+    "edge_robotics"
+   ],
+   "ticker": "ONDS",
+   "mcap": 3514196788,
+   "band": "MID",
+   "fmp_name": "Ondas Holdings Inc.",
+   "industry": "Communication Equipment",
+   "cik": "0001646188"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=60 A=60 B=46 C=100 (tier BASE)",
+   "cats": [
+    "semiconductors"
+   ],
+   "ticker": "ONTO",
+   "mcap": 9549357544,
+   "band": "MID",
+   "fmp_name": "Onto Innovation Inc.",
+   "industry": "Semiconductors",
+   "cik": "0000704532"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=44 A=24 B=44 C=100 (tier BASE)",
+   "cats": [],
+   "ticker": "CERS",
+   "mcap": 415015470,
+   "band": "MICRO",
+   "fmp_name": "Cerus Corporation",
+   "industry": "Medical - Devices",
+   "cik": "0001020214"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=44 A=32 B=44 C=100 (tier BASE)",
+   "cats": [],
+   "ticker": "EFOR",
+   "mcap": 1473023892,
+   "band": "SMALL",
+   "fmp_name": "Everforth, Inc.",
+   "industry": "Information Technology Services",
+   "cik": "0000890564"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=46 A=39 B=46 C=100 (tier BASE)",
+   "cats": [],
+   "ticker": "KEQU",
+   "mcap": 100179006,
+   "band": "MICRO",
+   "fmp_name": "Kewaunee Scientific Corporation",
+   "industry": "Furnishings, Fixtures & Appliances",
+   "cik": "0000055529"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=44 A=32 B=44 C=80 (tier BASE)",
+   "cats": [],
+   "ticker": "RRX",
+   "mcap": 12067118199,
+   "band": "LARGE",
+   "fmp_name": "Regal Rexnord Corporation",
+   "industry": "Industrial - Machinery",
+   "cik": "0000082811"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=47 A=28 B=47 C=100 (tier BASE)",
+   "cats": [
+    "ai_infrastructure"
+   ],
+   "ticker": "UIS",
+   "mcap": 200154285,
+   "band": "MICRO",
+   "fmp_name": "Unisys Corporation",
+   "industry": "Information Technology Services",
+   "cik": "0000746838"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=56 A=32 B=56 C=80 (tier BASE)",
+   "cats": [],
+   "ticker": "VRRM",
+   "mcap": 321499035,
+   "band": "MICRO",
+   "fmp_name": "Verra Mobility Corporation",
+   "industry": "Information Technology Services",
+   "cik": "0001682745"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-04 (18:25 run): re-scored best=14 A=0 B=14 C=100 (tier BASE)",
+   "cats": [
+    "semiconductors"
+   ],
+   "ticker": "SEM",
+   "mcap": 2047431417,
+   "band": "MID",
+   "fmp_name": "Select Medical Holdings Corporation",
+   "industry": "Medical - Care Facilities",
+   "cik": "0001320414"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-04 (18:25 run): re-scored best=22 A=6 B=22 C=100 (tier BASE)",
+   "cats": [
+    "semiconductors"
+   ],
+   "ticker": "NAVI",
+   "mcap": 741830079,
+   "band": "MICRO",
+   "fmp_name": "Navient Corporation",
+   "industry": "Financial - Credit Services",
+   "cik": "0001593538"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 65,
+   "note": "2026-11-07 (13:40 run): re-scored best=18 A=18 B=8 C=50 (tier BASE)",
+   "cats": [
+    "quantum"
+   ],
+   "ticker": "SAI",
+   "mcap": 18478714,
+   "band": "MICRO",
+   "fmp_name": "SAI.TECH Global Corporation",
+   "industry": "Financial - Capital Markets",
+   "cik": "0001847075"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=46 A=34 B=46 C=80 (tier BASE)",
+   "cats": [
+    "semiconductors"
+   ],
+   "ticker": "EPC",
+   "mcap": 1363309662,
+   "band": "SMALL",
+   "fmp_name": "Edgewell Personal Care Company",
+   "industry": "Household & Personal Products",
+   "cik": "0001096752"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=42 A=42 B=0 C=20 (tier BASE)",
+   "cats": [
+    "ai_infrastructure"
+   ],
+   "ticker": "DIT",
+   "mcap": 59225379,
+   "band": "MICRO",
+   "fmp_name": "AMCON Distributing Company",
+   "industry": "Food Distribution",
+   "cik": "0000928465"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07: ENTITY REVIEW - profile Quantum Cyber N.V. vs live quote Mainz Biomed N.V. drift; not scored this cycle; status WATCH, hold",
+   "cats": [
+    "quantum"
+   ],
+   "ticker": "QUCY",
+   "mcap": 16299077,
+   "band": "MICRO",
+   "fmp_name": "Quantum Cyber N.V.",
+   "industry": "Medical - Diagnostics & Research",
+   "cik": "0001874252"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=12 A=12 B=0 C=20 (tier BASE)",
+   "cats": [
+    "semiconductors"
+   ],
+   "ticker": "ADIL",
+   "mcap": 13260745,
+   "band": "MICRO",
+   "fmp_name": "Adial Pharmaceuticals, Inc.",
+   "industry": "Biotechnology",
+   "cik": "0001513525"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 70,
+   "note": "2026-11-07 (13:40 run): re-scored best=46 A=46 B=20 C=50 (tier HIGH)",
+   "cats": [
+    "quantum",
+    "semiconductors"
+   ],
+   "ticker": "QBTS",
+   "mcap": 4357414908,
+   "band": "MID",
+   "fmp_name": "D-Wave Quantum Inc.",
+   "industry": "Computer Hardware",
+   "cik": "0001907982"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 80,
+   "note": "2026-11-07 (13:40 run): re-scored best=76 A=76 B=67 C=80 (tier HIGH)",
+   "cats": [
+    "materials_science",
+    "semiconductors"
+   ],
+   "ticker": "LSCC",
+   "mcap": 16263784285,
+   "band": "LARGE",
+   "fmp_name": "Lattice Semiconductor Corporation",
+   "industry": "Semiconductors",
+   "cik": "0000855658"
+  },
+  {
+   "status": "ACTIVE",
+   "conviction": 55,
+   "note": "2026-11-04 (18:25 run): re-scored best=53 A=53 B=8 C=100 (tier HIGH)",
+   "cats": [
+    "semiconductors"
+   ],
+   "ticker": "SMTC",
+   "mcap": 10871368488,
+   "band": "LARGE",
+   "fmp_name": "Semtech Corporation",
+   "industry": "Semiconductors",
+   "cik": "0000088941"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 90,
+   "note": "2026-11-07 (13:40 run): re-scored best=61 A=61 B=47 C=100 (tier HIGH)",
+   "cats": [
+    "materials_science",
+    "semiconductors"
+   ],
+   "ticker": "ON",
+   "mcap": 27105878969,
+   "band": "LARGE",
+   "fmp_name": "ON Semiconductor Corporation",
+   "industry": "Semiconductors",
+   "cik": "0001097864"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 45,
+   "note": "2026-11-07 (13:40 run): re-scored best=64 A=64 B=56 C=80 (tier BASE)",
+   "cats": [
+    "ai_infrastructure",
+    "quantum",
+    "semiconductors"
+   ],
+   "ticker": "ALAB",
+   "mcap": 37875267032,
+   "band": "MEGA",
+   "fmp_name": "Astera Labs, Inc. Common Stock",
+   "industry": "Semiconductors",
+   "cik": "0001736297"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 75,
+   "note": "2026-11-07 (13:40 run): re-scored best=54 A=54 B=2 C=60 (tier MODERATE)",
+   "cats": [
+    "energy"
+   ],
+   "ticker": "CEG",
+   "mcap": 98114799393,
+   "band": "MEGA",
+   "fmp_name": "Constellation Energy Corporation",
+   "industry": "Independent Power Producers",
+   "cik": "0001868275"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 35,
+   "note": "2026-11-07 (13:40 run): re-scored best=78 A=78 B=63 C=100 (tier HIGH)",
+   "cats": [
+    "semiconductors"
+   ],
+   "ticker": "LITE",
+   "mcap": 54558532921,
+   "band": "MEGA",
+   "fmp_name": "Lumentum Holdings Inc.",
+   "industry": "Communication Equipment",
+   "cik": "0001633978"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 35,
+   "note": "2026-11-06: re-scored best=45 A=45 B=32 C=100 (PROMO)",
+   "cats": [
+    "ai_infrastructure"
+   ],
+   "ticker": "NBIS",
+   "mcap": 34147200000,
+   "band": "MEGA",
+   "fmp_name": "Nebius Group N.V.",
+   "industry": "Software - Application",
+   "cik": "0001513845"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 35,
+   "note": "2026-11-07 (13:40 run): re-scored best=54 A=54 B=52 C=100 (tier BASE)",
+   "cats": [
+    "ai_infrastructure"
+   ],
+   "ticker": "NTAP",
+   "mcap": 34652239620,
+   "band": "MEGA",
+   "fmp_name": "NetApp, Inc.",
+   "industry": "Computer Hardware",
+   "cik": "0001002047"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 40,
+   "note": "2026-11-07 (13:40 run): re-scored best=64 A=64 B=54 C=100 (tier BASE)",
+   "cats": [
+    "ai_infrastructure",
+    "semiconductors"
+   ],
+   "ticker": "ALGM",
+   "mcap": 5807080620,
+   "band": "MID",
+   "fmp_name": "Allegro MicroSystems, Inc.",
+   "industry": "Semiconductors",
+   "cik": "0000866291"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 50,
+   "note": "2026-11-07 (13:40 run): re-scored best=42 A=42 B=0 C=0 (tier BASE)",
+   "cats": [
+    "semiconductors"
+   ],
+   "ticker": "XMAX",
+   "mcap": 387352745,
+   "band": "MICRO",
+   "fmp_name": "XMAX, Inc.",
+   "industry": "Furnishings, Fixtures & Appliances",
+   "cik": "0001473334"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 30,
+   "note": "2026-11-07 (13:40 run): re-scored best=32 A=32 B=14 C=70 (tier BASE)",
+   "cats": [
+    "ai_infrastructure"
+   ],
+   "ticker": "IREN",
+   "mcap": 8689763400,
+   "band": "MID",
+   "fmp_name": "IREN Limited",
+   "industry": "Software - Services",
+   "cik": "0001878848"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-04 (18:25 run): re-scored best=30 A=30 B=0 C=15 (tier BASE)",
+   "cats": [
+    "semiconductors"
+   ],
+   "ticker": "ATMS",
+   "mcap": 55792932,
+   "band": "MICRO",
+   "fmp_name": "Artemis Therapeutics Inc.",
+   "industry": "Shell Companies",
+   "cik": "0001062128"
+  },
+  {
+   "status": "ACTIVE",
+   "conviction": 0,
+   "note": "2026-11-06: re-scored best=58 A=58 B=37 C=100 (BASE)",
+   "cats": [
+    "ai_infrastructure"
+   ],
+   "ticker": "FPS",
+   "mcap": 6848128383,
+   "band": "MID",
+   "fmp_name": "Forgent Power Solutions, Inc.",
+   "industry": "Electrical Equipment & Parts",
+   "cik": "0002080126"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-06: re-scored best=30 A=15 B=30 C=100 (PROMO)",
+   "cats": [
+    "edge_robotics"
+   ],
+   "ticker": "SERV",
+   "mcap": 298707345,
+   "band": "MICRO",
+   "fmp_name": "Serve Robotics Inc.",
+   "industry": "Industrial - Machinery",
+   "cik": "0001832483"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=27 A=27 B=7 C=40 (tier BASE)",
+   "cats": [
+    "quantum"
+   ],
+   "ticker": "SKYQ",
+   "mcap": 8678309,
+   "band": "MICRO",
+   "fmp_name": "Sky Quarry Inc.",
+   "industry": "Oil & Gas Integrated",
+   "cik": "0001812447"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=62 A=62 B=61 C=90 (tier BASE)",
+   "cats": [
+    "quantum"
+   ],
+   "ticker": "RGTI",
+   "mcap": 4372403963,
+   "band": "MID",
+   "fmp_name": "Rigetti Computing, Inc.",
+   "industry": "Computer Hardware",
+   "cik": "0001838359"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=60 A=58 B=60 C=80 (tier BASE)",
+   "cats": [
+    "edge_robotics"
+   ],
+   "ticker": "CACI",
+   "mcap": 14144847060,
+   "band": "LARGE",
+   "fmp_name": "CACI International Inc",
+   "industry": "Information Technology Services",
+   "cik": "0000016058"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=52 A=52 B=46 C=80 (tier BASE)",
+   "cats": [
+    "ai_infrastructure"
+   ],
+   "ticker": "VST",
+   "mcap": 44849252932,
+   "band": "MEGA",
+   "fmp_name": "Vistra Corp.",
+   "industry": "Independent Power Producers",
+   "cik": "0001692819"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=58 A=58 B=53 C=90 (tier BASE)",
+   "cats": [
+    "semiconductors"
+   ],
+   "ticker": "ASTS",
+   "mcap": 15060610915,
+   "band": "LARGE",
+   "fmp_name": "AST SpaceMobile, Inc.",
+   "industry": "Telecommunications Services",
+   "cik": "0001780312"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=66 A=66 B=54 C=80 (tier HIGH)",
+   "cats": [
+    "semiconductors"
+   ],
+   "ticker": "ADBE",
+   "mcap": 92507002000,
+   "band": "MEGA",
+   "fmp_name": "Adobe Inc.",
+   "industry": "Software - Application",
+   "cik": "0000796343"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=46 A=46 B=39 C=100 (tier BASE)",
+   "cats": [
+    "energy"
+   ],
+   "ticker": "NU",
+   "mcap": 59707310972,
+   "band": "MEGA",
+   "fmp_name": "Nu Holdings Ltd.",
+   "industry": "Banks - Regional",
+   "cik": "0001691493"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=67 A=67 B=62 C=60 (tier HIGH)",
+   "cats": [
+    "semiconductors"
+   ],
+   "ticker": "CRDO",
+   "mcap": 25358472777,
+   "band": "LARGE",
+   "fmp_name": "Credo Technology Group Holding Ltd",
+   "industry": "Semiconductors",
+   "cik": "0001807794"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 70,
+   "note": "2026-11-07 (13:40 run): re-scored best=62 A=62 B=56 C=100 (tier BASE)",
+   "cats": [
+    "quantum"
+   ],
+   "ticker": "SAIC",
+   "mcap": 6274799306,
+   "band": "MID",
+   "fmp_name": "Science Applications International Corporation",
+   "industry": "Information Technology Services",
+   "cik": "0001571123"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=39 A=24 B=39 C=90 (tier BASE)",
+   "cats": [
+    "ai_infrastructure"
+   ],
+   "ticker": "APLD",
+   "mcap": 5060448788,
+   "band": "MID",
+   "fmp_name": "Applied Digital Corp.",
+   "industry": "Information Technology Services",
+   "cik": "0001144879"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=46 A=24 B=46 C=80 (tier BASE)",
+   "cats": [],
+   "ticker": "CRBG",
+   "mcap": 15818018814,
+   "band": "LARGE",
+   "fmp_name": "Corebridge Financial, Inc.",
+   "industry": "Asset Management",
+   "cik": "0001889539"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=46 A=46 B=46 C=80 (tier BASE)",
+   "cats": [
+    "ai_infrastructure"
+   ],
+   "ticker": "WULF",
+   "mcap": 6154778668,
+   "band": "MID",
+   "fmp_name": "TeraWulf Inc.",
+   "industry": "Financial - Capital Markets",
+   "cik": "0001083301"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=22 A=22 B=11 C=80 (tier BASE)",
+   "cats": [],
+   "ticker": "RAPP",
+   "mcap": 1254632205,
+   "band": "SMALL",
+   "fmp_name": "Rapport Therapeutics, Inc. Common Stock",
+   "industry": "Biotechnology",
+   "cik": "0002012593"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=12 A=12 B=12 C=15 (tier BASE)",
+   "cats": [
+    "semiconductors"
+   ],
+   "ticker": "MOBX",
+   "mcap": 11097954,
+   "band": "MICRO",
+   "fmp_name": "Mobix Labs, Inc.",
+   "industry": "Semiconductors",
+   "cik": "0001855467"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=66 A=66 B=52 C=100 (tier BASE)",
+   "cats": [
+    "semiconductors",
+    "software"
+   ],
+   "ticker": "RDDT",
+   "mcap": 19367300718,
+   "band": "LARGE",
+   "fmp_name": "Reddit, Inc.",
+   "industry": "Internet Content & Information",
+   "cik": "0001713445"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=46 A=26 B=46 C=85 (tier BASE)",
+   "cats": [
+    "ai_infrastructure"
+   ],
+   "ticker": "GTX",
+   "mcap": 3865143959,
+   "band": "MID",
+   "fmp_name": "Garrett Motion Inc.",
+   "industry": "Auto - Parts",
+   "cik": "0001735707"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=66 A=66 B=52 C=100 (tier BASE)",
+   "cats": [
+    "ai_infrastructure"
+   ],
+   "ticker": "JCI",
+   "mcap": 85882025617,
+   "band": "MEGA",
+   "fmp_name": "Johnson Controls International plc",
+   "industry": "Construction Materials",
+   "cik": "0000833444"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=49 A=49 B=48 C=100 (tier BASE)",
+   "cats": [],
+   "ticker": "TNC",
+   "mcap": 1283982783,
+   "band": "SMALL",
+   "fmp_name": "Tennant Company",
+   "industry": "Industrial - Machinery",
+   "cik": "0000097134"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=60 A=60 B=50 C=100 (tier BASE)",
+   "cats": [],
+   "ticker": "AEIS",
+   "mcap": 8950523680,
+   "band": "MID",
+   "fmp_name": "Advanced Energy Industries, Inc.",
+   "industry": "Hardware, Equipment & Parts",
+   "cik": "0000927003"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=20 A=20 B=10 C=70 (tier BASE)",
+   "cats": [],
+   "ticker": "RIG",
+   "mcap": 5802399400,
+   "band": "MID",
+   "fmp_name": "Transocean Ltd.",
+   "industry": "Oil & Gas Drilling",
+   "cik": "0001451505"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 65,
+   "note": "2026-11-07 (13:40 run): re-scored best=54 A=54 B=48 C=80 (tier BASE)",
+   "cats": [
+    "semiconductors"
+   ],
+   "ticker": "ADEA",
+   "mcap": 1800951980,
+   "band": "SMALL",
+   "fmp_name": "Adeia Inc.",
+   "industry": "Software - Application",
+   "cik": "0001803696"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 70,
+   "note": "2026-11-08: manually promoted to WATCH for full-depth deep-dive scoring (previously WIKI, missing from watchlist)",
+   "cats": [],
+   "ticker": "ESLT",
+   "mcap": 33994757538,
+   "band": "MEGA",
+   "fmp_name": "Elbit Systems Ltd.",
+   "industry": "Aerospace & Defense",
+   "cik": "0001027664"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 85,
+   "note": "2026-11-07 (13:40 run): re-scored best=50 A=30 B=50 C=100 (tier HIGH)",
+   "cats": [
+    "semiconductors"
+   ],
+   "ticker": "GFS",
+   "mcap": 22460382523,
+   "band": "LARGE",
+   "fmp_name": "GLOBALFOUNDRIES Inc.",
+   "industry": "Semiconductors",
+   "cik": "0001709048"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 50,
+   "note": "Pre-revenue equipment maker; no defense yet; SiC crystal niche emerging",
+   "cats": [
+    "materials_science"
+   ],
+   "ticker": "CVV",
+   "mcap": 29334064,
+   "band": "MICRO",
+   "fmp_name": "CVD Equipment Corporation",
+   "industry": "Industrial - Machinery",
+   "cik": "0000766792"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 65,
+   "note": "2026-11-07 (13:40 run): re-scored best=36 A=36 B=20 C=70 (tier BASE)",
+   "cats": [
+    "materials_science"
+   ],
+   "ticker": "NVTS",
+   "mcap": 2520852915,
+   "band": "MID",
+   "fmp_name": "Navitas Semiconductor Corp",
+   "industry": "Semiconductors",
+   "cik": "0001821769"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=42 A=39 B=42 C=80 (tier BASE)",
+   "cats": [],
+   "ticker": "BVS",
+   "mcap": 752189063,
+   "band": "MICRO",
+   "fmp_name": "Bioventus Inc.",
+   "industry": "Medical - Devices",
+   "cik": "0001665988"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=42 A=24 B=42 C=100 (tier BASE)",
+   "cats": [],
+   "ticker": "DXC",
+   "mcap": 2362381845,
+   "band": "MID",
+   "fmp_name": "DXC Technology Company",
+   "industry": "Information Technology Services",
+   "cik": "0001688568"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=49 A=49 B=45 C=100 (tier BASE)",
+   "cats": [],
+   "ticker": "FLR",
+   "mcap": 6736537192,
+   "band": "MID",
+   "fmp_name": "Fluor Corporation",
+   "industry": "Engineering & Construction",
+   "cik": "0001124198"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=46 A=46 B=46 C=100 (tier BASE)",
+   "cats": [],
+   "ticker": "IT",
+   "mcap": 12065247786,
+   "band": "LARGE",
+   "fmp_name": "Gartner, Inc.",
+   "industry": "Information Technology Services",
+   "cik": "0000749251"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=49 A=49 B=48 C=100 (tier BASE)",
+   "cats": [],
+   "ticker": "QRVO",
+   "mcap": 10072260072,
+   "band": "LARGE",
+   "fmp_name": "Qorvo, Inc.",
+   "industry": "Semiconductors",
+   "cik": "0001604778"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=38 A=18 B=38 C=80 (tier BASE)",
+   "cats": [],
+   "ticker": "TLS",
+   "mcap": 524278642,
+   "band": "MICRO",
+   "fmp_name": "Telos Corporation",
+   "industry": "Information Technology Services",
+   "cik": "0000320121"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=12 A=12 B=12 C=90 (tier BASE)",
+   "cats": [],
+   "ticker": "XTND",
+   "mcap": 22860357,
+   "band": "MICRO",
+   "fmp_name": "Xtend AI Robotics Inc",
+   "industry": "Engineering & Construction",
+   "cik": "0002111860"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=54 A=54 B=46 C=80 (tier BASE)",
+   "cats": [],
+   "ticker": "BALL",
+   "mcap": 17758924270,
+   "band": "LARGE",
+   "fmp_name": "Ball Corporation",
+   "industry": "Packaging & Containers",
+   "cik": "0000009389"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=46 A=45 B=46 C=80 (tier BASE)",
+   "cats": [],
+   "ticker": "FBIN",
+   "mcap": 6188192640,
+   "band": "MID",
+   "fmp_name": "Fortune Brands Innovations, Inc.",
+   "industry": "Construction Materials",
+   "cik": "0001519751"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=44 A=24 B=44 C=80 (tier BASE)",
+   "cats": [],
+   "ticker": "SDRL",
+   "mcap": 2665516301,
+   "band": "MID",
+   "fmp_name": "Seadrill Limited",
+   "industry": "Oil & Gas Drilling",
+   "cik": "0001737706"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=60 A=60 B=48 C=100 (tier BASE)",
+   "cats": [],
+   "ticker": "VRNS",
+   "mcap": 5643864806,
+   "band": "MID",
+   "fmp_name": "Varonis Systems, Inc.",
+   "industry": "Software - Infrastructure",
+   "cik": "0001361113"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 65,
+   "note": "2026-11-06: re-scored best=67 A=67 B=44 C=100 (BASE)",
+   "cats": [],
+   "ticker": "LRCX",
+   "mcap": 278298006743,
+   "band": "MEGA",
+   "fmp_name": "Lam Research Corporation",
+   "industry": "Semiconductors",
+   "cik": "0000707549"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=62 A=62 B=52 C=100 (tier BASE)",
+   "cats": [],
+   "ticker": "DDOG",
+   "mcap": 64316085581,
+   "band": "MEGA",
+   "fmp_name": "Datadog, Inc.",
+   "industry": "Software - Application",
+   "cik": "0001561550"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=60 A=60 B=50 C=100 (tier BASE)",
+   "cats": [],
+   "ticker": "ENTG",
+   "mcap": 21793864000,
+   "band": "LARGE",
+   "fmp_name": "Entegris, Inc.",
+   "industry": "Semiconductors",
+   "cik": "0001101302"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=66 A=66 B=56 C=100 (tier BASE)",
+   "cats": [],
+   "ticker": "GRMN",
+   "mcap": 56583047305,
+   "band": "MEGA",
+   "fmp_name": "Garmin Ltd.",
+   "industry": "Hardware, Equipment & Parts",
+   "cik": "0001121788"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=70 A=70 B=56 C=100 (tier BASE)",
+   "cats": [],
+   "ticker": "SWH",
+   "mcap": 11645002099,
+   "band": "LARGE",
+   "fmp_name": "Stanley Black & Decker, Inc.",
+   "industry": "Manufacturing - Tools & Accessories",
+   "cik": "0000093556"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=54 A=54 B=46 C=80 (tier BASE)",
+   "cats": [],
+   "ticker": "EOG",
+   "mcap": 77672278901,
+   "band": "MEGA",
+   "fmp_name": "EOG Resources, Inc.",
+   "industry": "Oil & Gas Exploration & Production",
+   "cik": "0000821189"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=46 A=24 B=46 C=80 (tier BASE)",
+   "cats": [],
+   "ticker": "DOX",
+   "mcap": 4484290763,
+   "band": "MID",
+   "fmp_name": "Amdocs Limited",
+   "industry": "Software - Infrastructure",
+   "cik": "0001062579"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=49 A=49 B=48 C=100 (tier BASE)",
+   "cats": [],
+   "ticker": "SHLS",
+   "mcap": 1500394500,
+   "band": "SMALL",
+   "fmp_name": "Shoals Technologies Group, Inc.",
+   "industry": "Solar",
+   "cik": "0001831651"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=46 A=46 B=14 C=50 (tier BASE)",
+   "cats": [],
+   "ticker": "BUUU",
+   "mcap": 583568805,
+   "band": "MICRO",
+   "fmp_name": "BUUU Group Ltd",
+   "industry": "Specialty Business Services",
+   "cik": "0002047273"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=46 A=39 B=46 C=80 (tier BASE)",
+   "cats": [],
+   "ticker": "OC",
+   "mcap": 10046299283,
+   "band": "LARGE",
+   "fmp_name": "Owens Corning",
+   "industry": "Construction Materials",
+   "cik": "0001370946"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=40 A=40 B=10 C=70 (tier BASE)",
+   "cats": [],
+   "ticker": "HUT",
+   "mcap": 7026379295,
+   "band": "MID",
+   "fmp_name": "Hut 8 Corp.",
+   "industry": "Financial - Capital Markets",
+   "cik": "0001964789"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=42 A=22 B=42 C=100 (tier BASE)",
+   "cats": [],
+   "ticker": "TWO",
+   "mcap": 1280541328,
+   "band": "SMALL",
+   "fmp_name": "Two Harbors Investment Corp.",
+   "industry": "REIT - Mortgage",
+   "cik": "0001465740"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=12 A=12 B=2 C=70 (tier BASE)",
+   "cats": [],
+   "ticker": "BIVI",
+   "mcap": 11175807,
+   "band": "MICRO",
+   "fmp_name": "BioVie Inc.",
+   "industry": "Biotechnology",
+   "cik": "0001580149"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=12 A=12 B=2 C=50 (tier BASE)",
+   "cats": [],
+   "ticker": "POLA",
+   "mcap": 1388894,
+   "band": "MICRO",
+   "fmp_name": "Polar Power, Inc.",
+   "industry": "Electrical Equipment & Parts",
+   "cik": "0001622345"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=14 A=14 B=0 C=30 (tier BASE)",
+   "cats": [],
+   "ticker": "SPIR",
+   "mcap": 373157100,
+   "band": "MICRO",
+   "fmp_name": "Spire Global, Inc.",
+   "industry": "Specialty Business Services",
+   "cik": "0001816017"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=12 A=12 B=12 C=90 (tier BASE)",
+   "cats": [],
+   "ticker": "BIVIW",
+   "mcap": 2255636,
+   "band": "MICRO",
+   "fmp_name": "BioVie Inc.",
+   "industry": "Biotechnology",
+   "cik": "0001580149"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=58 A=34 B=58 C=100 (tier BASE)",
+   "cats": [],
+   "ticker": "AMSC",
+   "mcap": 1245931995,
+   "band": "SMALL",
+   "fmp_name": "American Superconductor Corporation",
+   "industry": "Electrical Equipment & Parts",
+   "cik": "0000880807"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=60 A=60 B=48 C=100 (tier BASE)",
+   "cats": [],
+   "ticker": "HAE",
+   "mcap": 5407318450,
+   "band": "MID",
+   "fmp_name": "Haemonetics Corporation",
+   "industry": "Medical - Devices",
+   "cik": "0000313143"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=20 A=20 B=14 C=70 (tier BASE)",
+   "cats": [],
+   "ticker": "LAC",
+   "mcap": 455488405,
+   "band": "MICRO",
+   "fmp_name": "Lithium Americas Corp.",
+   "industry": "Industrial Materials",
+   "cik": "0001966983"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=18 A=18 B=10 C=50 (tier BASE)",
+   "cats": [],
+   "ticker": "METC",
+   "mcap": 351455162,
+   "band": "MICRO",
+   "fmp_name": "Ramaco Resources, Inc.",
+   "industry": "Coal",
+   "cik": "0001687187"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=46 A=24 B=46 C=80 (tier BASE)",
+   "cats": [],
+   "ticker": "ONT",
+   "mcap": 820869739,
+   "band": "MICRO",
+   "fmp_name": "Onterris, Inc.",
+   "industry": "Waste Management",
+   "cik": "0001643615"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=40 A=28 B=40 C=100 (tier BASE)",
+   "cats": [],
+   "ticker": "PUSA",
+   "mcap": 33379235,
+   "band": "MICRO",
+   "fmp_name": "Powerus Corp.",
+   "industry": "Aerospace & Defense",
+   "cik": "0002009312"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=18 A=18 B=0 C=70 (tier BASE)",
+   "cats": [],
+   "ticker": "TMC",
+   "mcap": 1164597672,
+   "band": "SMALL",
+   "fmp_name": "TMC the metals company inc.",
+   "industry": "Other Precious Metals",
+   "cik": "0001798562"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=60 A=60 B=46 C=80 (tier BASE)",
+   "cats": [],
+   "ticker": "TREX",
+   "mcap": 6002904450,
+   "band": "MID",
+   "fmp_name": "Trex Company, Inc.",
+   "industry": "Construction Materials",
+   "cik": "0001069878"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=46 A=39 B=46 C=80 (tier BASE)",
+   "cats": [],
+   "ticker": "TRMB",
+   "mcap": 12829554904,
+   "band": "LARGE",
+   "fmp_name": "Trimble Inc.",
+   "industry": "Hardware, Equipment & Parts",
+   "cik": "0000864749"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=18 A=18 B=0 C=50 (tier BASE)",
+   "cats": [],
+   "ticker": "UAMY",
+   "mcap": 507168373,
+   "band": "MICRO",
+   "fmp_name": "United States Antimony Corporation",
+   "industry": "Industrial Materials",
+   "cik": "0000101538"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 0,
+   "note": "2026-11-07 (13:40 run): re-scored best=20 A=20 B=17 C=40 (tier BASE)",
+   "cats": [],
+   "ticker": "ZENA",
+   "mcap": 41498844,
+   "band": "MICRO",
+   "fmp_name": "ZenaTech, Inc.",
+   "industry": "Information Technology Services",
+   "cik": "0001997403"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 70,
+   "note": "2026-11-08: manually promoted to WATCH for full-depth deep-dive scoring (previously WIKI, missing from watchlist)",
+   "cats": [],
+   "ticker": "BCO",
+   "mcap": 4722387640,
+   "band": "MID",
+   "fmp_name": "The Brink's Company",
+   "industry": "Security & Protection Services",
+   "cik": "0000078890"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 70,
+   "note": "2026-11-08: manually promoted to WATCH for full-depth deep-dive scoring (previously WIKI, missing from watchlist)",
+   "cats": [],
+   "ticker": "CRCT",
+   "mcap": 1839969198,
+   "band": "SMALL",
+   "fmp_name": "Cricut, Inc.",
+   "industry": "Computer Hardware",
+   "cik": "0001828962"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 70,
+   "note": "2026-11-08: manually promoted to WATCH for full-depth deep-dive scoring (previously WIKI, missing from watchlist)",
+   "cats": [],
+   "ticker": "DAKT",
+   "mcap": 968105045,
+   "band": "MICRO",
+   "fmp_name": "Daktronics, Inc.",
+   "industry": "Hardware, Equipment & Parts",
+   "cik": "0000915779"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 70,
+   "note": "2026-11-08: manually promoted to WATCH for full-depth deep-dive scoring (previously WIKI, missing from watchlist)",
+   "cats": [],
+   "ticker": "ADT",
+   "mcap": 6707463875,
+   "band": "MID",
+   "fmp_name": "ADT Inc.",
+   "industry": "Security & Protection Services",
+   "cik": "0001703056"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 70,
+   "note": "2026-11-08: manually promoted to WATCH for full-depth deep-dive scoring (previously WIKI, missing from watchlist)",
+   "cats": [],
+   "ticker": "BHE",
+   "mcap": 2286120597,
+   "band": "MID",
+   "fmp_name": "Benchmark Electronics, Inc.",
+   "industry": "Hardware, Equipment & Parts",
+   "cik": "0000863436"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 70,
+   "note": "2026-11-08: manually promoted to WATCH for full-depth deep-dive scoring (previously WIKI, missing from watchlist)",
+   "cats": [],
+   "ticker": "BRC",
+   "mcap": 3743495421,
+   "band": "MID",
+   "fmp_name": "Brady Corporation",
+   "industry": "Security & Protection Services",
+   "cik": "0000746598"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 70,
+   "note": "2026-11-08: manually promoted to WATCH for full-depth deep-dive scoring (previously WIKI, missing from watchlist)",
+   "cats": [],
+   "ticker": "ARLO",
+   "mcap": 1313958466,
+   "band": "SMALL",
+   "fmp_name": "Arlo Technologies, Inc.",
+   "industry": "Communication Equipment",
+   "cik": "0001736946"
+  },
+  {
+   "status": "WATCH",
+   "conviction": 70,
+   "note": "2026-11-08: manually promoted to WATCH for full-depth deep-dive scoring (previously WIKI, missing from watchlist)",
+   "cats": [],
+   "ticker": "AMTM",
+   "mcap": 5473276055,
+   "band": "MID",
+   "fmp_name": "Amentum Holdings, Inc.",
+   "industry": "Aerospace & Defense",
+   "cik": "0002011286"
+  },
+  {
+   "status": "VETTED",
+   "conviction": 80,
+   "note": "",
+   "cats": [],
+   "ticker": "VRT",
+   "mcap": 77212231200,
+   "band": "MEGA",
+   "fmp_name": "Vertiv Holdings Co",
+   "industry": "Electrical Equipment & Parts",
+   "cik": "0001674101"
+  },
+  {
+   "status": "VETTED",
+   "conviction": 65,
+   "note": "",
+   "cats": [],
+   "ticker": "BA",
+   "mcap": 137220631610,
+   "band": "MEGA",
+   "fmp_name": "The Boeing Company",
+   "industry": "Aerospace & Defense",
+   "cik": "0000012927"
+  },
+  {
+   "status": "VETTED",
+   "conviction": 65,
+   "note": "",
+   "cats": [],
+   "ticker": "LMT",
+   "mcap": 135785680723,
+   "band": "MEGA",
+   "fmp_name": "Lockheed Martin Corporation",
+   "industry": "Aerospace & Defense",
+   "cik": "0000936468"
+  },
+  {
+   "status": "VETTED",
+   "conviction": 65,
+   "note": "",
+   "cats": [],
+   "ticker": "MRVL",
+   "mcap": 136155405784,
+   "band": "MEGA",
+   "fmp_name": "Marvell Technology, Inc.",
+   "industry": "Semiconductors",
+   "cik": "0001835632"
+  }
+ ]
+}

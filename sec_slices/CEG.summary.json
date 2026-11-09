@@ -1,0 +1,24 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy Corp",
+  "filing_date": "2026-02-24",
+  "accession": "0001868275-26-000032",
+  "doc": "ceg-20251231.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/CEG_000186827526000032.html",
+  "raw_chars": 4811327,
+  "stripped_chars": 4433411,
+  "strip_saved": 377916,
+  "text_chars": 656763,
+  "headings_candidates": 2,
+  "headings_selected": 2,
+  "toc_dropped": 0,
+  "item_chars": {
+    "1": 0,
+    "1A": 0,
+    "7": 10033,
+    "8": 212
+  },
+  "total_chars": 10696,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/CEG.md"
+}

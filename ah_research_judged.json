@@ -1,0 +1,29 @@
+{
+  "generated": "2026-11-09T19:14:00Z",
+  "mode": "light",
+  "tickers": {
+    "NVTS": {
+      "material": 2,
+      "findings": [
+        {
+          "headline": "U.S. Government Selects Navitas to Develop Next-Generation 10 kV SiC Power Semiconductors",
+          "impact_direction": "positive",
+          "impact_level": "high",
+          "confidence": "high",
+          "summary": "Government contract selection for next-generation 10 kV silicon-carbide power semiconductors; concrete milestone for AI datacenter power infrastructure supply chain",
+          "next_check": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM1Rnb0xtQWhaREl0TjhvVmwyV0IwMmprNU9ma0ZBUEZQOWF4M2EwWmZlU1VJbjU5cXZKdUxfaGVHclJHeWNQeFNDdGVnUW5iWnRaMXFtanoxemRLVHZneC1sZncxTmlsTWs3b25UVkliRkM1Y1ZsU09kUC1JM1ZsdmJhQmhRa3IydllvcXhJUEFRXzg1N1h5TUd4a1RtZw?oc=5"
+        },
+        {
+          "headline": "Navitas Gains After Nvidia 800V Board Launch: AI Infrastructure Power Wall",
+          "impact_direction": "positive",
+          "impact_level": "medium",
+          "confidence": "medium",
+          "summary": "Navitas positioned in Nvidia 800V board supply for AI datacenter power infrastructure; confirms AI power chain positioning",
+          "next_check": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM2xSaXR1NUVzT0M1aDVTNFdxakF0d3VNNUhSUVBnUlUxc2xFQ2dKbHd3OVpjNDl5TWRFMTdJSmhmSFlQRk9OeU01UjR4WlpaaWtzZFViZ2pZQUstTTlDaXp6M0tHTEtzNEZZcDU5WlhpY3lpdzFIdlRQVUdpZmdfcEdpSGR0LUpRNTJOTERTdDVvX2c5Z3hhS1JSTkd1S2lK?oc=5"
+        }
+      ]
+    }
+  }
+}

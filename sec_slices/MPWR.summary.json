@@ -1,0 +1,24 @@
+{
+  "ticker": "MPWR",
+  "company": "MONOLITHIC POWER SYSTEMS, INC.",
+  "filing_date": "2026-02-27",
+  "accession": "0001437749-26-006113",
+  "doc": "mpwr20251231_10k.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/MPWR_000143774926006113.html",
+  "raw_chars": 2799303,
+  "stripped_chars": 2605828,
+  "strip_saved": 193475,
+  "text_chars": 386688,
+  "headings_candidates": 25,
+  "headings_selected": 18,
+  "toc_dropped": 7,
+  "item_chars": {
+    "1": 6032,
+    "1A": 5032,
+    "7": 3273,
+    "8": 9000
+  },
+  "total_chars": 23880,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/MPWR.md"
+}

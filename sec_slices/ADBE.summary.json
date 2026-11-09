@@ -1,0 +1,24 @@
+{
+  "ticker": "ADBE",
+  "company": "ADOBE INC.",
+  "filing_date": "2026-01-15",
+  "accession": "0000796343-26-000003",
+  "doc": "adbe-20251128.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/ADBE_000079634326000003.html",
+  "raw_chars": 2321285,
+  "stripped_chars": 2161117,
+  "strip_saved": 160168,
+  "text_chars": 355108,
+  "headings_candidates": 5,
+  "headings_selected": 5,
+  "toc_dropped": 0,
+  "item_chars": {
+    "1": 6032,
+    "1A": 0,
+    "7": 0,
+    "8": 0
+  },
+  "total_chars": 6322,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/ADBE.md"
+}

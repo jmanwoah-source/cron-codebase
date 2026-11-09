@@ -1,0 +1,24 @@
+{
+  "ticker": "CRDO",
+  "company": "Credo Technology Group Holding Ltd",
+  "filing_date": "2026-06-15",
+  "accession": "0001628280-26-043303",
+  "doc": "crdo-20260502.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/CRDO_000162828026043303.html",
+  "raw_chars": 1712543,
+  "stripped_chars": 1611458,
+  "strip_saved": 101085,
+  "text_chars": 375592,
+  "headings_candidates": 17,
+  "headings_selected": 17,
+  "toc_dropped": 0,
+  "item_chars": {
+    "1": 6032,
+    "1A": 5032,
+    "7": 10033,
+    "8": 1125
+  },
+  "total_chars": 22768,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/CRDO.md"
+}

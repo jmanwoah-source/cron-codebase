@@ -1,0 +1,236 @@
+{
+  "AMAT": {
+    "profile": {
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "marketCap": 291205820124,
+      "companyName": "Applied Materials, Inc."
+    },
+    "asof": "2026-11-04"
+  },
+  "ASML": {
+    "profile": {
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "marketCap": 578173236659,
+      "companyName": "ASML Holding N.V."
+    },
+    "asof": "2026-11-04"
+  },
+  "AVAV": {
+    "profile": {
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "marketCap": 5708181024,
+      "companyName": "AeroVironment, Inc."
+    },
+    "asof": "2026-11-04"
+  },
+  "AVGO": {
+    "profile": {
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "marketCap": 1560929229556,
+      "companyName": "Broadcom Inc."
+    },
+    "asof": "2026-11-04"
+  },
+  "AXTI": {
+    "profile": {
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "marketCap": 3026681864,
+      "companyName": "AXT, Inc."
+    },
+    "asof": "2026-11-04"
+  },
+  "CEG": {
+    "profile": {
+      "sector": "Utilities",
+      "industry": "Independent Power Producers",
+      "marketCap": 87537377761,
+      "companyName": "Constellation Energy Corporation"
+    },
+    "asof": "2026-11-04"
+  },
+  "COHR": {
+    "profile": {
+      "sector": "Technology",
+      "industry": "Hardware, Equipment & Parts",
+      "marketCap": 37801890105,
+      "companyName": "Coherent, Inc."
+    },
+    "asof": "2026-11-04"
+  },
+  "DRS": {
+    "profile": {
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "marketCap": 9513067332,
+      "companyName": "Leonardo DRS, Inc."
+    },
+    "asof": "2026-11-04"
+  },
+  "ETN": {
+    "profile": {
+      "sector": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "marketCap": 137256676000,
+      "companyName": "Eaton Corporation plc"
+    },
+    "asof": "2026-11-04"
+  },
+  "IIVI": {
+    "profile": {
+      "sector": "Technology",
+      "industry": "Hardware, Equipment & Parts",
+      "marketCap": 30513807103,
+      "companyName": "II-VI Incorporated"
+    },
+    "asof": "2026-11-04"
+  },
+  "KLAC": {
+    "profile": {
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "marketCap": 195665868864,
+      "companyName": "KLA Corporation"
+    },
+    "asof": "2026-11-04"
+  },
+  "LRCX": {
+    "profile": {
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "marketCap": 277528380761,
+      "companyName": "Lam Research Corporation"
+    },
+    "asof": "2026-11-04"
+  },
+  "MCHP": {
+    "profile": {
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "marketCap": 40843376109,
+      "companyName": "Microchip Technology Incorporated"
+    },
+    "asof": "2026-11-04"
+  },
+  "MPWR": {
+    "profile": {
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "marketCap": 62103974820,
+      "companyName": "Monolithic Power Systems, Inc."
+    },
+    "asof": "2026-11-04"
+  },
+  "MRVL": {
+    "profile": {
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "marketCap": 137705517163,
+      "companyName": "Marvell Technology, Inc."
+    },
+    "asof": "2026-11-04"
+  },
+  "NUS": {
+    "profile": {
+      "sector": "Consumer Defensive",
+      "industry": "Household & Personal Products",
+      "marketCap": 245816830,
+      "companyName": "Nu Skin Enterprises, Inc."
+    },
+    "asof": "2026-11-04"
+  },
+  "NVTS": {
+    "profile": {
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "marketCap": 2377251765,
+      "companyName": "Navitas Semiconductor Corp"
+    },
+    "asof": "2026-11-04"
+  },
+  "OKLO": {
+    "profile": {
+      "sector": "Utilities",
+      "industry": "Independent Power Producers",
+      "marketCap": 4116570438,
+      "companyName": "Oklo Inc."
+    },
+    "asof": "2026-11-04"
+  },
+  "ON": {
+    "profile": {
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "marketCap": 27520932753,
+      "companyName": "ON Semiconductor Corporation"
+    },
+    "asof": "2026-11-04"
+  },
+  "RCAT": {
+    "profile": {
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "marketCap": 621561226,
+      "companyName": "Red Cat Holdings, Inc."
+    },
+    "asof": "2026-11-04"
+  },
+  "SMCI": {
+    "profile": {
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "marketCap": 19610405250,
+      "companyName": "Super Micro Computer, Inc."
+    },
+    "asof": "2026-11-04"
+  },
+  "SWKS": {
+    "profile": {
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "marketCap": 12198828437,
+      "companyName": "Skyworks Solutions, Inc."
+    },
+    "asof": "2026-11-04"
+  },
+  "TER": {
+    "profile": {
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "marketCap": 39183744830,
+      "companyName": "Teradyne, Inc."
+    },
+    "asof": "2026-11-04"
+  },
+  "VRT": {
+    "profile": {
+      "sector": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "marketCap": 78806379600,
+      "companyName": "Vertiv Holdings Co"
+    },
+    "asof": "2026-11-04"
+  },
+  "WOLF": {
+    "profile": {
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "marketCap": 1195701562,
+      "companyName": "Wolfspeed Inc."
+    },
+    "asof": "2026-11-04"
+  },
+  "GFS": {
+    "profile": {
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "marketCap": 22175031951,
+      "companyName": "GLOBALFOUNDRIES Inc."
+    },
+    "asof": "2026-11-04"
+  }
+}

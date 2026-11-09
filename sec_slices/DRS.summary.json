@@ -1,0 +1,24 @@
+{
+  "ticker": "DRS",
+  "company": "Leonardo DRS, Inc.",
+  "filing_date": "2026-02-27",
+  "accession": "0001833756-26-000013",
+  "doc": "drs-20251231.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/DRS_000183375626000013.html",
+  "raw_chars": 2321627,
+  "stripped_chars": 2183393,
+  "strip_saved": 138234,
+  "text_chars": 456065,
+  "headings_candidates": 5,
+  "headings_selected": 3,
+  "toc_dropped": 2,
+  "item_chars": {
+    "1": 0,
+    "1A": 0,
+    "7": 0,
+    "8": 0
+  },
+  "total_chars": 258,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/DRS.md"
+}

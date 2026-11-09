@@ -1,0 +1,24 @@
+{
+  "ticker": "ONTO",
+  "company": "ONTO INNOVATION INC.",
+  "filing_date": "2026-02-24",
+  "accession": "0001193125-26-066937",
+  "doc": "onto-20260103.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/ONTO_000119312526066937.html",
+  "raw_chars": 4230069,
+  "stripped_chars": 4104671,
+  "strip_saved": 125398,
+  "text_chars": 434268,
+  "headings_candidates": 20,
+  "headings_selected": 18,
+  "toc_dropped": 2,
+  "item_chars": {
+    "1": 6032,
+    "1A": 5032,
+    "7": 10033,
+    "8": 0
+  },
+  "total_chars": 21647,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/ONTO.md"
+}

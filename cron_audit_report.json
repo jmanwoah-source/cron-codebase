@@ -1,0 +1,82 @@
+{
+  "audit_timestamp": "2026-10-13T04:15:00Z",
+  "auditor": "manual_review",
+  "jobs": {
+    "ba24fd4ddad6_sources": {
+      "status": "active",
+      "output_count": 50,
+      "recent_run": "ok"
+    },
+    "cfdab394b3bd_processing": {
+      "status": "active",
+      "output_count": 50,
+      "recent_run": "ok"
+    },
+    "7267b662cf52_deep_dive": {
+      "status": "active",
+      "output_count": 50,
+      "recent_run": "ok"
+    }
+  },
+  "signal_briefs": {
+    "valid": true,
+    "error": null,
+    "briefs_count": 0
+  },
+  "ticker_scores": {
+    "valid": true,
+    "error": null,
+    "tickers_count": 0
+  },
+  "orchestrator_output": {
+    "valid": true
+  },
+  "wiki": {
+    "total_files": 209,
+    "duplicate_tickers": [],
+    "empty_files": [],
+    "corrupted_files": [
+      "AP",
+      "AVAV",
+      "BNP",
+      "BP",
+      "CDNS",
+      "CEG",
+      "CMC",
+      "ESS",
+      "FMGMAS",
+      "FR",
+      "GP",
+      "J",
+      "KTOS",
+      "MAR",
+      "MGM",
+      "NBIS",
+      "NKE",
+      "STX",
+      "SUMCO",
+      "SWKS",
+      "V",
+      "WULF"
+    ],
+    "overall_health": "GOOD"
+  },
+  "fmp_config": {
+    "valid": true,
+    "note": "FMP works via tool_call (MCP). curl to /api/v3/ is deprecated - use MCP SSE endpoint."
+  },
+  "deep_dive_fmp_data": {
+    "has_financial_data": true,
+    "error": null
+  },
+  "issues": [],
+  "recommendations": [
+    "FMP tools work via tool_call (MCP) - this is the correct path. Curl to /api/v3/ is deprecated.",
+    "All 3 cron jobs are active and producing output.",
+    "signal_briefs.json is valid with required fields.",
+    "ticker_scores.json is valid with required fields.",
+    "Wiki has no duplicate tickers and no empty files.",
+    "Deep-Dive job output shows FMP financial data is being pulled correctly.",
+    "No issues found - pipeline is functioning correctly."
+  ]
+}

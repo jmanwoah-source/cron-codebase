@@ -1,0 +1,24 @@
+{
+  "ticker": "AMKR",
+  "company": "AMKOR TECHNOLOGY, INC.",
+  "filing_date": "2026-02-20",
+  "accession": "0001047127-26-000014",
+  "doc": "amkr-20251231.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/AMKR_000104712726000014.html",
+  "raw_chars": 2701369,
+  "stripped_chars": 2442172,
+  "strip_saved": 259197,
+  "text_chars": 366767,
+  "headings_candidates": 24,
+  "headings_selected": 18,
+  "toc_dropped": 6,
+  "item_chars": {
+    "1": 6032,
+    "1A": 5032,
+    "7": 10033,
+    "8": 0
+  },
+  "total_chars": 21649,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/AMKR.md"
+}

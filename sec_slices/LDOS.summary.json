@@ -1,0 +1,24 @@
+{
+  "ticker": "LDOS",
+  "company": "Leidos Holdings, Inc.",
+  "filing_date": "2026-02-17",
+  "accession": "0001336920-26-000030",
+  "doc": "ldos-20260102.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/LDOS_000133692026000030.html",
+  "raw_chars": 2736087,
+  "stripped_chars": 2540024,
+  "strip_saved": 196063,
+  "text_chars": 441773,
+  "headings_candidates": 28,
+  "headings_selected": 17,
+  "toc_dropped": 11,
+  "item_chars": {
+    "1": 6032,
+    "1A": 5032,
+    "7": 10033,
+    "8": 1260
+  },
+  "total_chars": 22891,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/LDOS.md"
+}

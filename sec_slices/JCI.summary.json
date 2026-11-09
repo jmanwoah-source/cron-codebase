@@ -1,0 +1,24 @@
+{
+  "ticker": "JCI",
+  "company": "Johnson Controls International plc",
+  "filing_date": "2025-11-14",
+  "accession": "0000833444-25-000097",
+  "doc": "jci-20250930.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/JCI_000083344425000097.html",
+  "raw_chars": 3101703,
+  "stripped_chars": 2701116,
+  "strip_saved": 400587,
+  "text_chars": 454838,
+  "headings_candidates": 4,
+  "headings_selected": 2,
+  "toc_dropped": 2,
+  "item_chars": {
+    "1": 0,
+    "1A": 5032,
+    "7": 10033,
+    "8": 0
+  },
+  "total_chars": 15449,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/JCI.md"
+}

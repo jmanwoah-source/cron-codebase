@@ -1,0 +1,24 @@
+{
+  "ticker": "RDDT",
+  "company": "Reddit, Inc.",
+  "filing_date": "2026-02-06",
+  "accession": "0001713445-26-000022",
+  "doc": "rddt-20251231.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/RDDT_000171344526000022.html",
+  "raw_chars": 2003264,
+  "stripped_chars": 1906708,
+  "strip_saved": 96556,
+  "text_chars": 439634,
+  "headings_candidates": 17,
+  "headings_selected": 17,
+  "toc_dropped": 0,
+  "item_chars": {
+    "1": 6032,
+    "1A": 5032,
+    "7": 10033,
+    "8": 9000
+  },
+  "total_chars": 29884,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/RDDT.md"
+}

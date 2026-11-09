@@ -1,0 +1,24 @@
+{
+  "ticker": "INFQ",
+  "company": "Infleqtion, Inc.",
+  "filing_date": "2026-03-31",
+  "accession": "0001193125-26-134544",
+  "doc": "d94946d10k.htm",
+  "cache": "/home/jaren/.hermes/cron/sec_cache/INFQ_000119312526134544.html",
+  "raw_chars": 1514862,
+  "stripped_chars": 1439219,
+  "strip_saved": 75643,
+  "text_chars": 482794,
+  "headings_candidates": 5,
+  "headings_selected": 3,
+  "toc_dropped": 2,
+  "item_chars": {
+    "1": 0,
+    "1A": 5032,
+    "7": 0,
+    "8": 9000
+  },
+  "total_chars": 14449,
+  "hard_cap": 30000,
+  "output": "/home/jaren/.hermes/cron/sec_slices/INFQ.md"
+}
